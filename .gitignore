@@ -12,9 +12,17 @@ venv/
 
 # Project data
 data/
-outputs/
+outputs/*
+!outputs/extractions/
+outputs/extractions/*
+!outputs/extractions/*.json
+!outputs/reports/
+outputs/reports/*
+!outputs/reports/batch_summary_50.json
+!outputs/reports/extraction_analysis_50.json
 *.pdf
 *.zip
+CLAUDE.md
 
 # IDE
 .idea/

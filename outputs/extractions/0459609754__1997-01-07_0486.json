@@ -1,0 +1,245 @@
+{
+  "source_file": "1997-01-07_0486.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Oprichting en statutenwijziging",
+      "deed_date": "1996-12-16",
+      "publication_date": "1997-01-07",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Amendment of articles of association, including provisions for financial year, profit distribution, and liquidation. The first financial year runs from December 16, 1996, to December 31, 1997. The company is exempt from appointing an auditor for the first financial year. Appointment of three directors: Hubert Fosseprez (chairman), Edward Spits, and Willy Van den Berckt (managing director). Special power of attorney granted to Willy Van den Berckt for administrative tasks.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "P. Kuijpers",
+          "party_type": "notary",
+          "role": "notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De Heer Hubert Fosseprez",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1996-12-16",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De Heer Edward Spits",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1996-12-16",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De Heer Willy Van den Berckt",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1996-12-16",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De Heer Hubert Fosseprez",
+          "party_type": "person",
+          "role": "chairman of the board",
+          "address": null,
+          "start_date": "1996-12-16",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De Heer Willy Van den Berckt",
+          "party_type": "person",
+          "role": "managing director",
+          "address": null,
+          "start_date": "1996-12-16",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Wijziging zetel, boekjaar en tijdstip jaarvergadering",
+      "deed_date": "1996-12-13",
+      "publication_date": "1997-01-07",
+      "publication_reference": "N. 970107 — 485",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Change of registered office from Keerbergen, Piervenshoek 27 to Bonheiden, Boeimeerstraat 26. Change of financial year end to October 31st. Change of annual meeting to the fourth Friday of April at 2 PM, with the first meeting in 1998.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Medical Development & Marketing, Consulting",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Boeimeerstraat 26",
+          "postal_code": null,
+          "city": "Bonheiden",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jacqueline Helderweirt",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Antwerpen, district Berchem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1996-12-18",
+      "publication_date": "1997-01-07",
+      "publication_reference": "N. 970107 — 486",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Foundation of a private limited liability company 'PHARMA PARTNERS' by Hilda Elisabeth Louise Meers and Carl Louis Jozef Johan Smets. Capital of 750,000 BEF, 250,000 BEF paid up. Registered office at Interleuvenlaan 62, 3001 Leuven (Heverlee). Corporate purpose includes real estate activities, intermediary services, legal/financial/technical advice, and pharmacy acquisition mediation.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "PHARMA PARTNERS",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Interleuvenlaan 62",
+          "postal_code": "3001",
+          "city": "Leuven (Heverlee)",
+          "country": "Belgium",
+          "corporate_purpose": "Het verkrijgen, vervreemden, administreren, exploiteren, huren en verhuren van onroerende goederen. Het verkopen van onroerende goederen, het optreden als tussenpersoon bij de aan- en verkoop en bij het verhuren van onroerende goederen en overlating van handelsfondsen. Het doen van aanbestedingen, het verstrekken van juridische, financiële en technische adviezen, bemiddelen bij overnames van apotheken zowel onder de vorm van een vennootschap als onder de vorm van een éénmanszaak. Zij mag haar maatschappelijk doel zowel in België als in het buitenland uitoefenen en nastreven, zowel rechtstreeks als onrechtstreeks, zowel voor eigen rekening als voor rekening en op risico van derden. Zij mag de opdracht van bestuurder of vereffenaar van andere vennootschappen uitoefenen.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Luc Talloen",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Mevrouw Hilda Elisabeth Louise MEERS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3001 Leuven (Heverlee), Middelweg 66/13",
+          "start_date": "1996-12-18",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De heer Carl Louis Jozef Johan SMETS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3001 Leuven (Heverlee), Middelweg 66/13",
+          "start_date": "1996-12-18",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Mevrouw Hilda MEERS",
+          "party_type": "person",
+          "role": "statutory manager",
+          "address": "3001 Leuven (Heverlee), Middelweg 66/13",
+          "start_date": "1996-12-18",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1996-12-23",
+      "publication_date": "1997-01-07",
+      "publication_reference": "N. 970107 — 487",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Foundation of a public limited liability company 'CEPECO' by Hugo Jules Maria Claes, Hilde Maria Cornèlie Philips, and Louis Eugeen Jozef Philips. Capital of 2,500,000 BEF, represented by 250 shares. Registered office at Nachtegaalstraat 50, 3110 Rotselaar. Corporate purpose includes acquiring shares, management tasks, real estate activities, investing in movable assets, and providing financial, commercial, and social advice.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "CEPECO",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Nachtegaalstraat 50",
+          "postal_code": "3110",
+          "city": "Rotselaar",
+          "country": "Belgium",
+          "corporate_purpose": "A. Het verwerven, onderschrijven, kopen en verkopen van aandelen, deelbewijzen en obligaties van om het even welke vennootschap, vereniging en onderneming. De vennootschap kan om het even welke management-, organisatie- of bestuursopdracht aanvaarden en in het raam van de uitvoering ervan alle activiteiten stellen, welke hiervoor noodzakelijk zijn. B. De aankoop, de verkoop, de opbouw, de verbouwing, de ruil, de vernieuwing, de financiering, de afbraak, het verhuren en huren, het leasen, beheren en promoveren van gebouwen, alsook het kopen, verkopen, ruilen, verhuren, huren, leasen, valoriseren en verkavelen van gronden en terreinen. C. Het uitsluitend voor eigen rekening beleggen, het besturen en uitbaten van roerende waarden en bezittingen. D. Het aankopen, verkopen, ruilen en vervreemden van roerende en onroerende aktiva- en passivabestanddelen van bestaande, in vereffening gestelde, concordataire of gefailleerde handelsvennootschappen. E. Het voeren van een studie, organisatie- en raadgevend bureau inzake financiële, handels- of sociale aangelegenheden, omvattende bedrijfsorganisatie, bedrijfsadvies en marketing. Het voeren van een bureau voor nijverheidsstudiën, publiciteitsonderneming. Kantoor voor mechanografische werken en expertisekantoor. F. Alle diensten of prestaties voortvloeiend, rechtstreeks of onrechtstreeks uit een of ander deel van hogergenoemde maatschappelijke bezigheden. De vennootschap mag in België en in het buitenland alle roerende en onroerende, commerciële, industriële en financiële handelingen stellen, die rechtstreeks of onrechtstreeks verband houden met haar doel. Zij mag eveneens belangen nemen bij wijze van inbreng, inschrijving, financiële tussenkomst of anderszins, in alle ondernemingen, verenigingen of vennootschappen die een gelijkaardig, analoog of aanverwant doel nastreven of wier doel van aard is dat van de vennootschap te bevorderen. De vennootschap kan zich borgstellen of haar aval verlenen, voorschotten toestaan en kredieten verlenen, hypothecair of andere zekerheden verstrekken.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Benoît De Cisene",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De heer CLAES Hugo Jules Maria",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3110 Rotselaar, Nachtegaalstraat 50",
+          "start_date": "1996-12-23",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Mevrouw PHILIPS Hilde Maria Cornèlie",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3110 Rotselaar, Nachtegaalstraat 50",
+          "start_date": "1996-12-23",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "De heer PHILIPS Louis Eugeen Jozef",
+          "party_type": "person",
+          "role": "subscriber",
+          "address": "3230 Begijnendijk (Betekom), Pastoor Pitetlaan 25",
+          "start_date": "1996-12-23",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

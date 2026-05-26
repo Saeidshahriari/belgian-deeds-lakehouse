@@ -1,0 +1,128 @@
+{
+  "source_file": "1997-11-26_0109.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "4 novembre 1997",
+      "publication_date": "26 novembre 1997",
+      "publication_reference": "N. 971126 — 109",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution d'une société privée à responsabilité limitée dénommée \"LUCAS MANAGEMENT CONSULTING\".",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "LUCAS MANAGEMENT CONSULTING",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Rue de la Vallée, 32",
+          "postal_code": "1050",
+          "city": "Ixelles",
+          "country": null,
+          "corporate_purpose": "Conseil en gestion èt en ressources humaines, notamenttécrutement de cadres on Belgique et à l'étranger. La sociéié pourra Agir comme Société liquidsteur où Béminstateur dans d'autres soc Td. La société pourra fülre toutes Opérations indusmiellés, commerciales, financières où civiles, mobilières où immobilières se rapportant directement où indirectement entout ou en partie à son objet social. Elle pourra également s’inféresser par toutes voies dans toutes affaires, entreprises ou sociëtés existantes ou à créer, ayant un objet identique, analogue où connexe au sien, ou qué soient de nature à Favoriser le développement de son entreprise ou qui seraient utiles à la réalisation de tout ou partie. deson bbjet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Liliane PANNEELS",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Woluwe-Saint-Pierre",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "LUCAS Jean-Michel Louis Marie Alberthislain",
+          "party_type": "person",
+          "role": "Associé fondateur",
+          "address": "Ixelles, rue de la Vallée, 32",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "THUYSBAERT Caroline Gilberte Eric Marie Ghislaine",
+          "party_type": "person",
+          "role": "Associée fondatrice",
+          "address": "Ixelles, rue de la Vallée",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Lucas",
+          "party_type": "person",
+          "role": "Gérant",
+          "address": null,
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "2 november 1997",
+      "publication_date": "26 november 1997",
+      "publication_reference": "N. 971126 — 110",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid genaamd \"HANOOB\".",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "HANOOB",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Heldergemstraat 14",
+          "postal_code": "9450",
+          "city": "Haaltert",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 250000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Guy WALRAEVENS",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Herzele",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Martine MENSCHAERT",
+          "party_type": "person",
+          "role": "Vennoot",
+          "address": "Heldergem, Heldergemstraat 14",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Van der Veken",
+          "party_type": "person",
+          "role": "Vennoot",
+          "address": "Heldergem, Heldergemstraat 14",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

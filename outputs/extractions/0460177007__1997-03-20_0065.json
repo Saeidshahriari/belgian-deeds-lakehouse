@@ -1,0 +1,193 @@
+{
+  "source_file": "1997-03-20_0065.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION - NOMINATION",
+      "deed_date": "1997-03-06",
+      "publication_date": "1997-03-20",
+      "publication_reference": "N. 970320 — 64",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named QUENTELO, with its registered office at Avenue du Frêne, 33 à 1020 Bruxelles. Its object includes wholesale and retail trade of textiles, clothing, decoration, furniture, leather goods, stationery, gifts, toys, and provision of services in human, administrative, and commercial management, organization, marketing, commercial intermediation, and various reproduction works. The capital is 760,000 francs. Madame Marie Anne Zoé José LESURE is appointed as manager for an indefinite duration.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "QUENTELO",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "Avenue du Frêne, 33",
+          "postal_code": "1020",
+          "city": "Bruxelles",
+          "country": "Belgique",
+          "corporate_purpose": "L'achat, la vente, de manière générale, le commerce en gros et en détail, la distribution de tous produits textiles, effets d’habillement, articles et produits de décoration, d'ameublement, de maroquinerie, de papeterie, de cadeaux et jouets. La prestation de tous services et la dation de tous conseils en matière de gestion humaine, administrative et commerciale, d'organisation, de marketing, d'intermédiaire commercial. Tous travaux de dactylographie, de traduction, de reproduction par quelque procédé que ce soit. Toutes opérations commerciales, industrielles, mobilières, immobilières ou financières se rattachant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter directement ou indirectement, entièrement ou partiellement, la réalisation. S'intéresser par voie d'apport, de fusion, de souscription, d'intervention financière ou par tout autre mode, y compris la gestion ou l’exercice de mandat de gérant ou d'administrateur, dans toutes sociétés, affaires, associations ou entreprises ayant, en tout ou en partie, un objet similaire ou connexe au sien ou susceptible d'en favoriser l'extension et le développement.",
+          "capital_amount": 760000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Pierre-Paul vander BORGHT",
+          "party_type": "notary",
+          "role": "notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mae Piere- Paul vander BORGHT, notaire à la résidence de SRE Marie Anne Zoé José LESURE"
+        },
+        {
+          "name": "Marie Anne Zoé José LESURE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "SRE Marie Anne Zoé José LESURE, épouse de Monsieur Pierre VANGYTE, demeurant à Bruxelles"
+        },
+        {
+          "name": "Pierre Albert Léon Robert VANGYTE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Bruxelles, avenue du Frêne, 33",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Pierre Albert Léon Robert VANGYTE, directeur, d'établissement, demeurant à Bruxelles, avenue du Frêne, 33"
+        },
+        {
+          "name": "Madame LESURE",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De fixer le nombre de gérant à un et d'appeler à ces fonctions Madame LESURE, comparante prénommée, mandat qui commence le jour du dépôt des présents statuts au Greffe du Tribunal de Commerce, lui est confié pour une durée indéterminée."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "1997-03-04",
+      "publication_date": "1997-03-20",
+      "publication_reference": "N. 970320 — 65",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a cooperative limited liability company named DECAGO, with its registered office at Anderlecht, rue Démosthène, 130. Its object includes management and exploitation of taverns, small catering, transport of small parcels, import/export, and related financial/commercial operations. The fixed part of the capital is 750,000 francs. Olivier CARLIER, Roger GOETHALS, and Alain DECLERCK are appointed as administrators.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DECAGO",
+          "legal_form": "SOCIETE COOPERATIVE A RESPONSABILITE LIMITÉE",
+          "registered_office_address": "rue Démosthène, 130",
+          "postal_code": "1070",
+          "city": "Anderlecht",
+          "country": "Belgique",
+          "corporate_purpose": "La gestion et l'exploitation de tavernes et la réalisation d'activités de petite restauration. Le transport de petits colis, l'activité d'importation et d'exportation dans son sens le plus large et quels que soient les produits. Accomplir toutes opérations financières et commerciales directement ou indirectement à son objet social. Effectuer toutes opérations généralement quelconques, commerciales, se rattachant directement ou indirectement, à son objet social, ou de nature à lui procurer un avantage quelconque en vue de son développement, tant en Belgique qu’à l'étranger. S’intéresser, par voie d'association, d'apport, de fusion, de souscription, d'achat, de participation ou d'intervention financière ou autres, à toute société ou entreprise existante ou à créer, en Belgique ou à l'étranger, dont l’objet serait analogue ou connexe au sien ou susceptible d'accroître son activité sociale.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Pierre VAN DEN EYNDE",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Saint-Josse-ten-Noode",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Maître Pierre VAN DEN EYNDE. notaire. résidant à Saint-Josse-ten-Noode."
+        },
+        {
+          "name": "Olivier CARLIER",
+          "party_type": "person",
+          "role": "founder, administrator",
+          "address": "Anderlecht, rue Démosthène, 130",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Olivier CARLIER. emplové, domicilié à. Anderlecht, rue Démosthène. 130"
+        },
+        {
+          "name": "Roger GOETHALS",
+          "party_type": "person",
+          "role": "founder, administrator",
+          "address": "Vilvoorde, Hendrik I lei, 38",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Roger GOETHALS. yérant de société. domicilié à Vilvoorde. Hendrik | lei. 38,"
+        },
+        {
+          "name": "Alain DECLERCK",
+          "party_type": "person",
+          "role": "founder, administrator",
+          "address": "IXELLES, rue Georges Lorand, 46",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Alain DECLERCK. administrateur, domicilié à IXELLES, rue Georges Lorand, 46"
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "1997-03-06",
+      "publication_date": "1997-03-20",
+      "publication_reference": "N. 970320 — 66",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named TTB, with its registered office at Uccle (1180 Bruxelles), rue Marie Depage, 63, boîte 4. Its object includes the elaboration, fabrication, import/export, purchase, and wholesale of communication and security systems, purchase/sale of licenses and patents, development of automated teaching systems, organization of seminars, real estate activities, information, advertising, publishing, and the creation, management, and financing of various enterprises.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TTB",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "rue Marie Depage, 63, boîte 4",
+          "postal_code": "1180",
+          "city": "Uccle",
+          "country": "Belgique",
+          "corporate_purpose": "L'élaboration et la fabrication, l'importation et l'exportation, l'achat, la vente en gros, en ce compris toutes opérations de courtage, intermédiaire et autres, de systèmes de communication et de sécurité au sens le plus large du terme. La société pourra notamment élaborer, installer, exploiter, entretenir et réparer tous systèmes de sécurité, au sens le plus large du terme; l'achat, la vente de licences et brevets; l'élaboration et la mise en oeuvre de systèmes automatisés d'enseignement, l'organisation de séminaires; l'achat, la vente, l'aménagement, la construction, la transformation, la rénovation, la location, l'entretien, la sous-location et la gestion de biens immeubles; toutes activités en matière d'information, de publicité et d'édition; la création, la gestion et le financement, sous quelque forme que ce soit, de toutes entreprises minières, industrielles, commerciales, immobilières et de service, ainsi que la gestion et la mise en valeur, à titre permanent ou temporaire, du portefeuille créé à cet effet.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Didier Gyselinck",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Maître Didier Gyselinck, notaire à Bruxelles"
+        },
+        {
+          "name": "Oleg POLICHTCHOUK",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Uccle, rue Marie Depage, 63, boîte 4",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Oleg POLICHTCHOUK, administrateur de sociétés, demeurant à Uccle, rue Marie Depage, 63, boîte 4, lequel déclare être de nationalité russe"
+        },
+        {
+          "name": "François Bernard Louis Joseph Ghislain de WILDE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Bousval, Drève Micheline, 34",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur François Bernard Louis Joseph Ghislain de WILDE, entrepreneur, demeurant à Bousval, Drève Micheline, 34"
+        }
+      ]
+    }
+  ]
+}

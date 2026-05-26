@@ -1,0 +1,287 @@
+{
+  "source_file": "1997-12-16_0407.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "BENOEMING DIRECTEUR",
+      "deed_date": "30.09.1997",
+      "publication_date": "16 december 1997",
+      "publication_reference": "N. 971216 — 406",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Appointment of Mr. Bruno ROTTERMANS as director for daily technical and commercial management, effective 01.01.1997.",
+      "companies": [
+        {
+          "enterprise_number": "0460.696.649",
+          "company_name": "K. DISTRIBUTION",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "LÄNKEBEBKSE DREEF 13",
+          "postal_code": "1640",
+          "city": "SINT GENESIUS RODE",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Bruno ROTTERMANS",
+          "party_type": "person",
+          "role": "director for daily technical and commercial management",
+          "address": null,
+          "start_date": "01.01.1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Met. éénparigheid van stemmen beslist deAlgemene Vergadering te benoemen alsdirecteur voor het dagelijks techaischen commercieel beheer de Heer Bruno ROTTERMANS en dit vanaf 01.01.1997."
+        },
+        {
+          "name": "Steuns, G.",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get.) Steuns, G.,gedelegeerd bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "VERSLAGEN VAN DE ZAAKVOERDER EN DE BENRIJFS-REVISOR",
+      "deed_date": null,
+      "publication_date": "16 december 1997",
+      "publication_reference": "N. 971216 — 407",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Deposit of reports from the manager and auditor in application of Article 120 of the coordinated laws on commercial companies.",
+      "companies": [
+        {
+          "enterprise_number": "0460.696.649",
+          "company_name": "K. DISTRIBUTION",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "LÄNKEBEBKSE DREEF 13",
+          "postal_code": "1640",
+          "city": "SINT GENESIUS RODE",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "trois décembre mil neuf cent nonante-Sept",
+      "publication_date": "16 décembre 1997",
+      "publication_reference": "N. 971216 — 407",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'GPC CONSULTING' by Mr. Georges Paul CLENE and Ms. Emmanuelle Marie Pierre Dominique CLENE. Registered office in Ixelles, corporate purpose related to insurance portfolio management and development, unlimited duration, capital of 750,000 BEF, administered by one or more managers. Mr. Georges Paul CLENE appointed as manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "GPC CONSULTING",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "rue du Mail, 8",
+          "postal_code": "1050",
+          "city": "Ixelles (Bruxelles)",
+          "country": null,
+          "corporate_purpose": "d'offrir tous services et de donner tous conseils permettant lagestion et le. développement de portes-feuilles d'assurances.„Elle peut s'intéresser par voie de souscription, apport,prise de participation, fusion, gérance, ou autre manière,dans toutes affaires, sociétés ou entreprises ou associationsayant une activité et un, objet identiques, analogues, ”connexes ou complémentaires ou qui sont de nature àfavoriser le développement de son entreprise.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Corinne DUPONT",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "NHun acte reçu par le Notaire Corinne DUPONT, à Bruxel-les, le trois décembre mil neuf cent nonante-Sept"
+        },
+        {
+          "name": "Georges Paul CLENE",
+          "party_type": "person",
+          "role": "founder, manager",
+          "address": "Saint Germain en Laye (France), 121 ter. rue Leon Desover",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "1° MonsieurGeorges Paul ENE, independant. demeurant à Saint Germanen Lave (France), 121 ter. rue Leon Desover"
+        },
+        {
+          "name": "Emmanuelle Marie Pierre Dominique CLENE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Saint Germain en Laye (France), rue Pereire, 37 mais residant a Saint German en Lave, 121 ter, rue LéonDesoyer",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "2° Mademor-selle Emmanuelle Marie Pierre Dominique CLENE. étudiante.demeurant a Saint Germain en Laye (France), rue Pereire, 37mais residant a Saint German en Lave, 121 ter, rue LéonDesoyer ont constitué"
+        },
+        {
+          "name": "BENEPORT",
+          "party_type": "company",
+          "role": "authorized representative",
+          "address": "1030 Bruxelles.avenue Adolphé Lacombié, 66",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "L'assemblée confère tous pouvoirs à la société anonymeBENEPORT ayant son siege social à 1030 Bruxelles.avenue Adolphé Lacombié, 66, et/ou ses representants avecouvoir de substitution aux fins de fatre le necessaire quantà l'inscription au cegistre de commerce et de remplir lesformahtés aupres de l'administration de ia Taxe sur laValeur Aloutée si] v a lieu."
+        }
+      ]
+    },
+    {
+      "deed_type": "WIJZIGING MAATSCHAPPELIJKE ZETEL",
+      "deed_date": "14/08/1997",
+      "publication_date": "16 december 1997",
+      "publication_reference": "N. 971216 — 408",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Decision by the extraordinary general meeting of shareholders to transfer the registered office from Haachtsesteenweg 1628, 1130 Brussel to Leuvensesteenweg 613, 1930 Zaventem.",
+      "companies": [
+        {
+          "enterprise_number": "0452.190.640",
+          "company_name": "UEFIZI",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Leuvensesteenweg 613, 1930 Zaventem",
+          "postal_code": "1930",
+          "city": "Zaventem",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": null,
+          "party_type": "person",
+          "role": "afgevaardigd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Onleesbaar handtekening),afgevaardigd bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Assemblée générale extraordinaire",
+      "deed_date": "26 novembre 1997",
+      "publication_date": "16 décembre 1997",
+      "publication_reference": "N. 971216 — 409",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Decision to transfer the registered office and operating office to 7, rue des Foulons - 1000 Bruxelles, and to suppress the branch at 10, rue de l'Ecole à Molenbeek St Jean. Transfer of 450 shares from Mme THOULI Ouafae to Mr SAMADI Ahmed. Mme THOULI Ouafae resigns as manager and is discharged. Mr SAMADI Ahmed is appointed new manager. Mme THOULI Ouafae is delegated daily management.",
+      "companies": [
+        {
+          "enterprise_number": "0453.661.971",
+          "company_name": "LES AMIS",
+          "legal_form": "Société Privé à Responsabilité Limitée",
+          "registered_office_address": "7, rue des Foulons - 1000 Bruxelles",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "THOULI Ouafae",
+          "party_type": "person",
+          "role": "shareholder, resigning manager, daily manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mne THOULI Ouafae cèdeattestation bancaire, extrait analytique sur timbre. 450 parts à Mr SAMADI Ahmed"
+        },
+        {
+          "name": "SAMADI Ahmed",
+          "party_type": "person",
+          "role": "shareholder, new manager",
+          "address": "32, rue du Dam à 1000 Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "450 parts à Mr SAMADI Ahmed, domicilie au 32,rue du Dam à 1000 Bruxelles"
+        },
+        {
+          "name": "Samadi, Ahmed",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Samadi, Ahmed,-gérant."
+        }
+      ]
+    },
+    {
+      "deed_type": "Verlening van volmachten",
+      "deed_date": "11 september 1997",
+      "publication_date": "16 december 1997",
+      "publication_reference": "N. 971216 — 410",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Granting of special powers of attorney with right of substitution to Mr. Benoit Marinus and INTERFIDUCIAIRE s.c.p.r.l. for publication formalities in the Belgian Official Gazette and modification of commercial register inscription. Also, general power of attorney to INTERFIDUCIAIRE s.c.p.r.l. for accounting formalities.",
+      "companies": [
+        {
+          "enterprise_number": "0405.257.684",
+          "company_name": "EXCELSIOR",
+          "legal_form": "SOCIETE ANONYME COMMERCIALE, INDUSTRIELLE ET MARITIME",
+          "registered_office_address": "Steenweg op Roodebeek 291, 1200 Sint-Lambrechts-Woluwe",
+          "postal_code": "1200",
+          "city": "Sint-Lambrechts-Woluwe",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Benoit Marinus",
+          "party_type": "person",
+          "role": "special proxy",
+          "address": "Dielmanlaan 8 te 2530 Boechout",
+          "start_date": null,
+          "end_date": "31 december 1997",
+          "confidence": null,
+          "raw_context": "Bijzondere volmacht met recht van indeplaatsstellingwordt verleend aan de Heer Benoit Marinus,gedomicilieerd Dielmanlaan 8 te 2530 Boechout, teneindede nodige formaliteiten te vervullen aangaande publicatiesin het Belgisch Staatsblad en om wijziging te vorderenvan de inschrijving in het handelsregister op de griffievan de bevoegde rechtbank van koophandel. Dezebijzondere volmacht vervalt op 31 december 1997."
+        },
+        {
+          "name": "INTERFIDUCIAIRE s.c.p.r.l.",
+          "party_type": "company",
+          "role": "special proxy, authorized representative for accounting",
+          "address": "1200 Brussel, Steenweg op Roodebeek 291",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Bijzondere volmacht. met recht van indeplaatsstellingwordt verleend aan INTERFIDUCIAIRE s.c.p.r.l.,waarvan de maatschappelijke zetel gevestigd is te 1200Brussel, Steenweg op Roodebeek 291"
+        },
+        {
+          "name": "Roland MORLIE",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "vertegenwoordigd door de Heer Roland MORLIE,zaakvoerder"
+        }
+      ]
+    }
+  ]
+}

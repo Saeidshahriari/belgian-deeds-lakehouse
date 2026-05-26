@@ -1,0 +1,128 @@
+{
+  "source_file": "1997-07-10_0254.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "26 juni 1997",
+      "publication_date": "10 juli 1997",
+      "publication_reference": "N. 970710 — 254",
+      "form_reference": null,
+      "language": "nl",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "VAN NOYEN",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Werfheide 45",
+          "postal_code": "1981",
+          "city": "Zemst-Hofstade",
+          "country": null,
+          "corporate_purpose": "zowel voor eigen rekening als voor rekening van derden, het vervoer over de weg van aîle soorten goederen, met alle soorten vervoermiddelen, ín binnen- en buitenlands- zowel het Vervoer van ongevaarlijke produkten als gevaarlijke produkten zoals gassen en chemicaliën; de afhaling, opslag, overslag, groupage, en distributie van allerlei soorten goederen, hun onderhoud en herstelling, hun financiering en verzekering; koerler service; in de ruimste betekenis : \"transportbedrijf\"; \"landbouw\" in de ruimste betekenis. tussenpersoon in de handel. Alle kom-merciële, industriëte,: financiële, roerende en onroerendeverrichtingen in rechtstreeks of onrechtstreeks, geheel. ofgedeeltelijk verband met het maatschappelijk doel, of vanaard de verwezenlijkiag ervan te vergemakkelijken of uit tebraiden.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Paul SCHOTTE",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Mechelen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Frankie VAN NOYEN",
+          "party_type": "person",
+          "role": "oprichter, aandeelhouder, zaakvoerder",
+          "address": "Zemst-Hofstade, Werfheide 45",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Maria Ludovica Theresia PEETERS",
+          "party_type": "person",
+          "role": "oprichter, aandeelhouder",
+          "address": "Zemst-Hofstade, Werfheide 37",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Katleen WOUTERS",
+          "party_type": "person",
+          "role": "gemandateerde voor vervoerswerkzaamheden",
+          "address": "3370 Boutersem, Kerkstraat 39",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION NOMINATION",
+      "deed_date": "25 juin 1997",
+      "publication_date": "10 juillet 1997",
+      "publication_reference": "N. 970710 — 255",
+      "form_reference": null,
+      "language": "fr",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "STRUCTURE PRODUCTIONLS",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "avenue Louise 203 boîte 4",
+          "postal_code": null,
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Olivier Verstraete",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Auderghem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Benoît Georges André Marie Ghislain WILLEMART",
+          "party_type": "person",
+          "role": "fondateur",
+          "address": "Forest, avenue Brugmann, 165",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Chantat RADOUX- ROGIER",
+          "party_type": "person",
+          "role": "épouse du fondateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

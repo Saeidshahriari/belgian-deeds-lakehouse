@@ -1,0 +1,265 @@
+{
+  "source_file": "1997-01-28_0043.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Modification of corporate purpose",
+      "deed_date": "1997-01-14",
+      "publication_date": "1997-01-28",
+      "publication_reference": "N. 970128 — 41",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "The corporate purpose of ROLIM WATERLOO N.V. is expanded to include taking interests in all companies or enterprises and managing them, as well as providing (mortgage) guarantees for third parties.",
+      "companies": [
+        {
+          "enterprise_number": "459.004.889",
+          "company_name": "ROLIM WATERLOO N.V.",
+          "legal_form": "N.V.",
+          "registered_office_address": "Steenweg naar Nijvel, 370",
+          "postal_code": null,
+          "city": "Halle",
+          "country": "Belgium",
+          "corporate_purpose": "Zij mag belangen nemen in alle vennootschappen of ondernemingen onder welke vorm ook en zij mag, zoals voor zichzelf, het bestuur voeren over de vennootschappen waarin ze participeert. Zij mag (hypothecaire) waarborgen verlenen voor derden en zich voor derden borg stellen in het algemeen.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "William Vereeken",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) William Vereeken,notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "Modification of Board of Directors",
+      "deed_date": "1995-12-07",
+      "publication_date": "1997-01-28",
+      "publication_reference": "N. 970128 — 42",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Following the death of Mr. Charles TANCREDI, Mme Denyse DANDOY and Mme Marianne HANLET are re-appointed as administrators. SYSAL SPRL is appointed as a third administrator. Mme Denyse DANDOY is elected president and is the sole administrator authorized to engage the company.",
+      "companies": [
+        {
+          "enterprise_number": "01.982.351",
+          "company_name": "LAGEPHA",
+          "legal_form": "SOCIETE ANONYME",
+          "registered_office_address": "RUE A. SMEKENS 45",
+          "postal_code": "1030",
+          "city": "SCHAERBEEK",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "SYSAL SPRL",
+          "legal_form": "SPRL",
+          "registered_office_address": "1, Rue Crollies",
+          "postal_code": null,
+          "city": "REBECQ",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Charles TANCREDI",
+          "party_type": "person",
+          "role": "Administrator (deceased)",
+          "address": null,
+          "start_date": null,
+          "end_date": "1995-10-30",
+          "confidence": null,
+          "raw_context": "Mr. Charles TANCREDI étant décédé.le 30/10/95"
+        },
+        {
+          "name": "Denyse DANDOY",
+          "party_type": "person",
+          "role": "Administrator, President, Administrateur délégué",
+          "address": null,
+          "start_date": "1995-12-07",
+          "end_date": "avril 2002",
+          "confidence": null,
+          "raw_context": "MmeDenyse DANDOY. Elle est l'unique administrateur à pouvoir engager seule la société.(Gigné) Denyse Dandoy, administrateur délégué."
+        },
+        {
+          "name": "Marianne HANLET",
+          "party_type": "person",
+          "role": "Administrator",
+          "address": null,
+          "start_date": "1995-12-07",
+          "end_date": "avril 2002",
+          "confidence": null,
+          "raw_context": "Mme Marianne HANLET."
+        },
+        {
+          "name": "SYSAL SPRL",
+          "party_type": "company",
+          "role": "Administrator",
+          "address": "1, Rue Crollies à REBECQ",
+          "start_date": "1995-12-07",
+          "end_date": "avril 2002",
+          "confidence": null,
+          "raw_context": "Ün troisième administrateur est nommé en la personne morale de SYSAL SPRL — 1, Rue Crollies à REBECQ."
+        }
+      ]
+    },
+    {
+      "deed_type": "Modification of corporate purpose",
+      "deed_date": "1997-01-14",
+      "publication_date": "1997-01-28",
+      "publication_reference": "N. 970128 — 43",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "The corporate purpose of ROLIM HALLE N.V. is expanded to include taking interests in all companies or enterprises and managing them, as well as providing (mortgage) guarantees for third parties.",
+      "companies": [
+        {
+          "enterprise_number": "459.004.790",
+          "company_name": "ROLIM HALLE N.V.",
+          "legal_form": "Naamloze vennootschap NV",
+          "registered_office_address": "Steenweg naar Nijvel, 370",
+          "postal_code": null,
+          "city": "Halle",
+          "country": "Belgium",
+          "corporate_purpose": "Zij mag belangen nemen in alle vennootschappen of ondernemingen onder welke vorm ook en zij mag, zoals voor zichzelf, het bestuur voeren over de vennootschappen waarin ze participeert. Zij mag (hypothecaire) waarborgen verlenen voor derden en zich voor derden borg stellen in het algemeen.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "William Vereeken",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) William Vereeken,notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "Formation",
+      "deed_date": "1996-12-30",
+      "publication_date": "1997-01-28",
+      "publication_reference": "N. 970128 — 43",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Formation of the limited partnership with shares GILLIS-JANSSENS CVA by Dirk Marià Frans GILLIS and Lisette Maria Janssens, with a capital of 12,000,000 BEF. The corporate purpose includes patrimonium management, advisory services, real estate transactions, graphic sector activities, and management services.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "GILLIS-JANSSENS CVA",
+          "legal_form": "Commanditaire vennootschap op aandelen CVA",
+          "registered_office_address": "Plantinstraat, 7",
+          "postal_code": null,
+          "city": "Anderlecht",
+          "country": "Belgium",
+          "corporate_purpose": "Het beheer en de uitbating van haar patrimonium, bestaande uit roerende en onroerende goederen en rechten in de ruimste zin. De vennootschap mag optreden als adviseur, bemiddelaar, coördinator en promotor in verband met alle werken van roerende en onroerende aard zoals verwerven, vervreemden, houden, verhuren, bouwen, verbouwen, beheren, valoriseren, ordenen, verkavelen, huren en verhuren van onroerende goederen, leasing inbegrepen. Het vervaardigen en verhandelen van alle producten en materialen in verband met de grafische sector. De creatie, lay-out en pre-press, produktie van alle grafische werken bestemd om naderhand te worden verveelvoudigd op gelijk welke wijze. Zij mag belangen nemen in alle vennootschappen of ondernemingen onder vorm van afdeling, inbreng, inlijving, opslorping, fusie en andere en zij mag, zoals voor zichzelf, het bestuur voeren over het patrimonium van derden in de ruimste zin. Het verlenen en uitvoeren, voor eigen rekening of voor derden, van alle dienstprestaties die betrekking hebben op het beheer en management van vennootschappen op financieel en administratief vlak, waaronder het verstrekken van bedrijfseconomische adviezen en diensten in de ruimste zin, in binnen- en buitenland, zowel aan natuurlijke als aan rechtspersonen met inbegrip van het adviseren en begeleiden van bedrijfsbeslissingen, de organisatie en reorganisatie van vennootschappen, assistentie bij aanbestedingen met betrekking tot de ontwikkeling van fabricage- en produktieprocessen, alle diensten die betrekking hebben op de marketing, promotie, verkoop, produktie, technologie, personeel en externe verhoudingen binnen vennootschappen. Zij mag alle fabrieksmerken, patenten en vergunningen nemen en deze aankopen, overdragen en verhandelen in het algemeen. Zij mag (hypothecaire) waarborgen verlenen voor derden en zich voor derden borg stellen in het algemeen.",
+          "capital_amount": 12000000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "William VEREEKEN",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte, verleden voor notaris William VEREEKEN te Halle"
+        },
+        {
+          "name": "Dirk Marià Frans GILLIS",
+          "party_type": "person",
+          "role": "Founder, Statutory Manager",
+          "address": "Plantinstraat, 7, Anderlecht",
+          "start_date": "1997-01-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Dirk Marià Frans GILLIS, drukker, geboren te Brussel op vijfentwintig augustus negentienhonderd zescig,en zijn echtgenote, mevrouw Lisette Maria Janssens, samenwonend te Anderlecht, -Plantinszraac, 7. Gehuwd met zuivere scheiding. De commanditaire vennoot.schap op. aandelen GILLIS-JANSSENS CVA hebben opgericht met. zecel te Anderlecht, elantinetraar, ?yhet MACOChAGPELL NX kapitaal bedrag twaalfuiteen tears varcegermoondi door Aulzer Kweehenderd amd len zorrernaalnale warde volledig onearschreven en volpzors als volg: :2/De heerGiLLAs faute ingparkand op duizend aandelen an heat Aszs valat.ort doorineen ia natura van de vruchegebruikarecuten (voer twintig joar entwee dogen) over ten eigende te MDERLECHT, Plancijas:raat, 1e serieBrmtamax 190.015, graat VA3£ aren, 2/Merram dansgens neft ingetekendop pemnanaard andalan an deze volstact door inpreng in geld. zevermoarschop heztr tor doe"
+        },
+        {
+          "name": "Lisette Maria Janssens",
+          "party_type": "person",
+          "role": "Founder, Manager",
+          "address": "Plantinstraat, 7, Anderlecht",
+          "start_date": "1997-01-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "en zijn echtgenote, mevrouw Lisette Maria Janssens, samenwonend te Anderlecht, -Plantinszraac, 7. Gehuwd met zuivere scheiding. De commanditaire vennootschap op. aandelen GILLIS-JANSSENS CVA hebben opgericht"
+        }
+      ]
+    },
+    {
+      "deed_type": "Formation",
+      "deed_date": "1997-01-07",
+      "publication_date": "1997-01-28",
+      "publication_reference": "N. 970128 — 44",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Formation of the limited liability company PMC by Bertrek Stataan WEERTS and Grieven dosauce DE RET, with a capital of 5,000,000 BEF. The corporate purpose includes wholesale/retail trade, installation and maintenance of electrical and cooling systems, communication and alarm systems, real estate activities, and taking interests in other companies.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "PMC",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Lot Grensstraat 1d",
+          "postal_code": "1652",
+          "city": "Beersel",
+          "country": "Belgium",
+          "corporate_purpose": "De brede in de ruimste zin (groot- en kleinhandel, in- en uitvoer) van alle produkten en materialen, evenals de plaatsing, herstelling en het onderhoud van elektrotechnische installaties, elektrische verwarmingssystemen, airconditioning en koeltechnische installaties en toebehoren, elektronische installaties, toestellen en toebehoren en verlichtingsinstallaties in de ruimste zin en alle toebehoren. De realisatie van alle elektriciteitswerken en van alle industriële installaties en automatisatie in of verbonden aan gebouwen in de ruimste zin, waaronder woningen, zalen, kantoren, hallen, bedrijfsruimten en dergelijke meer, waaronder domotica-systemen. De levering en plaatsing van alle communicatiemiddelen (zoals telefonie, interfonie, parlotonie en video) en van alarminstallaties; de realisatie, herstelling en onderhoud van elektronische installaties en beveiligingssystemen waaronder camera-bewaking. Het verstrekken van adviezen en verrichten van studies in verband met de ontwikkeling en verwerving van produkten en technieken die verband houden met voornoemde activiteiten en de commercialisatie ervan zowel voor eigen rekening als voor rekening van derden. Het verlenen voor eigen rekening of voor derden, van alle dienstprestaties die betrekking hebben op deze algemene werken en verrichtingen, zowel schriftelijk als mondeling. Het uitvoeren van alle grondwerken voor eigen rekening of voor derden. Het uitvoeren voor eigen rekening of voor derden, van alle studies die betrekking hebben op de ontwikkeling van fabricage- en produktieprocessen. Zij mag alle fabrieksmerken, patenten, licenties en vergunningen nemen met betrekking tot computer- en hardware en deze aankopen, exploiteren, overdragen en verhandelen, in het algemeen. Zij mag optreden als makelaar of tussenpersoon in immobiliën (waaronder aan- en verkoop, het bezitten, verhuren en beheren van onroerende goederen voor eigen rekening of voor derden) en alle onroerende transacties verrichten zoals: verwerven, vervreemden, bouwen, verbouwen, beheren, uitbaten, valoriseren, verkavelen, ordenen, huren en verhuren van onroerende goederen, leasing inbegrepen; optreden als adviseur en coördinator bij de uitvoering van werken in onroerende goederen. Zij mag belangen nemen in alle vennootschappen of ondernemingen onder welke vorm ook (deelneming, inbreng, inschrijving, opslorping, fusie en andere) en zij mag, zoals voor zichzelf, het bestuur voeren over het patrimonium van derden in de ruimste zin. Zij mag alle bestuursopdrachten waarnemen, mandaten en functies welke rechtstreeks of onrechtreeks met haar maatschappelijk doel verband houden, uitoefenen. Zij mag (hypothécaire) waarborgen verlenen voor derden en zich voor derden borg stellen in het algemeen.",
+          "capital_amount": 5000000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "William VEREEKEN",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte, verleden voor Sochrld Willem VERTEK ze Kalla"
+        },
+        {
+          "name": "Bertrek Stataan WEERTS",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Grensstraat, 44, Lot",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "1/De heer Beortek Stataan WEERTS Sochtrleel ingenteur,en zijn eche-geno-trarerrone Grieven dosauce DE RET, vorcaler, sammmenend Ge LOC„Crsrmatraat, 44. Da naasdoze vennootschap PAC, hebben opgericht: atzetel 6e Beeroel- bat, Grensatrant, 4; bec paatochappelijk kapltaal be-Smagt. wijt miljoen Sean, vertegemoordigd door vijronderd aandelenzonder roniza)e waart „volledig onderschreven daar beide opzichters,ik voor da halte, en door an volsoart Cor inbrang in nature van Detvooohesennak voor vijfenwineig Jhr) van een caroerend goed taBeersel-Lot,Getnantraar,4l"
+        },
+        {
+          "name": "Grieven dosauce DE RET",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Grensstraat, 44, Lot",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "en zijn eche-geno-trarerrone Grieven dosauce DE RET, vorcaler, sammmenend Ge LOC„Crsrmatraat, 44. Da naasdoze vennootschap PAC, hebben opgericht: atzetel 6e Beeroel- bat, Grensatrant, 4; bec paatochappelijk kapltaal be-Smagt. wijt miljoen Sean, vertegemoordigd door vijronderd aandelenzonder roniza)e waart „volledig onderschreven daar beide opzichters,ik voor da halte, en door an volsoart Cor inbrang in nature van Detvooohesennak voor vijfenwineig Jhr) van een caroerend goed taBeersel-Lot,Getnantraar,4l"
+        }
+      ]
+    }
+  ]
+}

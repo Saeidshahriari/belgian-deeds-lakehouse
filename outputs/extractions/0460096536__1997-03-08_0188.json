@@ -1,0 +1,213 @@
+{
+  "source_file": "1997-03-08_0188.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "vingt quare février mil neuf Sentnonante-sept",
+      "publication_date": "8 mars 1997",
+      "publication_reference": "N. 970308 — 167",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named \"BRADLEY SYNDIC\" by Mr. MILCAMES Jacques Arthur Louis and Mr. MILCAMPS Marc. The company's object includes real estate activities, property management, construction, and related commercial and financial operations. The capital is set at 750,000 FRF. Jacques MILCAMPS, Marc MILCAMPS, and Dominique de LHONNEUX are appointed as non-statutory managers.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "BRADLEY SYNDIC",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "rue de Stassart 119, Ixelles",
+          "postal_code": "1050",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "l'achat, la vente, la construction, l'aménagement, la mise en valeur, le syndic de copropriété, la gestion et la location de tous biens immeubles,ainsi que toutes emreprises de travaux publics ou privés et lafabrication, l'achat, la vente, la distribution, la concession delicences, de tous matériaux de construction ou de touséquipements utilisés dans l'industrie de la construction ou del'aménagement des immeubles, : .ea société a également pour objet toutes activités dereprésentation, de disiribution, de location, de courage,d'intermédiaire, de conseil ou d'agence, relatives aux objetsqui précédent, la prestation de tous services y afférents, laprise de participations dans toutes opérations ou entreprisesimmobilières, commerciales ou finénciéres ou ayant pourobjet, en tóut ou en pe les activités qui précèdent, lagestion du portefeuille ainsi créé et l'aide technique,Commercialset financière à toutes entreprises affiliées ou non.Elle peut s'intéresser par voie d'apport, de cession,de fusion, de souscription, dé participation, d'interventionfinancière ou autrement dans toutes sociétés, entreprises ouopérations ayant un objet similaire ou connexe ou de natureÀ favoriser la réalisation de son objet. -Elle peut tant en Belgique qu’à l'éranger, effecruertoutes opérations mobilières, immobiliéres, financières.industrielles, commercialeset civiles se rapportant directementou indirectement à son objet social et qui seraient de natureà en faciliter ou à en déve Ai la réalisation,",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "François KUMPS",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "La Hulpe",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "l'acte reçu par le Notaire FrançoisKUMPS, à La Huipe"
+        },
+        {
+          "name": "MILCAMES Jacques Arthur Louis",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "La Hulpe, Bruyère du Qup, 14",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur MILCAMES Jreaues Arthur Louis.géomètre-expert immobilier, né à Uccle Te vingt-sept juin mineuf cent trente-quatre, domicilié à La Hulpe, Bruyère duQup, 14,"
+        },
+        {
+          "name": "MILCAMPS Marc",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Genval, avenue Gevaert, i.",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur MILCAMPS Marc, géomètre-expertimmobilier, né à Ixelles le vingt-deux juillet mil neuf centsoixante-trois, domicilié à Genval, avenue Gevaert, i."
+        },
+        {
+          "name": "Jacques MILCAMPS",
+          "party_type": "person",
+          "role": "Gérant non statutaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Jacques MILC. cité;"
+        },
+        {
+          "name": "Marc MILCAMPS",
+          "party_type": "person",
+          "role": "Gérant non statutaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Marc MILCAMPS, précité,"
+        },
+        {
+          "name": "Dominique de LHONNEUX",
+          "party_type": "person",
+          "role": "Gérant non statutaire",
+          "address": "Bierges, avenue des Bouvreuils 33",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Dominique de LHONNEUX, domicilié à Bierges,avenue des Bouvreuils 33."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "vingt février mil neuf cantnonartensent",
+      "publication_date": "8 mars 1997",
+      "publication_reference": "N. 970308 — 188",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named \"HERCO\" by Mr. LIEGEOIS Bernard-Jean-Jacques-Georges-Nicolas and Mr. de WOUTERS d'OPLINTER Guillaume-Charles-Marie. The company's object includes national and international trade of shop equipment, food and non-food consumer products, market studies, and representation of foreign companies. The capital is set at 750,000 FRF. Mr. Bernard LIEGEOIS is appointed as the non-statutory manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "HERCO",
+          "legal_form": "SOCIETE PRIVEE A RÉSPONSABILITE LIMITES",
+          "registered_office_address": "Square Marie-Louise, n°48, 1000 Bruxelles",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "la société à oour objet, pour compte propre, pourcompté de tiers ou en participation, en Belgique ou àl'étranger : —le commerce national et international de tous lesproduits d'équipement de magasins et dé tous les produitsalimantairés et non-alimentaires de grande consommation, Jaréalisation des études de marchés et la représentation desociétés étrangères en relation avec son objet social. *Elle peut accomplir toutes opérations commerciales,industrielles, Financières, mobilières et immobilières sevanpartant directement ou indirectement à son objet.Me peut s'intéresser par toutes vaies dans toutessociétés, associations où entreprises ayant un objetsimilaire ou connexe au sten ou susceptibles de favoriserla dévetonpanant de ses activités,La société peut également exercer Tes fanctionsd'administrateur où de Tquidateur dans d'autres sociétés,EE,",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Tarquy LOIX",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Frasnes-lez-Anvaing",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte vegs où Maïcre Tarquy LOIX, Notaire àFrasres- tes-anve"
+        },
+        {
+          "name": "LIEGEOIS Bernard-Jean-Jacques-Georges-Nicolas",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "1150 Woluué-Saint-Ptorre, Avenue de 1'Av",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur LIEGEOIS Barnard-Jean-Jacques-Georges-Nicolas, admnissrateur Ge sociétés, né à Etterbeek letras février mil scirante-cina, époux de MadameBlandine VERCRUYSS: zé à 1150 Woluué-Saint-Ptorre,Avenue de 1'Av; at aMarié sous le rêgsme de ‘a séparation de viens pure etsimple aux terdes ge son cortrat de mariage reçu par MaitreAnaré DERKINDEREN, Notaire à Buizingen, le ceux avril mt}reuf cent ronante-et-un, régime son modifié à ce jour."
+        },
+        {
+          "name": "de WOUTERS d'OPLINTER Guillaume-Charles-Marie",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "1200 rue ätonnier Braffort, n°26",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur de WOUTERS d'OPLINTER Gui taume-Char lesMarie, acm mer. de socrèté, né à Nour! \\y-5ur-Seine{rrarce,; ‘e virg a soverbre mil neuf cent soixante-oux de Macane Marta OLA.DC MARIN, domicii 1200rue ätonnier Braffort, n°26.de ‘a séparation de biens aure etcntrat de ma”iage reçu par MaîtreNotatre à Bruxelles, le trente aoûts-x, régime non modifié à ce jour."
+        },
+        {
+          "name": "Bernard LIEGEOIS",
+          "party_type": "person",
+          "role": "Gérant non statutaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Les agsocrés décidant de Fssor 1e nombre de gérants àun as de nomme” à cette fanctian Monsieur Bernard LIEGEDIS,Gomoarant sous prire, oi présent at qui accepte,Ce gérant non statutaire Grt nommé jusqu'à révocationet peut engager valablement la société sacs limitation deSOESSan mandat sera rémunéré."
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "twintig februari negentienhonderd zevenennegentig",
+      "publication_date": "8 maart 1997",
+      "publication_reference": "N. 970308 — 189",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Constitution of a public limited liability company named \"BELGO NORDIC\" by Mr. Etienne ROELS and the private limited liability company \"ELARO\". The company's object includes the trade, import, export, manufacturing, and installation of all wall and floor coverings, as well as related articles. The capital is set at 2,500,000 Frank. The company is established for an unlimited duration.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "BELGO NORDIC",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Emile Bockscaellaan 390, 1020 Brussel",
+          "postal_code": "1020",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": "De vennootschap heeft tot doel de aankoop, deverkoop, de invoer, de uitvoer, het vervaardigen, het leggenvan allé muur- en vloerbedekkingen, zo in hout als in andermateriaal alsmede van aile aanverwante artikelen, zo in hetgroct als in het klein. .Om het doel van de vennootschap te bereikenmogen er bijhuizen, filialen, agentschappen, verkoops-kantoren opgericht worden op gelijk welke plaats zo inbinnen- als in buitenland. Ì 8De vennootschap mag alle handelingen stellenzowel van roerende als van onroerende die er zoudentoe strekken het bereiken van het maatschappelijk doetmogelijk te maken, te vergemakkelijken en/of uit te breiden.Alle verrichtingen met onroerende goederen,alsmede het beheer ervan. Het beheer van vermogens in deruimste zin.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "Frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Luc INDEKEU",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte opgemaakt daor MeesterJean-Luc INDEKEU, notaris te Brussel"
+        },
+        {
+          "name": "Etienne ROELS",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Brasschaat, Moretuslei 18",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Neer Etienne ROELS, nijveraar, wonende teBrasschaat, Moretuslei 18."
+        },
+        {
+          "name": "ELARO",
+          "party_type": "company",
+          "role": "Founder",
+          "address": "Antwerpen-Deurne, Van Lissumstraat 74",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De besloten vennootschap met beperkte aan-sprakelijkheid \"ELARO\", waarvan de zetel gevestigd is teAntwerpen-Deurne, Van Lissumstraat 74."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_file": "1997-06-24_0476.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "1997-05-29",
+      "publication_date": "1997-06-24",
+      "publication_reference": "N. 970624 — 476",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Constitution of the private limited liability company B.J.M. with registered office at Van Elewijckstraat 23, 1853 Grimbergen (Strombeek-Bever). Purpose includes printing, manufacturing cardboard articles, phototypesetting, scanning. Capital: 750,000 BEF. Manager: Jean-Marc BURKHARDT. Special proxy: Pascale Verschoren.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "B.J.M.",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Van Elewijckstraat 23",
+          "postal_code": "1853",
+          "city": "Grimbergen (Strombeek-Bever)",
+          "country": "België",
+          "corporate_purpose": "De aankoop, verkoop, vertegenwoordiging, drukken van allerlei drukwerken, fabricage van kartonartikelen (onder welke vorm), fotozetterij, scanning en afwerking. De vennootschap zal, in het algemeen, alle handelingen mogen verrichten van roerende- en onroerende, commerciële, industriële en financiële aard die met dit doel verwant zijn, of die van aard zijn om de verwezenlijking ervan te vergemakkelijken, hieronder begrepen het beheer van het eigen vermogen, het verwerven en beheren van roerende en onroerende goederen en het doen van financiële verrichtingen. Zij mag deelnemen aan andere vennootschappen met een gelijkaardig of aanverwant doel.",
+          "capital_amount": 750000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Maryelle Van den Moortel",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Overijse",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Maryelle Van dèn Moortel te Overijse"
+        },
+        {
+          "name": "BURKHARDT Jean-Marc",
+          "party_type": "person",
+          "role": "Oprichter",
+          "address": "Strombeek, Van Elewijckstraat 23",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Dè heer BURKHARDT Jean-Marc Stromheek, Van Elewijckstraat 23 - 375 aandelen"
+        },
+        {
+          "name": "VERSCHOREN Pascale",
+          "party_type": "person",
+          "role": "Oprichter",
+          "address": "1853 Strombeek, Van Elewijckstraat 23",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw VERSCHOREN Pascale, wonende te 1853 Strombeek, Van Elewijckstraat 23 - 375 aandelen."
+        },
+        {
+          "name": "Jean-Marc BURKHARDT",
+          "party_type": "person",
+          "role": "Zaakvoerder",
+          "address": "1853 Strombeek, Van Elewijckstraat 23",
+          "start_date": "1997-05-29",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "met unanimiteit tot zaakvoerder Benoemd voor de duur der vennootschap’: de heer Jean-Marc BURKHARDT voornoemd."
+        },
+        {
+          "name": "Pascale Verschoren",
+          "party_type": "person",
+          "role": "Bijzondere gevolmachtigde",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Is aangesteld als bijzondere gevolmachtigde : mevrouw -Pascale Verschoren voornoemd"
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution - Nomination",
+      "deed_date": "1997-05-30",
+      "publication_date": "1997-06-24",
+      "publication_reference": "N. 970624 — 477",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the private limited liability company FROFINPAR with registered office at avenue Léonard Mommaerts 24, 1140 Evere. Founder: Pierre Luc Philippe Ghislain ROBIN.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FROFINPAR",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "avenue Léonard Mommaerts 24",
+          "postal_code": "1140",
+          "city": "EVERE",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Olivier Verstracte",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Auderghem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Notaire Olivier Verstracte à Auderghem"
+        },
+        {
+          "name": "Pierre Luc Philippe Ghislain ROBIN",
+          "party_type": "person",
+          "role": "Fondateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Pierre Luc Philippe Ghislain ROBIN, administrateur de société, né à Herchies le vingt-huit novembre mil neuf cent nonante-sept"
+        }
+      ]
+    }
+  ]
+}

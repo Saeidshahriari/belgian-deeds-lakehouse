@@ -1,0 +1,288 @@
+{
+  "source_file": "1997-04-26_0491.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "ONTSLAG - BENOEMING",
+      "deed_date": "8 april 1997",
+      "publication_date": "26 april 1997",
+      "publication_reference": "N. 970426 — 490",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Resignation of Mia Callens, Annie Callens, and Dirk Callens as directors, and Mia Callens as managing director. Appointment of 'nv Callens Textiel', Bart Cottenie, and Geert Cottenie as new directors. Bart Cottenie appointed managing director and chairman of the board, and Geert Cottenie appointed managing director.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "CALLENS TEXTIELFABRIEK",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "MOORSEELSESTRAAT 102-8500 KORTRIJK",
+          "postal_code": "8500",
+          "city": "KORTRIJK",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Mia Callens",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-04-08",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Mia Callens",
+          "party_type": "person",
+          "role": "managing director",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-04-08",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Annie Callens",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-04-08",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Dirk Callens",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-04-08",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "nv Callens Textiel",
+          "party_type": "company",
+          "role": "director",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Bart Cottenie",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Bart Cottenie",
+          "party_type": "person",
+          "role": "managing director",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Bart Cottenie",
+          "party_type": "person",
+          "role": "chairman of the board",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Geert Cottenie",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Geert Cottenie",
+          "party_type": "person",
+          "role": "managing director",
+          "address": null,
+          "start_date": "1997-04-08",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING-STATUTEN-OVERGANGSBEPALINGEN",
+      "deed_date": "11 april 1997",
+      "publication_date": "26 april 1997",
+      "publication_reference": "N. 970426 — 491",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Foundation of 'CIBER GIFTS EDITIONS' as a private limited liability company. Its corporate purpose includes the fabrication, sale, trade, and representation of articles in glass, crystal, porcelain, wood, metal, including import and export of gift articles, furniture, household and decoration articles, and the commercialization of these articles, especially related to 'home' and weddings on the internet. The capital is 750,000 BEF, represented by 750 shares of 1,000 BEF each. The first financial year starts on 11 April 1997 and ends on 31 December 1997. Baudouin Valère Gustave Meyaui is appointed as manager for an indefinite term, gratuitously.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "CIBER GIFTS EDITIONS",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "8501 Heule, Ringlaan 11",
+          "postal_code": "8501",
+          "city": "Heule",
+          "country": null,
+          "corporate_purpose": "de fabricatie, verkoop, handel en vertegenwoordiging in de meest uitgebreide zin, van alle artikelen in glas, kristal, porselein, hout, metaal, met inbegrip van de import en export, van geschenkartikelen en meubilair van diverse oorsprong en van huishoud- en decoratie-artikelen in de breedste zin van het woord. - de commercialisering van alle artikelen hiervoor vermeld, en in het algemeen alles wat met “home” en huwelijk te maken heeft op INTERNET.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Frank Depuydt",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Sint-Jans-Molenbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Guyubaere",
+          "party_type": "notary",
+          "role": "notary (confrater)",
+          "address": "Jette",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "CIBER GIFTS",
+          "party_type": "company",
+          "role": "founder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Baudouin Valère Gustave MEYAUI",
+          "party_type": "person",
+          "role": "manager",
+          "address": "Kortrijk, Meiweg 10",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "ONTSLAG ZAAKVOERDER",
+      "deed_date": "11 april 1997",
+      "publication_date": "26 april 1997",
+      "publication_reference": "N. 970426 — 492",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Resignation of Axel Jan Bouckaert as statutory manager of 'Kantoor Bouckaert' as of 31 December 1996. Marnix Bouckaert continues as the sole manager.",
+      "companies": [
+        {
+          "enterprise_number": "105.529",
+          "company_name": "Kantoor Bouckaert",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "8770 Ingelmunster, Hinnebilkstraat 78",
+          "postal_code": "8770",
+          "city": "Ingelmunster",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Francis Vlegels",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Ingelmunster",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Axel Jan Bouckaert",
+          "party_type": "person",
+          "role": "statutory manager",
+          "address": "8760 Meulebeke, Gentstraat 212",
+          "start_date": null,
+          "end_date": "1996-12-31",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Marnix Kamiel Bouckaert",
+          "party_type": "person",
+          "role": "sole manager",
+          "address": "Ingelmunster, Hinnebilkstraat 76",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "KAPITAALSVERMINDERING",
+      "deed_date": "26 maart 1997",
+      "publication_date": "26 april 1997",
+      "publication_reference": "N. 970426 — 493",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Capital reduction from 9,500,000 BEF to 4,750,000 BEF. A sum of 3,000,000 BEF will be distributed immediately to the partners, and 1,750,000 BEF will be distributed in installments based on the evolution of furniture sales.",
+      "companies": [
+        {
+          "enterprise_number": "446.455 069",
+          "company_name": "TACK MEUBELEN",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Grotstraat 70 te 8780 Oostrozebeke",
+          "postal_code": "8780",
+          "city": "Oostrozebeke",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 4750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Eric Himpe",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Ieper",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

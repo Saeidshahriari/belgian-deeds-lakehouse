@@ -1,0 +1,260 @@
+{
+  "source_file": "1997-02-18_0015.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Nomination d'administrateur et d'administrateur-délégué",
+      "deed_date": "1997-01-06",
+      "publication_date": "1997-02-18",
+      "publication_reference": "N. 970218 — 14",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Nomination de Monsieur Van Landuyt Emile comme administrateur et de Monsieur DEFOY Christian comme administrateur-délégué.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "Van Landuyt Emile",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "1020 Bruxelles, avenue des Pagodes 445",
+          "start_date": "1997-01-06",
+          "end_date": "2000",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "DEFOY Christian",
+          "party_type": "person",
+          "role": "administrateur-délégué",
+          "address": null,
+          "start_date": "1997-01-06",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Ontslag van een bestuurder",
+      "deed_date": "1996-12-02",
+      "publication_date": "1997-02-18",
+      "publication_reference": "N. 970218 — 15",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "De algemene vergadering gehouden op 2 december 1996 heeft het ontslag, als bestuurder van de heer Johan Mears, met onmiddellijke ingang aanvaard.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "HIPEC N.V.",
+          "legal_form": "N.V.",
+          "registered_office_address": "Kolonel Bourgstraat 106 Bus 1",
+          "postal_code": "1040",
+          "city": "BRUSSEL SCHAARBEEK",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Johan Mears",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "Waterpoelstraat 89, 1652 Alsemberg",
+          "start_date": null,
+          "end_date": "1996-12-02",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "E. Christophe",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Statuts",
+      "deed_date": "1996-12-01",
+      "publication_date": "1997-02-18",
+      "publication_reference": "N. 970218 — 16",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Formation d'un Groupement d'Intérêt Economique (GIE) dénommé INTERIMPARTNERSHIP, établissement du siège social, objet social, durée indéterminée, modalités d'admission de nouveaux membres, pouvoirs du conseil d'administration, et élection des administrateurs et de leurs fonctions.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "INTERIMPARTNERSHIP",
+          "legal_form": "GROUPEMENT INTERET ECONOMIQUE",
+          "registered_office_address": "26 RUE FOSSE AUX LOUPS",
+          "postal_code": "1000",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": "faciliter ou développer l'activité économique et sociale de ses membres et d'améliorer ou d'accroître les résultants de cette activité, le groupement a pour objet d'activer la recherche de nouveaux candidats intérimaires et utilisateurs par la réalisation de toutes actions de promotion et représentation, de favoriser l'implantation de novueaux concepts, et d'une manière générale, de concecoirtoutes actions pouvant se rattacher directement ou indirectement à l'objet ci-dessus, pourvu qu'elles soient considérées comme telles par le conseil d'administration. Il est expressément stipulé que l'activité du groupement devra se rattacher à l'activité de ses membres, par rapport à laquelle elle devra avoir un caractère auxiliaire.",
+          "capital_amount": 20000.0,
+          "capital_currency": "FR"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "MAD. MARIE-CLAIRE CLABOTS",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "chaussée de Waterloo, 200A à 1060 Bruxelles",
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "MAD. IBELLE SOTOUDEH",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "avenue des Eoliennes, 2bte 4 à 1200 Bruxelles",
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "M. PASCAL DESCAMPS",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "chaussée de Malines 385 à 1950 Kraainem",
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "M. PASCAL DESCAMPS",
+          "party_type": "person",
+          "role": "PRESIDENT",
+          "address": null,
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "MAD. MARIE-CLAIRE CLABOTS",
+          "party_type": "person",
+          "role": "VICEPRESIDENT",
+          "address": null,
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "MAD. IBELLE SOTOUDEH",
+          "party_type": "person",
+          "role": "SECRETAIRE TRESORIER",
+          "address": null,
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "M. DESCAMPS PASCAL",
+          "party_type": "person",
+          "role": "mandataire (publication, inmatriculation, TVA)",
+          "address": null,
+          "start_date": "1996-12-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "NOMINATION — POUVOIRS",
+      "deed_date": "1997-01-27",
+      "publication_date": "1997-02-18",
+      "publication_reference": "N. 970218 — 17",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Nomination de Madame Michèle MASY en qualité de Directrice de L'Hôtel ARISTHOTEL et de la Taverne 'LA DIVINA MEDIA' avec des pouvoirs spécifiques.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TALETE",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "Chaussée de La Hulpe 24 (bte 5)",
+          "postal_code": "1000",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Madame Michèle MASY",
+          "party_type": "person",
+          "role": "Directrice de L'Hôtel ARISTHOTEL et de la Taverne \"LA DIVINA MEDIA\"",
+          "address": "Avenue de Stalingrad 7 à 1000 BRUXELLES",
+          "start_date": "1997-01-27",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "A. Barone",
+          "party_type": "person",
+          "role": "administrateur délégué",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "TRANSFERT DU SIEGE SOCIAL",
+      "deed_date": "1996-12-01",
+      "publication_date": "1997-02-18",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Transfert du siège social à PLACE ST ANTOINE N°31, 1040 BRUXELLES, à partir du 1er DECEMBRE 1996.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DELPATURE",
+          "legal_form": "SOCIETE PRIVEE A RESPONSABILITE LIMITEE",
+          "registered_office_address": "PLACE ST ANTOINE N°31",
+          "postal_code": "1040",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Delpature, D",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

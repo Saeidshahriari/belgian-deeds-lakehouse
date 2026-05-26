@@ -1,0 +1,185 @@
+{
+  "source_file": "1997-11-19_0026.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Filing",
+      "deed_date": "drie november negentienhonderdzevenennegentig",
+      "publication_date": "19 november 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Details regarding the financial year, application of Article 13 bis of the Companies Act for pre-incorporation acts by Mevrouw Vandenschrieck, and the appointment of Mevrouw Vandenschrieck as a non-statutory manager for an indefinite period. Filed in Brussels on 6 november 1997 (A/871).",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "Mevrouw Vandenschrieck",
+          "party_type": "person",
+          "role": "Manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "An-Katrien Van Laer",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "21 octobre 1997",
+      "publication_date": "19 novembre 1997",
+      "publication_reference": "N. 971119 — 26C.C",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named 'C.C.I.' with its registered office in Ixelles. The company's object includes wholesale and retail trade, import/export, leasing of rolling stock, fuels, oils, and parts; operation of driving schools; breakdown service; acquisition and management of movable and immovable property. Capital is 750,000 francs. Management is entrusted to one or more managers. Alain Flamme is appointed as the manager. A special mandate is conferred to Jacques Stichelbaut for fiscal and VAT administrations. Filed in Brussels on 6 novembre 1997 (A/873).",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "C.C.I.",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Rue Jean Paquot 33",
+          "postal_code": "1050",
+          "city": "Ixelles",
+          "country": null,
+          "corporate_purpose": "Le commerce en gros et en détail, l'importation, l'exportation, Ia location, le leasing et le renting ainsi que la mise à disposition de tout matériel roulant neuf et d'occasion, autos, voitures de ceremonie, camions et camionettes, remorques, caravans, machines, acteurs, motos, . motocycleues, vélomoteurs, bicyclettes, jet-skis et bateaux. 2. Le commerce en gros et en détail, l'importation et l'exportation de tous carburants, huiles, graisses et pneus, pièces de rechange et- détachées comprenant le graissage, le graphitage et le lavage de véhicules à moteurs. 3. l'organisaton et l'exploitation d'écoles de conduite, pour véhicules ‘automoteurs, dispensant un ‘enseignement portant actamument sur les dispositions légales ou réglementaires relatives À La police et la conduite des véhicules automobiles. 4. L'exploitation d'un service dépanage; 5. Le commerce, l'importation et l'exportation des accessoires, despiéces détachées ou des fournitures neuves et occasion. ”6. L'acquisition, aliénation, location, lotissement, aménagement, amélioration et la gestion de tous biens meubles et immeubles; elle peut également contracter ou consentir tous emprunts, hypothécai-res ou non, placer en valeurs mobilières, financer des A l'exception de l'autorisation explicite de la Commission Bancaire et Financière, la société ne peut pas excercer des activités, réservées aux entreprises de gestion de fortune et de conseil d'investissement. -L'achat, Ia vente, Ia location et ls mise en valeur de tous terrains non bâtis et de tous immeubles bâtis. ‘La société peut accomplir toutes opérations généralement quelconques, commerciales, industrielles, financières, mobilières ou immobilières se rapportant directement ou indirectement à laréalisation de son objet social ou qui sont de nature à étendre ou à développer son industrie ou son commerce. Elie pourra s'intéresser par toutes voies dans toutes autres sociétés ou ises en Belgique ou à l'étranger. La société peut également exercer les fonctions d'administrateur oude liquidateur d'autres sociétés.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Alain Flamme",
+          "party_type": "person",
+          "role": "Founder, Manager",
+          "address": "Ixelles, rue Jean Paquot 33",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Stefaan Van den Eynde",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Meise",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Jacques Stichelbaut",
+          "party_type": "person",
+          "role": "Special Mandate",
+          "address": "Sint-Pieters-Leeuw (Ruisbroek), Bevrijdingsstraat 10 boîte 1",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "19.09.1997",
+      "publication_date": "19 novembre 1997",
+      "publication_reference": "N. 971119 — 27",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of 'Aux Loisirs du Lac', a public limited company under Delaware, USA law. Its registered office is in Wilmington, Delaware. A Belgian branch is established at 149 avenue Louise, 1050 Bruxelles, with the object of managing, improving, restoring, and developing real estate assets, excluding commercial acts. The capital is formed by 1500 shares without nominal value. Filed in Brussels on 6 novembre 1997 (A/879).",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "AUX LOISIRS du LAC",
+          "legal_form": "SOCIETE ANONYME",
+          "registered_office_address": "701 Renner Road, Wilmington, New Castle County Delaware 19810",
+          "postal_code": "19810",
+          "city": "Wilmington",
+          "country": "USA",
+          "corporate_purpose": "La société a pour objet de participer à des transactions et des activités légales, autori-sées sous la Loi Générale des Sociétés de l'Etat du Delaware. L'objet de cette succursale est : Tant en Belgique qu’à l'étranger, la gestion au -sens le plus large du terme, l'amélioration, larestauration et la mise en valeur du patrimoineimmobilier qui lui est apporté ou qui seraapporté, ou qu’elle achètera ultérieurement . Acette fin, elle peut accomplir tous actesd'administration, de gestion, conclure tousbaux,emphytéotiques ou non, même à très longterme, effectuer tous placement, sans aucunerestriction, en biens meubles ou biensimmeubles, valeurs de portefeuille, dépots,prêts, administrer et gérer son portefeuille. Aces fins la succursale peut prêter et emprunter,constituer, moyennant rémunération, toutesgaranties réeles au profit de ses actionnaires oude tiers et en général, faire toutes opérationsimmobilières, mobilières ou financières, se rapportant directement ou indirectement à sonobjet, mais à l’exclusion de tous actes decommerce. La succursale pourra réaliser sonobjet en Belgique et à l'étranger, de toutesmanières, et suivant les modalités qui luiparaîtront, les mieux appropriées. Elle pourranotament s’intéresser par voie d’association defusion, de souscription, de participation à desentreprises existantes ou à créer en Belgiqueou à l'étranger, dont l’objet serait analogue ouconnexe ou même susceptible simplementd'accroître son activité sociale.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Barbara Pizzo",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "701 Renner Road, Wilmington, New CastleCounty, Delaware 19810",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Fastré E.",
+          "party_type": "person",
+          "role": "President, Treasurer",
+          "address": "Van Benedenlaan 65, 2800 Mechelen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "eenendertig oktober negentienhonderdzevenennegentig",
+      "publication_date": "19 november 1997",
+      "publication_reference": "N. 971119 — 28",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Constitution of a private limited liability company named 'TRON TECHNOLOGY' with its registered office in Zaventem. The company's object is the wholesale and distribution of IT and electronics material, computer assembly, import, export, and related activities.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TRON TECHNOLOGY",
+          "legal_form": "Besloten Vennootschep met Beperkte Aensprekelikheid",
+          "registered_office_address": "Tollaan, 99/C",
+          "postal_code": "1932",
+          "city": "ZAVENTEM (Sint-Stevens-Woluwe)",
+          "country": null,
+          "corporate_purpose": "de groothandel en de distributie van materiaal omtrent informatieken electronica, computersmontage invoeren uitvoervan dèze zoals alle aktiviteiten in dit verband.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Francis Armand ROSETTE",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "4910 THEUX, rue Laurent-Frangois Dethier, 35",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Marie-Nôëile XHAFLAIRE",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Montzen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

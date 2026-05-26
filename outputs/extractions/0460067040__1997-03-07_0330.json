@@ -1,0 +1,282 @@
+{
+  "source_file": "1997-03-07_0330.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Renouvellement de mandat d'un administrateur",
+      "deed_date": "14 janvier 1997",
+      "publication_date": "7 mars 1997",
+      "publication_reference": "N. 970307 — 329",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "L'Assemblée décide de réélire à effet du 21 mai 1996, pour un nouveau terme de six ans échéant à l'assemblée générale ordinaire de 2002, Monsieur Albert ROLIN en tant qu'Administrateur et ratifie, pour autant que besoin, tous actes que Monsieur ROLIN aurait signés au nom de la Société depuis le 21 mai 1996.",
+      "companies": [
+        {
+          "enterprise_number": "403.459.721",
+          "company_name": "PARKING MONNAIE",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "rue de l'Evêque, 1",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": "Belgique",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Albert ROLIN",
+          "party_type": "person",
+          "role": "Administrateur",
+          "address": null,
+          "start_date": "1996-05-21",
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "Monsieur Albert ROLIN en tant qu'Administrateur"
+        },
+        {
+          "name": "Y. De Clercq",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Y. De Clercq, administrateur."
+        },
+        {
+          "name": "M. Leclercq",
+          "party_type": "person",
+          "role": "mandataire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) M. Leclercq, mandataire."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "1997-02-18",
+      "publication_date": "7 mars 1997",
+      "publication_reference": "N. 970307 — 330",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution de la société privée à responsabilité limitée « MYCKO » par Maître Gérard INDEKEU, Notaire.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "MYCKO",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "avenue des Sept Bonniers 64",
+          "postal_code": "1180",
+          "city": "Uccle (Bruxelles)",
+          "country": "Belgique",
+          "corporate_purpose": "La société a pour objet, tant en Belgique qu'à l'étranger, toutes entreprises, initiatives ou opérations immobilières, foncières ou financières, destinées à créer, promouvoir, faciliter ou encourager soit directement, soit indirectement, toutes affaires commerciales mobilières, tous fonds de commerce, établissements de loisirs, lieux culturels, écoles, centres de réunions. En conséquence, la société peut, sans que cette énonciation soit timitative: a. Entreprendre ou faire entreprendre l'étude et la réalisation pratique de tous les problèmes techniques, sociaux, économiques, fiscaux et d'organisation qui se posent en matière de son objet social. b. Préparer, rédiger et conclure en tant que mandataire ou pour compte propre, tous marchés de fourniture et faire toutes opérations se rattachant à ces objets, c. Prendre ou participer à des initiatives sous forme de participation ou aide à caractère technique, financière ou d'organisation. Représenter ses membres au sein de sociétés Commerciales ou à forme commerciale, Prêter son assistance à des tiers en toutes matières sociale, technique, financière, organique, administrative et économique. : d. Accepter des mandats d'administrateur, gérant, liquidateur dans d'autres sociétés ou associations et se porter caution pour autrui, La société a également pour objet le commerce sous toutes ses formes et notamment l'importation, l'exportation, l'achat et la vente en gros ou au détail, la représentation et le courtage, ainsi que la fabrication, la transformation et le transport de toutes marchandises et de tous produits dans le sens le plus large du terme. ... D'une façon générale, la société pourra faire tous actes, transactions, ou opérations commerciales, financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social ou qui seront de nature à en faciliter ou développer la réalisation. Elle pourra réaliser son objet social, soit en prenant des intérêts dans des entreprises, des sociétés en tout ou en partie, similaires ou connexes en Belgique ou à l'étranger. : Seute l'assemblée générale des actionnaires a qualité pour interpréter cet objet.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Maître Gérard INDEKEU",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Aux termes d'un acte reçu par Maitre Gérard INDEKEU, Notaire résidant à Bruxelles"
+        },
+        {
+          "name": "Yves DEHASSE",
+          "party_type": "person",
+          "role": "Gérant",
+          "address": "Uccle, avenue de l’Auine, 11",
+          "start_date": "1997-02-18",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Yves DEHASSE, indépendant, né à Charleroi, fe onze février mil neuf cent cinquante-neuf, époux de Madame Corinne Bertha FRIEDMANN, demeurant à Uccle, avenue de l’Auine, 11; [...] Monsieur Yves Dehasse et Madame Corinne Friedmann, prénommés, qui acceptent, sont désignés en qualité de gérants, pour un terme indéterminé."
+        },
+        {
+          "name": "Corinne Bertha FRIEDMANN",
+          "party_type": "person",
+          "role": "Gérant",
+          "address": "Uccle, avenue de 1‘ Aulne, 1",
+          "start_date": "1997-02-18",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Corinne Bertha FRIEDMANN, employée, née à Etterbeek, le onze août mil neuf cent soixante et un, épouse de Monsieur Yves DEHASSE demeurant à Uccle, avenue de 1‘ Aulne, 1. [...] Monsieur Yves Dehasse et Madame Corinne Friedmann, prénommés, qui acceptent, sont désignés en qualité de gérants, pour un terme indéterminé."
+        }
+      ]
+    },
+    {
+      "deed_type": "Ontslag, benoeming en herbenoeming bestuurders",
+      "deed_date": "1997-02-07",
+      "publication_date": "7 mars 1997",
+      "publication_reference": "N. 970307 — 331",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Ontslag van Daniel De Coster als bestuurder. Benoeming van Marie-Claire Devogelaere als afgevaardigd bestuurder voor 6 jaar. Herbenoeming voor 6 jaar van J.B. Roeland en M. Robins als bestuurders.",
+      "companies": [
+        {
+          "enterprise_number": "BE 445 873 665",
+          "company_name": "CONTROL TECHNIQUES",
+          "legal_form": "NAAMLOZE VENNOOTSCHAP",
+          "registered_office_address": "HOGE WEI 1",
+          "postal_code": "1930",
+          "city": "NOSSEGEM",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Daniel De Coster",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-02-07",
+          "confidence": null,
+          "raw_context": "Ontslag als bestuurder van Daniel De Coster wordt aanvaard"
+        },
+        {
+          "name": "Marie-Claire Devogelaere",
+          "party_type": "person",
+          "role": "afgevaardigd bestuurder",
+          "address": "Galgestraat 21 te 1703 Schepdaal",
+          "start_date": "1997-02-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Benoeming als afgevaardigd bestuurder vanaf heden voor een periode van 6 jaar van Marie-Claire Devogelaere Galgestraat 21 te 1703 Schepdaal."
+        },
+        {
+          "name": "J.B. Roeland",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": "1997-02-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Herbenoeming voor 6 jaar als bestuurders van J.B. Roeland"
+        },
+        {
+          "name": "M. Robins",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": "1997-02-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Herbenoeming voor 6 jaar als bestuurders van J.B. Roeland en M. Robins."
+        },
+        {
+          "name": "CL. Devogelaere",
+          "party_type": "person",
+          "role": "afgevaardigd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) CL. Devogelaere, afgevaardigd bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Zetelverplaatsing",
+      "deed_date": "1997-02-20",
+      "publication_date": "7 mars 1997",
+      "publication_reference": "N. 970307 — 332",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Verplaatsing van de maatschappelijke zetel van TRIFAS NV naar Brand Whitlocklaan 87/15 te 1200 Brussel vanaf 1 juli 1996.",
+      "companies": [
+        {
+          "enterprise_number": "BE-453.636.831",
+          "company_name": "TRIFAS",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Brand Whitlocklaan 87/15",
+          "postal_code": "1200",
+          "city": "Brussel",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "D. Vermeulen",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) D. Vermeulen, zaakvoerder."
+        },
+        {
+          "name": "H.M.W. Pelsers",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) H.M.W. Pelsers, zaakvoerder."
+        },
+        {
+          "name": "NV BENEPORT",
+          "party_type": "company",
+          "role": "volmacht",
+          "address": "Adolphe Lacomblelaan 66 te 1030 Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "NV TRIFAS geeft hierbij volmacht aan NV BENEPORT, Adolphe Lacomblelaan 66 te 1030 Brussel, vertegenwoordigd door Mevrouw Christine Lambrechts, met recht van indeplaatsstelling, om de nodige stappen te doen tot wijziging van handelsregisternummer."
+        },
+        {
+          "name": "Christine Lambrechts",
+          "party_type": "person",
+          "role": "vertegenwoordiger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "vertegenwoordigd door Mevrouw Christine Lambrechts"
+        }
+      ]
+    },
+    {
+      "deed_type": null,
+      "deed_date": null,
+      "publication_date": "7 mars 1997",
+      "publication_reference": "N. 970307 — 333",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Informations générales sur la société ENTRINVEST.",
+      "companies": [
+        {
+          "enterprise_number": "405 749 614",
+          "company_name": "ENTRINVEST",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "Rue Royale, 54",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": "Belgique",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

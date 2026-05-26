@@ -1,0 +1,108 @@
+{
+  "source_file": "1997-05-07_0122.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Constitution",
+      "deed_date": "1997-04-25",
+      "publication_date": "1997-05-07",
+      "publication_reference": "N. 970507 — 122",
+      "form_reference": null,
+      "language": "fr",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "COCA-COLA BOTTLERS COORDINATION CENTER",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "chaussée de Mons 1424",
+          "postal_code": "1070",
+          "city": "Anderlecht (Bruxelles)",
+          "country": "Belgique",
+          "corporate_purpose": "La société a pour unique objet le développement et la centralisation d'une ou plusieurs des activités énumérées ci-après dans le seul intérêt de tout ou partie des sociétés du groupe auquel elle appartient, au sens de l'article deux de l'Arrêté Royal numéro cent quatre-vingt-sept du trente décembre mil neuf cent quatre-vingt-deux sur la création de centres de coordination : publicité, fourniture et rassemblement d'informations, assurance et réassurance, recherche scientifique, relations avec les autorités nationales et internationales, centralisation de travaux comptables, administratifs et d'informatique, centralisation d'opérations financières et couverture des risques résultant des fluctuations des taux de change de monnaies, en ce compris la refacturation et le factoring ainsi que toutes activités ayant un caractère préparatoire ou auxiliaire pour les sociétés du groupe. La société peut, en Belgique et à l'étranger, acquérir, donner ou prendre en location, ériger, aliéner ou échanger tous biens meubles ou immeubles, d'exploitation ou d'équipement, et d'une manière générale entreprendre toutes opérations de coordination se rapportant directement ou indirectement à son objet social, y compris l'exploitation de tous droits intellectuels et de propriété industrielle ou commerciale y relatifs.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Luc INDEKEU",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Maître Jean-Luc INDEKEU, notaire à Bruxelles"
+        },
+        {
+          "name": "BOTTLING HOLDINGS (International) Inc.",
+          "party_type": "company",
+          "role": "comparant",
+          "address": "1209 Orange Street, Wilmington, New Castle, Delaware 19801; Etats-Unis d'Amérique",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "la société de droit de l'Etat de Delaware \"BOTTLING HOLDINGS (International) Inc.\", ayant son siège à 1209 Orange Street, Wilmington, New Castle, Delaware 19801; Etats-Unis d'Amérique."
+        },
+        {
+          "name": "COCA-COLA ENTERPRISES, Inc",
+          "party_type": "company",
+          "role": "comparant",
+          "address": "2500 Windy Ridge Parkway, Atlanta, Georgia 30339, Etats-Unis d'Amérique",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "La société de droit de l’Etat de Georgia \"COCA-COLA ENTERPRISES, Inc” ayant son siège à 2500 Windy Ridge Parkway, Atlanta, Georgia 30339, Etats-Unis d'Amérique."
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "1997-04-17",
+      "publication_date": "1997-05-07",
+      "publication_reference": "N. 970507 mn 123",
+      "form_reference": null,
+      "language": "fr",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "AALBORG-PHARMA",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "Avenue de Sumatra, 41",
+          "postal_code": "1180",
+          "city": "UCCLE (BRUXELLES)",
+          "country": "Belgique",
+          "corporate_purpose": "La société a pour objet le commerce, l’importation et l'exportation de médicaments homéopathiques, de denrées alimentaires, de préparations alimentaires, de suppléments alimentaires, de vitamines, de produits de soins de corps, de cosmétiques et produits similaires, avec des sociétés de demi-gros et à des grossistes, pharmaciens, maisons diététiques, entreprises pharmaceutiques, la direction de ou l'intéressement de quelques autres manières dans d’autres sociétés et/ou entreprises ayant objet similaire, le tout au sens le plus large des termes, ainsi que toutes activités qui peuvent être utiles à ce qui précède, qui peuvent respectivement être considérées comme liées.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Luc INDEKEU",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Maître Jean-Luc INDEKEU, notaire à Bruxelles"
+        },
+        {
+          "name": "Hans Jürgen KREISSL",
+          "party_type": "person",
+          "role": "comparant",
+          "address": "64625 Bensheim (Allemagne) Am Bildstock 18",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Hans Jürgen KREISSL, directeur, demeurant à 64625 Bensheim (Allemagne) Am Bildstock 18."
+        }
+      ]
+    }
+  ]
+}

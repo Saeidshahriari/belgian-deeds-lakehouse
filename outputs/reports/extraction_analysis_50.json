@@ -1,0 +1,175 @@
+{
+  "batch_summary": {
+    "requested_limit": 50,
+    "processed_count": 50,
+    "success_count": 50,
+    "failure_count": 0,
+    "ocr_success_count": 50,
+    "searchable_pdf_success_count": 0,
+    "multi_notice_success_count": 49,
+    "total_deeds_extracted": 168,
+    "total_companies_extracted": 181,
+    "total_party_roles_extracted": 574,
+    "reused_existing_count": 50
+  },
+  "deeds_per_pdf": {
+    "1": 1,
+    "2": 13,
+    "3": 19,
+    "4": 6,
+    "5": 7,
+    "6": 3,
+    "7": 1
+  },
+  "pages_per_pdf": {
+    "1": 12,
+    "2": 31,
+    "3": 6,
+    "22": 1
+  },
+  "document_source_types": {
+    "scan": 50
+  },
+  "languages": {
+    "nl": 85,
+    "fr": 83
+  },
+  "party_types": {
+    "notary": 120,
+    "person": 423,
+    "company": 30,
+    "association": 1
+  },
+  "top_deed_types": {
+    "CONSTITUTION": 16,
+    "Constitution": 16,
+    "Oprichting": 11,
+    "OPRICHTING": 10,
+    "null": 4,
+    "OPRICHTING - BENOEMINGEN": 3,
+    "CONSTITUTION - NOMINATION": 3,
+    "WIJZIGING STATUTEN": 2,
+    "Modification of corporate purpose": 2,
+    "Formation": 2,
+    "Benoeming": 2,
+    "FUSIEVOORSTEL": 2,
+    "Zetelverplaatsing": 2,
+    "Assembl\u00e9e G\u00e9n\u00e9rale Extraordinaire": 2,
+    "Constitution - Nomination": 2,
+    "Constitution and Appointment": 2,
+    "Oprichting - Benoemingen": 2,
+    "Augmentation de capital - Modification et coordination statuts - Cr\u00e9ation nouveaux mandats d'administrateurs": 2,
+    "Oprichting - Statuten - Benoemingen": 1,
+    "Rectification - Opening Operational Seat": 1,
+    "D\u00e9l\u00e9gation de pouvoir": 1,
+    "Buitengewone Algemene Vergadering": 1,
+    "Oprichting en statutenwijziging": 1,
+    "Wijziging zetel, boekjaar en tijdstip jaarvergadering": 1,
+    "Modification of Board of Directors": 1
+  },
+  "reference_counts": {
+    "publication_reference": 154,
+    "form_reference": 1
+  },
+  "company_counts": {
+    "companies": 181,
+    "with_enterprise_number": 55
+  },
+  "party_role_counts": {
+    "party_roles": 574
+  },
+  "company_field_completeness": {
+    "company.capital_amount": {
+      "missing": 92,
+      "total": 181,
+      "present": 89
+    },
+    "company.capital_currency": {
+      "missing": 92,
+      "total": 181,
+      "present": 89
+    },
+    "company.city": {
+      "missing": 8,
+      "total": 181,
+      "present": 173
+    },
+    "company.company_name": {
+      "missing": 5,
+      "total": 181,
+      "present": 176
+    },
+    "company.corporate_purpose": {
+      "missing": 101,
+      "total": 181,
+      "present": 80
+    },
+    "company.country": {
+      "missing": 125,
+      "total": 181,
+      "present": 56
+    },
+    "company.enterprise_number": {
+      "missing": 126,
+      "total": 181,
+      "present": 55
+    },
+    "company.legal_form": {
+      "missing": 4,
+      "total": 181,
+      "present": 177
+    },
+    "company.postal_code": {
+      "missing": 30,
+      "total": 181,
+      "present": 151
+    },
+    "company.registered_office_address": {
+      "missing": 9,
+      "total": 181,
+      "present": 172
+    }
+  },
+  "party_field_completeness": {
+    "party.address": {
+      "missing": 199,
+      "total": 574,
+      "present": 375
+    },
+    "party.confidence": {
+      "missing": 510,
+      "total": 574,
+      "present": 64
+    },
+    "party.end_date": {
+      "missing": 503,
+      "total": 574,
+      "present": 71
+    },
+    "party.name": {
+      "missing": 2,
+      "total": 574,
+      "present": 572
+    },
+    "party.party_type": {
+      "missing": 0,
+      "total": 574,
+      "present": 574
+    },
+    "party.raw_context": {
+      "missing": 125,
+      "total": 574,
+      "present": 449
+    },
+    "party.role": {
+      "missing": 0,
+      "total": 574,
+      "present": 574
+    },
+    "party.start_date": {
+      "missing": 428,
+      "total": 574,
+      "present": 146
+    }
+  }
+}

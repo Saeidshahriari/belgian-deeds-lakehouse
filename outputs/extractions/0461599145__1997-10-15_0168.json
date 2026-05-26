@@ -1,0 +1,272 @@
+{
+  "source_file": "1997-10-15_0168.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "1997-09-22",
+      "publication_date": "1997-10-15",
+      "publication_reference": "N. 971015 — 168",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid \"IMMO ECHO\" door André Eugène ARON, met maatschappelijk doel gericht op onroerende goederen en een kapitaal van 750.000 frank.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "IMMO ECHO",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Tiensesteenweg, 69",
+          "postal_code": "3380",
+          "city": "Glabbeek",
+          "country": "België",
+          "corporate_purpose": "onderneming in onroerende goederen, ondermeer begrijpende de aankoop, verkoop, huur, verhuur, van alle onroerende goederen, averlating van handelszaken, enz...-beheer van onroerende goederen, syndicus.-bemiddelen en tussenpersoon in alle transacties rakende aan het vastgoed.",
+          "capital_amount": 750000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Patrick Van den Weghe",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "3010 Leuven, Kessel-Lo",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte verleden voor notaris Patrick Van den Weghe, te 3010 Leuven, Kessel-Lo, op twee ent twinnig september negentienhonderd zeven en negentig"
+        },
+        {
+          "name": "André Eugène ARON",
+          "party_type": "person",
+          "role": "oprichter, zaakvoerder",
+          "address": "3380 Glabbeek, Tiensesteenweg, 69",
+          "start_date": "1997-09-22",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "opgericht door Heer André Eugène ARON, bediende, echtgenoot van mevrouw Vivianne Roger Clementine BOSMAN, wonende te 3380 Glabbeek, Tiensesteenweg, 69; een besloten vennootschap met beperkte aansprakelijkheid, onder de naam \"IMMO ECHO\"; ... Aanstelling eerie zaakvoerder: Heer André ARON, voornoemd, welke het mandaat aänvaardt, met ingang vanaf de oprichting en dit voor de ganse duur van de vennootschap"
+        },
+        {
+          "name": "Vivianne Roger Clementine BOSMAN",
+          "party_type": "person",
+          "role": "echtgenoot van oprichter",
+          "address": "3380 Glabbeek, Tiensesteenweg, 69",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "echtgenoot van mevrouw Vivianne Roger Clementine BOSMAN, wonende te 3380 Glabbeek, Tiensesteenweg, 69"
+        },
+        {
+          "name": "Jean-Paul LEEMANS",
+          "party_type": "person",
+          "role": "gevolmachtigde",
+          "address": "3000 Leuven, Brouwersstraat, 1 bus 5",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "volmachten: aan de Heer Jean-Paul LEEMANS en/of de Heer Patrick QUINTENS, beiden met kantoor te 3000 Leuven, Brouwersstraat, 1 bus 5"
+        },
+        {
+          "name": "Patrick QUINTENS",
+          "party_type": "person",
+          "role": "gevolmachtigde",
+          "address": "3000 Leuven, Brouwersstraat, 1 bus 5",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "volmachten: aan de Heer Jean-Paul LEEMANS en/of de Heer Patrick QUINTENS, beiden met kantoor te 3000 Leuven, Brouwersstraat, 1 bus 5"
+        }
+      ]
+    },
+    {
+      "deed_type": "VERLENGING MANDATEN",
+      "deed_date": "1997-05-21",
+      "publication_date": "1997-10-15",
+      "publication_reference": "N. 971015 — 169",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Verlenging van de mandaten van de bestuurders IDH Diamonds NV, I. Horowitz en D. Horowitz voor zes jaar, tot na de algemene vergadering in 2003.",
+      "companies": [
+        {
+          "enterprise_number": "441.678.414",
+          "company_name": "BEN VENGUN",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Rode Dreef 36",
+          "postal_code": "2110",
+          "city": "Wijnegem",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "IDH Diamonds NV",
+          "party_type": "company",
+          "role": "gedelegeerd bestuurder",
+          "address": "Schupstraat 9-11 te Antwerpen",
+          "start_date": "1997-05-21",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "IDH Diamonds NV, Schupstraat 9-11 te Antwerpen : gedelegeerd bestuurder"
+        },
+        {
+          "name": "I. Horowitz",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "De Pont 16 te Schilde",
+          "start_date": "1997-05-21",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "I. Horowitz, De Pont 16 te Schilde : bestuurder"
+        },
+        {
+          "name": "D. Horowitz",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "Palmenlaan 7 te Antwerpen",
+          "start_date": "1997-05-21",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "D. Horowitz, Palmenlaan 7 te Antwerpen : bestuurder"
+        },
+        {
+          "name": "E Horowitz",
+          "party_type": "person",
+          "role": "vertegenwoordiger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "IDH Diamond, N.V. gedelegeerd bestuurder, vertegenwoordigd door (get.) E Horowitz."
+        }
+      ]
+    },
+    {
+      "deed_type": "Uittreksel uit de notulen van de bijzondere algemene vergadering",
+      "deed_date": "1997-08-19",
+      "publication_date": "1997-10-15",
+      "publication_reference": "N. 971015 — 170",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Ontslag van Aerts Geert als bestuurder en gedelegeerd bestuurder, en benoeming van BVBA VV Bestuursmaatschappij als plaatsvervangend gedelegeerd bestuurder.",
+      "companies": [
+        {
+          "enterprise_number": "BE 445 008 977",
+          "company_name": "KINDER — ATELIER",
+          "legal_form": "COOPERATIEVE VENNOOTSCHAP MET BEPERKTE AANSPRAKELIJKHEID",
+          "registered_office_address": "VERLATSTRAAT 23 - 25",
+          "postal_code": "2000",
+          "city": "ANTWERPEN",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Aerts Geert",
+          "party_type": "person",
+          "role": "ontslagnemend bestuurder en gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-08-19",
+          "confidence": null,
+          "raw_context": "De bijzondere algemene vergadering aanvaardt het ontslag van de Heer Aerts Geert als bestuurder en als gedelegeerd bestuurder."
+        },
+        {
+          "name": "BVBA VV Bestuursmaatschappij",
+          "party_type": "company",
+          "role": "plaatsvervangend gedelegeerd bestuurder",
+          "address": null,
+          "start_date": "1997-08-19",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Als plaatsvervangend gedelegeerd bestuurder benoemt de bijzondere algemene vergadering de BVBA VV Bestuursmaatschappij."
+        },
+        {
+          "name": "Jan Vande Velden",
+          "party_type": "person",
+          "role": "statutair zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "B.V.B.A, VV Bestuursmaatschappij, vertegenwoordigd door (Get.) Jan Vande Velden, statutair zaakvoerder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Ontslag van zaakvoerder",
+      "deed_date": "1997-08-01",
+      "publication_date": "1997-10-15",
+      "publication_reference": "N. 971015 — 171",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Ontslag van de heer Filip Le Compte als zaakvoerder.",
+      "companies": [
+        {
+          "enterprise_number": "428.724.855",
+          "company_name": "BRABIVER",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Van Schoonbekeplein 5",
+          "postal_code": "2000",
+          "city": "Antwerpen",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Filip Le Compte",
+          "party_type": "person",
+          "role": "ontslagnemend zaakvoerder",
+          "address": "Hof van Mols 8 te 2610 Antwerpen",
+          "start_date": null,
+          "end_date": "1997-08-01",
+          "confidence": null,
+          "raw_context": "Ingevolge een aangetekend schrijven van 1 augustus 1997 neemt de heer Filip Le Compte, Hof van Mols 8 te 2610 Antwerpen ontslag als zaakvoerdsr."
+        },
+        {
+          "name": "Lefebure",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) Lefebure, zaakvoerder."
+        }
+      ]
+    },
+    {
+      "deed_type": null,
+      "deed_date": null,
+      "publication_date": "1997-10-15",
+      "publication_reference": "N. 971015 — 172",
+      "form_reference": null,
+      "language": "nl",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": "BE-444.719.660",
+          "company_name": "MK MANAGEMENT",
+          "legal_form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Wouter Haecklaan (3 B",
+          "postal_code": "2100",
+          "city": "DEURNE",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

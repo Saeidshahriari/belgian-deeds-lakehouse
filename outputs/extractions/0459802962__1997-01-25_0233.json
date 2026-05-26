@@ -1,0 +1,220 @@
+{
+  "source_file": "1997-01-25_0233.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Appointments and resolutions",
+      "deed_date": "13 janvier 1997",
+      "publication_date": "25 janvier 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Resolutions regarding the first financial year, start of activities, and appointment of managers (gérants) and a commissioner (commissaire).",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "C. Dupont",
+          "party_type": "notary",
+          "role": "notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) C. Dupont,notaire."
+        },
+        {
+          "name": "Monsieur Alexandre de Latvoniene",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "Paris (17ème arrondissement) France, rue Bridaine, 6",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "heorsteur Alexandre de Latvoniene, demedrant. à Paris{l7ème arrondissement) France, rue Bridaine, 6"
+        },
+        {
+          "name": "Monsieur Paul Cels",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "Berchem Saint Agathe, rue Hubert Blauwet, 4",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Paul Cels, demeurant à Berchem Saint Agathe,rue Hubert Blauwet, 4."
+        },
+        {
+          "name": "Madame Nathalie Kens",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "Rhode Saint-Genèse, rue Neuve, 31",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Téadame Nathalie Kens, demeurant à Rhode SaintGenèse, rue Neuve, 31."
+        },
+        {
+          "name": "Monsieur Biponville",
+          "party_type": "person",
+          "role": "commissaire-réviseur",
+          "address": "Uccle, avenue Winston Churchill, 55 boite 10",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "L'äemblee décige fet eux fonctions de commis-saire-réviseur Monsieur Biponville avant ses bureaux àUccle, avenue Winston Churchill, 55 boite 10."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "08011997",
+      "publication_date": "25 janvier 1997",
+      "publication_reference": "N. 970125 — 233",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a public limited company (Société Anonyme) named 'ABOU DISTRIBUTION INFORMATIQUE' with a capital of 2,500,000 francs, detailing its corporate purpose and governance.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ABOU DISTRIBUTION INFORMATIQUE",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "boulevard du Jubilé, 37",
+          "postal_code": "1080",
+          "city": "Molenbeek Saint Jean",
+          "country": "Belgium",
+          "corporate_purpose": "toutes opérations gétiéraiement *guekonques se rapportant directement où indirectement aucommerces, à Ia fabrication, la location, l'achat, la vente engros zt en détail, la représentation, Ja distribution, Le service,le conditicanement, l'exploitation soit pour son compte propresoit pour compilé de tiers de prestations de services en. cccompris tous travaux d'édition sur ordiateor, «dtp.»travaux de burean, assistances en traitement dé textes, rivauxet formation de secrétariat, formation sur 0: mise en,de”.page de ttes et documents, tous services d'alsisianice dcréation, de gesden, d'initiation, d'installation et de,maintenance de tout te qui concerne l'informatique et ses +\"dérivés, matériel Informatique soft et hard, tout fe matérielconcermant le bureautique, les matériels électroménager,électromécanique, électronique, : d'imprimerie, machines »industricfies dans le sens fe plus large du temne, toutestransactions commerciales, le commerce sous foules sesFormes de tous produits afimemmaires, articies de maroquinerie,de voyage, chaussures, textile en général, vêtements divers,confection, anicies de mode st accessoires, bijoux de fantaisie,Intermédiaire commerniai dans quelque domaine que ce soit.Elle peut aussi faire toutes opérations financières industrielles, commerciales, mobilières et immobilières, ayant unrapport direct ou indirect avec son objet et s'intéresser par voisde souscription, apport prise en participaion Gu autremanière dans toute société ayant un objet similaire ouanalogue au sien.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe Boute",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruselles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "HE résuite d'un acte mou par Ie Notaire Philippe Boute, ÀBruselles, le 08011997"
+        },
+        {
+          "name": "Monsieur ABOU EL PADLE Absterrakmane",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Al Hoceima (Maroc), sue Boukraa, 13",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur ABOU EL PADLE Absterrakmane, instituteur, domicilié à Al Hoceima (Maroc),sue Boukraa, 13, de nationalité margcaine"
+        },
+        {
+          "name": "Monsieur CISSE Arnaud Gabriel Maurice",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Brwrbeek, boulevard Général Wahis, 22/24",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur CISSE Arnaud Gabriel Maurice, Cadre commercial, domicilié4 Brwrbeek, boulevard Général Wahis, 22/24, de nationalitéfrançais"
+        },
+        {
+          "name": "Monsieur ABOU EL FADLE Abderrahmane",
+          "party_type": "person",
+          "role": "administrator",
+          "address": "Al Hoceima (Maroc), sue Boukraa, 13",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur ABOU EL FADLE Abderrahmane, prénommé"
+        },
+        {
+          "name": "Monsieur Arnaud CISSE",
+          "party_type": "person",
+          "role": "administrator",
+          "address": "Brwrbeek, boulevard Général Wahis, 22/24",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Arnaud CISSE, prénoms"
+        },
+        {
+          "name": "Monsieur ABOU EL FADLE Mohamed",
+          "party_type": "person",
+          "role": "administrator",
+          "address": "Bruwelies, chaussée d'Anvers, 72",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur ABOU EL FADLE Mebansed, domicilié à Bruwelies, chaussée d'Anvers,72"
+        },
+        {
+          "name": "Monsieur ABOU EL FADLE Mohamed",
+          "party_type": "person",
+          "role": "President and delegated administrator",
+          "address": "Bruwelies, chaussée d'Anvers, 72",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le conseild'admiaitration nomme ams foncions de Président eid'administrateurdéléqus Monsieur ABOU EL FADLEMohamed, prénommêé, qui occple cle foncüon"
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING - BENOEMINGEN",
+      "deed_date": "éénendertig de-cember negentienhonderd “zesennegentig",
+      "publication_date": "25 januari 1997",
+      "publication_reference": "N. 970125 — 234",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Constitution of a public limited company (Naamloze vennootschap) named 'ROTEBE' with a capital of 20,100,000 francs, detailing its corporate purpose and initial appointments.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ROTEBE",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Louislei 11",
+          "postal_code": "2930",
+          "city": "Brasschaat",
+          "country": "Belgium",
+          "corporate_purpose": "het verwer-ven van participaties in ondernemingen, zo Belgi-sche als buitenlandse. Zij zal haar middelen aan- . :wenden voor dé samenstelling, het beheer, detegeldemaking en de vereffening van een porte- °feuille, bestaande uit aandelen, obligaties, effec:ten en andere roerende goederen, evenals tot hetverwerven, exploiteren en vervreemden van bre-vetten en andere intellectuele rechten. :__Zij mag ook optreden als bestuurder of veref-- fenaar van andere vennootschappen.De vennootschap mag in België en in hetbuitenland. alle commerciële, industriële, financi-- ele, roerende en onroerende verrichtingen doendie rechtstreeks of onrechtstreeks in verbandstaan met haar vennootschappelijk doel.Zij mag eveneens belangen verwerven bijwijze van inbreng, inschrijving of anderszins, inalle vennootschappen, ondernemingen of vereni-gingen die een gelijkaardig of analoog doel na-streven, of wier doel voor het doel van dè ven-nootschap bevorderlijk kan zijn. Zij mag zichvoor deze ondernemingen, verenigingen of ven-nootschappen borg stellen of hun aval verlenen,voorschotten en krediet toestaan, hypothecaire ofandere waarborgen verstrekken.",
+          "capital_amount": 20100000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Hélène CASMAN",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Er blijkt uit een akte op éénendertig de-cember negentienhonderd “zesennegentig verle-den voor Hélène CASMAN, Notaris te Antwer-pen"
+        },
+        {
+          "name": "De heer Petrus Adrianus HEUNEN",
+          "party_type": "person",
+          "role": "founder",
+          "address": "2930 Brasschaat, Louislei 11",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "1. De heer Petrus Adrianus HEUNEN,directeur, wonende te 2930 Brasschaat,“_Louislei 11."
+        },
+        {
+          "name": "Mevrouw Maria Cornelia LANGENBERG",
+          "party_type": "person",
+          "role": "founder",
+          "address": "2930 Brasschaat, Louislei 11",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "2. Mevrouw Maria Cornelia LANGEN.BERG, zonder beroep,. wonende te 2930 Brasschaat, Louislei 11."
+        }
+      ]
+    }
+  ]
+}

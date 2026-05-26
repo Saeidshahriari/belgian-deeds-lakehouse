@@ -1,0 +1,148 @@
+{
+  "source_file": "1997-10-25_0199.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Constitution",
+      "deed_date": "31/10/97",
+      "publication_date": "25 octobre 1997",
+      "publication_reference": "N. 971025 — 199",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a cooperative society with unlimited and joint liability, named CRISCAL, with its registered office in Woluwe-Saint-Lambert. Its corporate purpose includes wholesale and retail trade in general foodstuffs, fruits, vegetables, tobacco, alcohol, beverages, confectionery, textiles, gift articles, cleaning products, hardware, and HORECA establishments. The capital is unlimited with a minimum of 500,000 BEF. The society is constituted for an unlimited duration from 31/10/97. Three administrators are appointed, with Arican Abdil as the non-remunerated delegated administrator.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "CRISCAL",
+          "legal_form": "société coopérative à responsabilité illimitée et solidaire",
+          "registered_office_address": "Rue du Bois de lintout n°60",
+          "postal_code": "1200",
+          "city": "WOLUWE ST LAMBERT",
+          "country": null,
+          "corporate_purpose": "Commerce en gros et en détails en alimentations générales: Fruits et légumes, tabacs, alcools et boissons, divers produits de confiserie, produits secs etc. Vente en textiles, articles cadeaux, produits d'entretiens, articles de quincaillerie etc. Établissements HORECA: Salon de consommation à l'exclusion des activités réglementées, débit de boissons etc.",
+          "capital_amount": 500000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "ARICAN ABDIL",
+          "party_type": "person",
+          "role": "founder",
+          "address": "rue Botanique n°1, 1210 Bruxelles",
+          "start_date": "31/10/97",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "ARICAN ABDIL, ouvrier de nationalité Turc, domicilié au rue Botanique n°1, 1210 Bruxelles."
+        },
+        {
+          "name": "BURHAN CAPAN",
+          "party_type": "person",
+          "role": "founder",
+          "address": "139 Avenue CHAZAL, 1030 Bruxelles",
+          "start_date": "31/10/97",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "BURHAN CAPAN ouvrière de nationalité Turc, domiciliée au 139 Avenue CHAZAL, 1030 Bruxelles."
+        },
+        {
+          "name": "ARICIK IZZET",
+          "party_type": "person",
+          "role": "founder",
+          "address": "159 Avenue CHAZAL, 1030 Bruxelles",
+          "start_date": "31/10/97",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "ARICIK IZZET, ouvrier de nationalité Turc, domicilié au 159, Avenue CHAZAL, 1030 Bruxelles."
+        },
+        {
+          "name": "ARICAN ABDIL",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "L'assemblée générale décide de fixer le nombre des administrateurs pour la première fois à 3 : ARICAN ABDIL. L'assemblée Générale désigne en qualité d'administrateur délégué non rémunéré (son mandat est gratuit) monsieur ARICAN ABDIL, prénommé qui déclare accepter."
+        },
+        {
+          "name": "BURHAN CAPAN",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "BURHAN CAPAN"
+        },
+        {
+          "name": "ARICIK IZZET",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "ARICIK IZZET"
+        },
+        {
+          "name": "Arican Abdil",
+          "party_type": "person",
+          "role": "signatory",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Signé) Arican Abdil, administrateur délégué."
+        }
+      ]
+    },
+    {
+      "deed_type": "Modification of social object, change of denomination, transfer of registered office, modifications to statutes",
+      "deed_date": "deux octobre mil neuf cent nonante-six",
+      "publication_date": "25 octobre 1997",
+      "publication_reference": "N. 971025 — 200",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Modification of the corporate purpose, change of company name from 'INTERIEUR JOUR' to 'L & L', and transfer of the registered office from Ixelles to Watermael-Boitsfort. The company's legal form is a private limited liability company. The new corporate purpose is to provide material means and services for the profession of architect, urban planner, or designer, compatible with the Belgian Order of Architects' rules of ethics.",
+      "companies": [
+        {
+          "enterprise_number": "517.955.437.239.277",
+          "company_name": "L & L",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "avenue des Archiducs, 71",
+          "postal_code": "1170",
+          "city": "Watermael-Boitsfort",
+          "country": null,
+          "corporate_purpose": "La société a pour objet de fournir à ses clients les moyens matériels et les services nécessaires à l'exercice de la profession d'architecte, d'urbaniste, ou de designer ou toute activité compatible avec les régles de déontologie de l'Orde belge des Architectes.",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Thierry VAN HALTEREN",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "D'un acte de Maître Thierry VAN HALTEREN, Notaire à Bruxelles"
+        },
+        {
+          "name": "Frédéric COPPIN",
+          "party_type": "person",
+          "role": "inspecteur principal",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "L'inspecteur Principal a, (signé) Frédéric COPPIN"
+        }
+      ]
+    }
+  ]
+}

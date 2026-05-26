@@ -1,0 +1,83 @@
+{
+  "source_file": "12305887.pdf",
+  "page_count": 3,
+  "ocr_used": false,
+  "source_type": "searchable_pdf",
+  "deeds": [
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "8 november 2012",
+      "publication_date": "09-11-2012",
+      "publication_reference": null,
+      "form_reference": "Luik B",
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid Future At Work door Steven Juliaan Renaat Maria VAN DESSEL en Loes Mathilde Frans GEUENS. Het maatschappelijk kapitaal bedraagt 18.600€, gedeeltelijk volstort. Steven VAN DESSEL is benoemd tot zaakvoerder. De vennootschap heeft als doel IT Consulting, realisatie van multimediaprojecten, journalistieke en fotografische projecten, online verkoop, organisatie van cursussen en events, verwerving van participaties, leningen, advies, beheer van roerend en onroerend vermogen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Future At Work",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Voorbosweg 9",
+          "postal_code": "3472",
+          "city": "Kortenaken",
+          "country": "Belgium",
+          "corporate_purpose": "IT Consulting en advies; realisatie van multimediaprojecten, journalistieke projecten, fotografische projecten; online verkoop van consumptiegoederen; inrichten, organiseren, coördineren en verzorgen van cursussen, opleidingen, seminaries, events, workshops, trainingen, studiedagen, conferenties, congressen, beurzen, manifestaties, teambuilding en andere events, lesopdrachten en voordrachten. Algemene activiteiten omvatten het verwerven van participaties, toestaan van leningen en kredietopeningen, verlenen van adviezen van financiële, technische, commerciële of administratieve aard; waarnemen van bestuursopdrachten en opdrachten van vereffenaars; ontwikkelen, kopen, verkopen, in licentie nemen of geven van octrooien, knowhow en aanverwante immateriële duurzame activa; verlenen van administratieve prestaties en computerservices; aan- en verkoop, in- en uitvoer, commissiehandel en vertegenwoordiging van goederen; onderzoek, ontwikkeling, vervaardiging of commercialisering van nieuwe producten en technologieën. Beheer van een eigen roerend en onroerend vermogen.",
+          "capital_amount": 18600.0,
+          "capital_currency": "€"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Michaël JANSSEN",
+          "party_type": "notary",
+          "role": "instrumenting notary",
+          "address": "Bierbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "akte verleden voor notaris Michaël JANSSEN, met standplaats te Bierbeek, op 8 november2012"
+        },
+        {
+          "name": "VAN DESSEL Steven Juliaan Renaat Maria",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3472 Kortenaken, Voorbosweg 9",
+          "start_date": "8 november 2012",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "De heer VAN DESSEL Steven Juliaan Renaat Maria, geboren te Turnhout op18 september 1975, met woonplaats te 3472 Kortenaken, Voorbosweg 9"
+        },
+        {
+          "name": "GEUENS Loes Mathilde Frans",
+          "party_type": "person",
+          "role": "founder",
+          "address": "3472 Kortenaken, Voorbosweg 9",
+          "start_date": "8 november 2012",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Mevrouw GEUENS Loes Mathilde Frans, geboren te Mol op 2 maart1977, metwoonplaats te 3472 Kortenaken, Voorbosweg 9"
+        },
+        {
+          "name": "VAN DESSEL Steven",
+          "party_type": "person",
+          "role": "manager",
+          "address": null,
+          "start_date": "8 november 2012",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "De heer VAN DESSEL Steven werd tot zaakvoerder benoemd."
+        },
+        {
+          "name": "BVBA FISKAPLUS",
+          "party_type": "company",
+          "role": "special proxy",
+          "address": "3473 Waanrode, Halensebaan 111",
+          "start_date": "8 november 2012",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "met name de BVBA FISKAPLUS, met zetel te 3473 Waanrode, Halensebaan 111."
+        }
+      ]
+    }
+  ]
+}

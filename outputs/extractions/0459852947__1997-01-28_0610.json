@@ -1,0 +1,132 @@
+{
+  "source_file": "1997-01-28_0610.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Statutes and Appointment",
+      "deed_date": null,
+      "publication_date": "28 januari 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "General statutory provisions regarding extraordinary general meetings, voting rights, financial year, reserve fund, dissolution, and choice of domicile for managers/liquidators. Appointment of Eric-Henri-Irène-Corneliug Kers as manager for an indefinite period. Deed deposited on 14 January 1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": null,
+          "legal_form": null,
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Kers Eric-Henri-Irène-Corneliug",
+          "party_type": "person",
+          "role": "Zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de Heex Kers Eric-Henri-Irène-Corneliug voornoemd die aan»vaardt. Zijn mandaat is bezoldigd"
+        },
+        {
+          "name": "C. Brys",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) C. Brys,notaris,"
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "10 januari 1997",
+      "publication_date": "28 januari 1997",
+      "publication_reference": "N. 970128 — 610",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Establishment of the civil professional company 'MEDISCH KABINET Dr. DHADAMUS A.' by Ms. Ann Dhadamus. The company's purpose is the practice of medicine, particularly radiology, and related activities. Capital is 750,000 BEF. Ms. Ann Dhadamus is appointed as manager for 20 years. Deed deposited on 14 January 1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "MEDISCH KABINET Dr. DHADAMUS A.",
+          "legal_form": "Burgerlijke professionele vennootschap onder de vorm van een besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Markt 5",
+          "postal_code": "3150",
+          "city": "Haacht",
+          "country": null,
+          "corporate_purpose": "De uitoefening van de geneeskunde door haar organen-vennoten, zijnde geneesheren-specialisten in de radiologie, in naam en voor rekening van de vennootschap, en rekening houdende met de medische plichtenleer qua uitoefening van de geneeskunst. Het ter beschikking stellen van alle nodige middelen aan de geneesheren die tot de vennootschap toegetreden zijn. Het inrichten van de praktijk voor de beoefening van de geneeskunde in het algemeen en in het bijzonder de beoefening van de radiologie en aanverwante disciplines. Het aanleggen van reserves ten einde alle nodige apparatuur en gebouwen aan te schaffen. De mogelijkheden scheppen om de geneesheer-vennoot toe te laten zich verder te bekwamen. Het inrichten van algemene diensten en een medisch secretariaat in het bijzonder, die nodig of nuttig zijn voor de uitoefening van voornoemde activiteiten, meer in het bijzonder het innen en verdelen van de erelonen van de geneesheren-vennoten.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Ann DHADAMUS",
+          "party_type": "person",
+          "role": "Oprichter, Zaakvoerder",
+          "address": "Parkstraat SA bus 16, 3000 Leuven",
+          "start_date": "10 januari 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw Ann DHADAMUS, geneesheer, wonende te 3000 Leuven, Parkstraat SA bus 16. .een burgerlijke professionele. vennootschaponder de vorm van een besloten vennootschapmet beperkte aansprakelijk heeft opgerichtonder de benaming \"MEDISCH KABINET Dr. DHA-DAMUS À.\"."
+        },
+        {
+          "name": "Eric SPRUYT",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Meester Eric SPRUYT, Notaris te Brussel"
+        },
+        {
+          "name": "VANSOEST",
+          "party_type": "person",
+          "role": "Volmachtdrager (Accountant)",
+          "address": "Leuven-Heverlee",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Volmacht werd verleend aan de Heer VAN-SOEST, Accountant te Leuven-Heverlee, metmogetijkheid tot indeplaatsstelling, tensin-de alle nodige formaliteiten te vervullenvoor de inschrijving van de vennootschap inhet register der burgerlijke vennootschappenen bij alle andere diensten."
+        }
+      ]
+    },
+    {
+      "deed_type": "Registratie",
+      "deed_date": null,
+      "publication_date": "28 januari 1997",
+      "publication_reference": "N. 970128 — 611",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Notice regarding the company LIGNOLA, a public limited company, with its registered office in Hooglede.",
+      "companies": [
+        {
+          "enterprise_number": "BE 405.578.279",
+          "company_name": "LIGNOLA",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Kerkstraat 18",
+          "postal_code": "8830",
+          "city": "HOOGLEDE",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

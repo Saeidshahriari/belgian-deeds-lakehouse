@@ -1,0 +1,170 @@
+{
+  "source_file": "1997-09-16_0334.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Rectification - Opening Operational Seat",
+      "deed_date": "25 augustus 1997",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 333",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Rectification of the company's financial year end date (retains December 31st). The administration of the company is conducted in Dutch. Opening of an operational seat at Imperiaatraat 8, 1930 Zaventem, effective April 1997.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "C. Basecq",
+          "party_type": "person",
+          "role": "voorzitter",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) C. Basecq, voorzitter."
+        },
+        {
+          "name": "R. Winnen",
+          "party_type": "person",
+          "role": "secretaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) R. Winnen, secretaris."
+        },
+        {
+          "name": "N.V. Equity Associates S.A.",
+          "party_type": "company",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "N.V. Equity Associates S.A., gedelegeerd bestuurder"
+        },
+        {
+          "name": "Michel Ramioul",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder van N.V. Equity Associates S.A.",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "vertegenwoordigd door haar gedelegeerd bestuurder, (get) Michel Ramioul."
+        }
+      ]
+    },
+    {
+      "deed_type": "Délégation de pouvoir",
+      "deed_date": null,
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 335",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Mr. C. Lemaigre, manager of SPRL TRANS-CIT-BELGIUM, appoints Mr. EBROIN Patrick as co-manager and accepts the resignation of Madame BOULONNEL Léone.",
+      "companies": [
+        {
+          "enterprise_number": "BE 482.041.688",
+          "company_name": "TRANS-CIT-BELGIUM",
+          "legal_form": "SPRL",
+          "registered_office_address": "Avenue de Fré 202, 1180 Bruxelles",
+          "postal_code": "1180",
+          "city": "Bruxelles",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "C. Lemaigre",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mr. C. Lemaigre gérant de la SPRL TRANS-CIT-BELGIUM"
+        },
+        {
+          "name": "EBROIN Patrick",
+          "party_type": "person",
+          "role": "co-gérant",
+          "address": "Place des réfractaires n° 6 à Hannut",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "M. EBROIN Patrick, Place des réfractaires n° 6 à Hannut, co-gérant"
+        },
+        {
+          "name": "Madame BOULONNEL Léone",
+          "party_type": "person",
+          "role": "démissionnaire",
+          "address": "Rue Dewez n° 30, 7504 Pipaix",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame BOULONNEL Léone, Rue Dewez n° 30, 7S04 Pipaix."
+        }
+      ]
+    },
+    {
+      "deed_type": "Buitengewone Algemene Vergadering",
+      "deed_date": "25 augustus 1997",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 334",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Extraordinary General Meeting of EURO-DEMO N.V. held on August 25, 1997, decided to increase the capital by 2,000,000 BEF, from 1,250,000 BEF to 3,250,000 BEF, by creating 2,000 new shares through cash contribution.",
+      "companies": [
+        {
+          "enterprise_number": "BE 450.857.978",
+          "company_name": "EURO-DEMO",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Stationstraat 18, Dilbeek (Groot-Bijgaarden)",
+          "postal_code": null,
+          "city": "Dilbeek (Groot-Bijgaarden)",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": 3250000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Jacques Boel",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Asse",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Jean-Jacques Boel met standplaats te Asse"
+        },
+        {
+          "name": "L.Dobbelaere",
+          "party_type": "person",
+          "role": "Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(getekend) L.Dobbelaere. De Ontvanger"
+        },
+        {
+          "name": "Henri van Soest",
+          "party_type": "notary",
+          "role": "notaris (oprichting)",
+          "address": "Sint-Gillis (Brussel)",
+          "start_date": "1993-09-03",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Henri van Soest met standplaats te Sint-Gillis (Brussel), op 3 september 1993"
+        }
+      ]
+    }
+  ]
+}

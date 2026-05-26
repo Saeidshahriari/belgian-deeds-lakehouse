@@ -1,0 +1,243 @@
+{
+  "source_file": "1997-10-23_0152.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Oprichting - Benamingen",
+      "deed_date": "19 september negentienhonderd zevenennegentig",
+      "publication_date": "23 oktober 1997",
+      "publication_reference": "N. 971023 — 152",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid (BVBA) genaamd 'PATRIMA MEUBELEN' (in de akte 'Meubelen FATIMA') met zetel te Herent-Veltem-Beisem, Haachtstraat 79. Het kapitaal bedraagt vijf miljoen frank, verdeeld in duizend aandelen. Inbreng in natura en speciën door de oprichters. Benoeming van Marc Van Roey als zaakvoerder en Maria Coosemans als plaatsvervangend zaakvoerder.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "PATRIMA MEUBELEN",
+          "legal_form": "Besloten vennootschap met beperkte-aansprakelijkheid",
+          "registered_office_address": "Haachtstraat 79",
+          "postal_code": "3020",
+          "city": "Veltem-Beisem",
+          "country": "België",
+          "corporate_purpose": "aankoop en verkoop van meubelen in het algemeen, aanbouwkeukens, badkamers, decoratieartikelen, bedding, bed, bad- en keukentextiel, gordijnen, overgordijnen, behang, verf, alsook de plaatsing hiervan, tuinmeubelen, volledige interieurinrichting, herstellen van meubelen, verhuizen en plaatsen van meubelen. Verkoop van dranken, snacks en maaltijden.",
+          "capital_amount": 5000000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Hugo Kuijpers",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Leuven-Heverlee",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte, verleden voor notaris Hugo Kuijpers te Leuven-Heverlee"
+        },
+        {
+          "name": "Henri Van Roey",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Haachtstraat 79, Herent-Veltem-Beisem",
+          "start_date": "1997-09-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Henri Van Roey, gehuisvest te Herent-Veltem-Beisem, Haachtstraat 79"
+        },
+        {
+          "name": "Maria Coosemans",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Haachtstraat 79, Herent-Veltem-Beisem",
+          "start_date": "1997-09-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "mevrouw Maria Coosemans, gehuisvest te Herent-Veltem-Beisem, Haachtstraat 79"
+        },
+        {
+          "name": "Rita Van Roey",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Leuvensestraat 22, Herent-Veltem-Beisem",
+          "start_date": "1997-09-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "mevrouw Rita Van Roey, gehuisvest te Herent-Veltem-Beisem, Leuvensestraat 22"
+        },
+        {
+          "name": "Patrick Van Roey",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Kerkhofweg 11, Herent-Veltem-Beisem",
+          "start_date": "1997-09-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Patrick Van Roey, gehuisvest te Herent-Veltem-Beisem, Kerkhofweg 11"
+        },
+        {
+          "name": "Marc Van Roey",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Haachtstraat 77, Herent-Veltem-Beisem",
+          "start_date": "1997-09-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Marc Van Roey, gehuisvest te Herent-Veltem-Beisem, Haachtstraat 77"
+        },
+        {
+          "name": "Bruno Blatos",
+          "party_type": "person",
+          "role": "revisor",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Bruno Blatos, revisor te Antwerpen"
+        },
+        {
+          "name": "Marc Van Roey",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Marc Van Roey benoemd tot zaakvoerder"
+        },
+        {
+          "name": "Maria Coosemans",
+          "party_type": "person",
+          "role": "plaatsvervangend zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw Maria Coosemans werd aangesteld als plaatsvervangend zaakvoerder"
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1/10/1997",
+      "publication_date": "23 oktober 1997",
+      "publication_reference": "N. 971023 — 153",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid (BVBA) genaamd 'PRIMO PIANO' met zetel te 3000 Leuven, Klein Begijnhof, 21. Het kapitaal bedraagt 750.000 frank, verdeeld in 150 aandelen. Antonius Van Draanen en Sonia Gasparini zijn benoemd tot zaakvoerders.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "PRIMO PIANO",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Klein Begijnhof, 21",
+          "postal_code": "3000",
+          "city": "Leuven",
+          "country": "België",
+          "corporate_purpose": "De verkoop van artistieke vertoningen, het organiseren van evenementen, concerten, optredens, happenings. De organisatie van tournees en van concerten evenals de artistieke promotie. Het uitvoeren van artistiek management. De merchandising en de promotionele artistieke exploitatie. Het werven en administreren van sponsorgelden. Het ter beschikking stellen van materiaal en van technisch personeel. De artistieke editie en produktie op alle mogelijke weergavemedia. De communicatie in de ruimste zin van het woord, met alle moderne media en in het bijzonder film, televisie, radio, videocassettes, multimedia, internet, ... en alle huidige en toekomstige communicatievormen en toepassingen. De productie, de regie, de technische realisatie van televisieprogramma's, video, clips, bedrijfsfilms, reklameopdrachten enzovoort... De fabricatie, aan- en verkoop, in- en export van alle mogelijke huidig gekende en toekomstige audio-visuele dragers en al wat hiermee in verband staat.",
+          "capital_amount": 750000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "E. Vangoetsenhoven",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Bertem (Leefdaal)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte verleden voor not.E.Vangoetsenhoven te Bertem (Leefdaal)"
+        },
+        {
+          "name": "Antonius Thome Jozefus Maria Van Draanen",
+          "party_type": "person",
+          "role": "vennoot",
+          "address": "Klein Begijnhof, 21, 3000 Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Dhr. VAN DRAANEN, Antonius Thome Jozefus Maria, zaakvoerder, wonende te 3000 Leuven, Klein Begijnhof, 21"
+        },
+        {
+          "name": "Sonia Gasparini",
+          "party_type": "person",
+          "role": "vennoot",
+          "address": "Klein Begijnhof, 21, 3000 Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mej. GASPARINI, Sonia, bediende, wonende te 3000 Leuven, Klein Begijnhof, 21"
+        },
+        {
+          "name": "Antonius Van Draanen",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Van Draanen, Antonius voornoemd"
+        },
+        {
+          "name": "Sonia Gasparini",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw Gasparini Sonia voornoemd"
+        }
+      ]
+    },
+    {
+      "deed_type": "Benoeming Bestuurders",
+      "deed_date": "11 juni 1996",
+      "publication_date": "23 oktober 1997",
+      "publication_reference": "N. 971023 — 154",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "De jaarlijkse algemene vergadering van aandeelhouders van N.V. DE KIE heeft besloten om N.V. Publifina te benoemen tot Bestuurder voor een periode van 3 jaar, tot de Algemene Vergadering in 1999.",
+      "companies": [
+        {
+          "enterprise_number": "404.763.974",
+          "company_name": "DE KIE",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Zwaluwbeek 39",
+          "postal_code": "9120",
+          "city": "Beveren",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "N.V. Publifina",
+          "party_type": "company",
+          "role": "Bestuurder",
+          "address": null,
+          "start_date": "1996-06-11",
+          "end_date": "1999",
+          "confidence": null,
+          "raw_context": "beslist om de N.V. Publifina tot Bestuurder te benoemen en dit voor 3 jaar tot de Algemene Vergadering in 1999"
+        },
+        {
+          "name": "Hendrik Buys",
+          "party_type": "person",
+          "role": "voorzitter",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get.) Hendrik Buys, voorzitter."
+        }
+      ]
+    }
+  ]
+}

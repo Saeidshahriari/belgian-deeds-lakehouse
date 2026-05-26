@@ -1,0 +1,235 @@
+{
+  "source_file": "1997-02-13_0411.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Constitution",
+      "deed_date": "13 januari 1997",
+      "publication_date": "13 februari 1997",
+      "publication_reference": "N. 970213 — 411",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Report of the auditor regarding the contribution in kind for the incorporation of D.M.V. TRANS, followed by details of capital contributions (in kind and cash) and appointment of managers.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "D.M.V. TRANS",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": "Affligem Feralfene",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 750000.0,
+          "capital_currency": "Frank"
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "D'Haens, De Backer & C°, Bedrijfsrevisoren",
+          "legal_form": "Burgerlijke Vennootschap onder vorm van Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Dendermondsesteenweg, 29",
+          "postal_code": "9300",
+          "city": "Aalst",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Dolf De Backer",
+          "party_type": "person",
+          "role": "bedrijfsrevisor, zaakvoerder",
+          "address": "9300 Aalst",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "André De Meersman",
+          "party_type": "person",
+          "role": "inbrenger, vennoot, zaakvoerder",
+          "address": null,
+          "start_date": "31 januari 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Petro Vercauteren",
+          "party_type": "person",
+          "role": "inbrenger, vennoot, zaakvoerder",
+          "address": null,
+          "start_date": "31 januari 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Annie Vercauteren",
+          "party_type": "person",
+          "role": "vennoot, zaakvoerder",
+          "address": null,
+          "start_date": "31 januari 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "E Caudron",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "30 janvier 1997",
+      "publication_date": "13 février 1997",
+      "publication_reference": "N. 970213 — 412",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'DANTES' by Jean-Claude LEDENT and Catherine Liliane Caroline TESTAERT, with details on founders, registered office, corporate purpose, capital, duration, and management.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DANTES",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "rue du Cadran, 8",
+          "postal_code": null,
+          "city": "Saint-Josse-ten-Noode",
+          "country": null,
+          "corporate_purpose": "toutes les prestations matérielles ou intellectuelles se rapportant directement ou indirectement à l'exercice de la profession de Kinésithérapeute, d'ostéopathe, aux soins de beauté et plus généralement de toutes les professions paramédicales; l'étude, le développement et la gestion d'un ou plusieurs centres multidisciplinaires de soins paramédicaux ou de kinésithérapie au sens le plus large; l'étude et la consultance sur les problèmes nés de ces professions. Pour réaliser son objet la société peut également: rechercher, acheter, vendre, échanger, consentir ou prendre option, lotir, urbaniser, louer ou sous-louer, aménager ou transformer tout immeuble bâti ou non; acheter, vendre, louer ou sous-louer tout matériel ou produit utile ou nécessaire à l'établissement ou à l'exercice des professions médicales et paramédicales susdites; prêter assistance technique, financière, organique ou administrative à ses membres ou à des tiers. D'une manière générale, elle peut accomplir toutes opérations généralement quelconques, financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet. La société peut s'intéresser par toutes voies, dans toutes affaires, entreprises ou sociétés ayant un objet identique, analogue, similaire ou connexe, ou qui soit de nature à favoriser le développement de son entreprise ou à faciliter l'écoulement de ses produits et services.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "François DHONT",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Saint-Josse-ten-Noode",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "LEDENT Jean-Claude Paul José",
+          "party_type": "person",
+          "role": "fondateur, kinésithérapeute, gérant",
+          "address": "Schaerbeek, rue Achille Detienne, 50",
+          "start_date": "30 janvier 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "TESTAERT Catherine Liliane Caroline",
+          "party_type": "person",
+          "role": "fondateur, kinésithérapeute",
+          "address": "Schaerbeek, rue Achille Detienne, 50",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "ROGGEMAN Rogier Bernard",
+          "party_type": "person",
+          "role": "souscripteur de parts sociales",
+          "address": "Schaerbeek, rue Van Droogenbroeck, 48",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "E Dhont",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "23 janvier 1997",
+      "publication_date": "13 février 1997",
+      "publication_reference": "N. 970213 — 412",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'TIME IS MONEY' by Alexandre Joseph Marthe Marie Godelieve Ghislain de MAHIEU and Bénédicte Marie Cécile Yvelle Ghislaine de MAEREd'AERTRUCKE, with details on founders, registered office, capital, and corporate purpose.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TIME IS MONEY",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "rue Henri Chomé 34",
+          "postal_code": "1030",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "pour son propre compte ou pour le compte de tiers ou comme intermédiaire, toutes opérations se rattachant directement ou indirectement aux opérations industrielles, commerciales, financières, mobilières et immobilières se rapportant directement ou indirectement aux activités bancaires, d'assurances, de comptabilité, de fiscalité et d'immobilier ainsi que la consultance en ces matières. La société peut, en Belgique comme à l'étranger, s'intéresser dans toutes affaires, entreprises ou sociétés, ayant un objet identique, analogue, similaire ou connexe, ou qui sont de nature à favoriser le développement de son activité, à lui procurer des matières premières ou faciliter l'écoulement de ses produits. La société peut réaliser son objet en tous lieux suivant les modalités qui lui paraissent le mieux adaptées à la loi en vigueur et elle pourra s'intéresser par voie d'apport, de fusion, de souscription, d'accord, de collaboration d'entente, de fait d'union ou de toute autre manière, dans toutes entreprises, associations, sociétés dont l'objet serait similaire ou connexe en Belgique et à l'étranger et qui peut l'aider d'une manière ou d'une autre à son développement présent ou futur. Elle pourra faire d'une manière générale et sans que l'énumération qui précède, soit limitative, toutes opérations commerciales, industrielles, financières et civiles, mobilières et immobilières ayant un rapport direct ou indirect avec son objet ou pouvant en faciliter la réalisation; elle pourra également s'insérer par voie d'association, d'apports ou de fusion, de souscriptions, de participations, d'interventions financières ou autrement dans toutes sociétés ou entreprises existantes ou à créer, dont l'objet social serait analogue ou connexe au sien ou qui serait susceptible pour elle de favoriser le développement des affaires sociales.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Christiaan de GRAVE",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Watermael-Boitsfort",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Alexandre Joseph Marthe Marie Godelieve Ghislain de MAHIEU",
+          "party_type": "person",
+          "role": "fondateur, indépendant, souscripteur d'actions, gérant",
+          "address": "1030 Schaerbeek, rue Henri Chomé, 34",
+          "start_date": "01/02/1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Bénédicte Marie Cécile Yvelle Ghislaine de MAEREd'AERTRUCKE",
+          "party_type": "person",
+          "role": "fondateur, enseignante, souscripteur d'actions",
+          "address": "1030 Schaerbeek, rue Henri Chomé, 34",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Michel HARDY",
+          "party_type": "person",
+          "role": "Receveur ai., vérificateur",
+          "address": "Uccle",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

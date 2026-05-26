@@ -1,0 +1,268 @@
+{
+  "source_file": "1997-02-15_0614.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Ontslag zaakvoerder; Verplaatsing maatschappelijke zetel",
+      "deed_date": "31 januari 1997",
+      "publication_date": "15 februari 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Ontslag van Danny LAPERRE als statutair zaakvoerder en verplaatsing van de maatschappelijke zetel naar 8500 Kortrijk - Brugsesteenweg 161.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": null,
+          "legal_form": null,
+          "registered_office_address": "Brugsesteenweg 161",
+          "postal_code": "8500",
+          "city": "Kortrijk",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Danny LAPERRE",
+          "party_type": "person",
+          "role": "ontslagen statutair zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-01-31",
+          "confidence": 1.0,
+          "raw_context": "De Heer Danny LAPERRE werd ontslagen alsstatutair zaakvoerder met ingang van 31jenuari 1997"
+        },
+        {
+          "name": "W. Kuhne",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Get) W. Kuhne,zaakvoerder."
+        }
+      ]
+    },
+    {
+      "deed_type": "KAPITAALVERHOGING; Wijziging maatschappelijke zetel; Aanpassing statuten; Benoeming bestuurders",
+      "deed_date": "21/01/1997",
+      "publication_date": "15 februari 1997",
+      "publication_reference": "N. 970215 — 613",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Eerste kapitaalverhoging met 3.150.000F door incorporatie van reserves. Tweede kapitaalverhoging met 8.340.000F door inbreng in speciën. Wijziging van de maatschappelijke zetel naar 8793 Sint-Eloois-Vijve, Gentseweg 461. Aanpassing van de regeling inzake het tegenstrijdig belang van de bestuurders. Benoeming van Mevrouw Diane Devogele en de N.V. 'A.B.W.' als bestuurders.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "AUTOHANDEL DIDIER",
+          "legal_form": "NAAMLOZE VENNOOTSCHAP",
+          "registered_office_address": "Gentseweg 461",
+          "postal_code": "8793",
+          "city": "Sint-Eloois-Vijve",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 12750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Lucas Vanden Bussche",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Knokke Heist",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "akte verleden voor notaris Lucas Vanden Bussche te Knokke Heist op 21/01/1997"
+        },
+        {
+          "name": "Mevrouw Diane Devogele",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "Bochtenstraat 31, Laarne",
+          "start_date": null,
+          "end_date": "2000",
+          "confidence": 1.0,
+          "raw_context": "Benoeming van Mevrouw Diane Devogele, zonder beroep, wonende te Laarne, Bochtenstraat 31; en de naamloze vennootschap “A.B.W.\", met zetel te Laarne, Bochtenstraat 31 als bestuurders van de vennootschap tot aan de algemene vergadering van het jaar 2000."
+        },
+        {
+          "name": "A.B.W.",
+          "party_type": "company",
+          "role": "bestuurder",
+          "address": "Bochtenstraat 31, Laarne",
+          "start_date": null,
+          "end_date": "2000",
+          "confidence": 1.0,
+          "raw_context": "Benoeming van Mevrouw Diane Devogele, zonder beroep, wonende te Laarne, Bochtenstraat 31; en de naamloze vennootschap “A.B.W.\", met zetel te Laarne, Bochtenstraat 31 als bestuurders van de vennootschap tot aan de algemene vergadering van het jaar 2000."
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING; OVERGANGSBEPALINGEN",
+      "deed_date": "03 februari 1997",
+      "publication_date": "15 februari 1997",
+      "publication_reference": "N. 970215 — 614",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een burgerlijke vennootschap onder de vorm van een vennootschap onder firma genaamd 'DEPUS en VENNOTEN'. Vaststelling van maatschappelijk doel, zetel te 3000 Leuven, Naamsevest 88, vermogen van 1.125.000 BEF, onbepaalde duur, bestuur door zaakvoerder Mevrouw DEPUS Jenny, en overgangsbepalingen voor het eerste boekjaar en de eerste algemene vergadering.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DEPUS en VENNOTEN",
+          "legal_form": "Burgerlijke Vennootschap onder de vorm van een Vennootschap onder Firma",
+          "registered_office_address": "Naamsevest 88",
+          "postal_code": "3000",
+          "city": "Leuven",
+          "country": null,
+          "corporate_purpose": "het verwerven en het beheren van een patrimonium, zowel onroerend als roerend; het patrimonium gevormd door de inbrengsten en grotendeels bestaande uit onroerende goederen te behouden, in de ruimste zin van het woord te beheren en oordeelkundig uit te breiden. De vennootschap zal er zorg voor dragen haar onroerende goederen slechts te vervreemden, wanneer deze bouwrijp geworden zijn, of wanneer gebiedende omstandigheden daartoe dwingen; Binnen het kader van haar maatschappelijk doel zal de vennootschap mogen overgaan tot het aankopen, opschikken, uitrusten, valoriseren, bouwen, verhuren, of in huur nemen van onroerende goederen, al dan niet bebouwd. De vennootschap kan alle om het even welke verrichtingen uitvoeren, financiële, roerende of onroerende, die rechtstreeks of onrechtstreeks in verband staan met haar doel, en ondermeer mag zij alle roerende en onroerende goederen verwerven, bouwen, vervreemden, in huur geven en nemen: alle gebouwen verkopen en verbouwen. Zij mag op elke wijze belangen nemen in alle zaken, vennootschappen of ondernemingen, die een gelijksoortig, gelijkaardig of aanverwant doel hebben aan het hare of die van die aard zijn de uitbreiding van haar onderneming te bevorderen, haar grondstoffen te verschaffen of de afzet van haar produkten te vergemakkelijken.",
+          "capital_amount": 1125000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Mevrouw DEPUS Jenny",
+          "party_type": "person",
+          "role": "vennoot; zaakvoerder",
+          "address": "Goede Haardlaan 10, Heverlee",
+          "start_date": "1997-02-03",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Mevrouw DEPUS Jenny, advocats, echtgenote van de heer TOBBACK, Louis, wonende te Heverlee, Goede Haardlaan 10. ... Tot zaakvoerder vennoot wordt voor de duur van de vennootschap benoemd, mevrouw DEPUS Jenny, voornoemd."
+        },
+        {
+          "name": "De heer TOBBACK Bruno",
+          "party_type": "person",
+          "role": "vennoot",
+          "address": "Kapelberg 66, 3001 Heverlee",
+          "start_date": "1997-02-03",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "De heer TOBBACK Bruno, advocaat, ongehuwd, wonende re 3001 Heverlee, Kapelberg 66."
+        },
+        {
+          "name": "De heer TOBBACK Wim",
+          "party_type": "person",
+          "role": "vennoot",
+          "address": "Goede Haardlaan 10, 3004 Heverlee",
+          "start_date": "1997-02-03",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "De heer TOBBACK Wim, suxlent, ongehuwd, wonende te 3004 Heverlee, Goede Haardlaan 10,"
+        }
+      ]
+    },
+    {
+      "deed_type": "Verplaatsing maatschappelijke zetel",
+      "deed_date": "29 januari 1997",
+      "publication_date": "15 februari 1997",
+      "publication_reference": "N. 970215 — 615",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Verplaatsing van de maatschappelijke zetel van BVBA 'JUSTRIM INTERNATIONAL' naar 8500 Kortrijk, Oudenaardsesteenweg 102.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "JUSTRIM INTERNATIONAL",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Oudenaardsesteenweg 102",
+          "postal_code": "8500",
+          "city": "Kortrijk",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "DEEREN Josky",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Uit een beslissing de dato 29 januari 1997van de Heer DEEREN Josky, zaakvoerder"
+        }
+      ]
+    },
+    {
+      "deed_type": "VERPLAATSING ZETEL",
+      "deed_date": "04 november 1996",
+      "publication_date": "15 februari 1997",
+      "publication_reference": "N. 970215 — 616",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Verplaatsing van de maatschappelijke zetel van N.V. 'GILIV' naar Dadstraat 4, 9690 KLUISBERGEN.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "GILIV",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Dadstraat 4",
+          "postal_code": "9690",
+          "city": "KLUISBERGEN",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "M. Messiaen",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Get) M. Messiaen,gedelegeerd bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "WIJZIGING ZETEL",
+      "deed_date": "03 februari 1997",
+      "publication_date": "15 februari 1997",
+      "publication_reference": "N. 970215 — 617",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Wijziging van de maatschappelijke zetel van N.V. 'JULICOR' naar 8020 Ruddervoorde - Hazeibeekstraat 28.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "JULICOR",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Hazeibeekstraat 28",
+          "postal_code": "8020",
+          "city": "Ruddervoorde",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "J. Knockaert",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Get) J. Knockaert,gedelegeerd bestuurder."
+        }
+      ]
+    }
+  ]
+}

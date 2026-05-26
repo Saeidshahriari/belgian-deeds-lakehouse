@@ -1,0 +1,283 @@
+{
+  "source_file": "1997-01-18_0123.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Société Privée à Responsabilité Limitée Unipersonnelle",
+      "deed_date": "07.01.1997",
+      "publication_date": "18 janvier 1997",
+      "publication_reference": "N. 970118 — 122",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a one-person private limited liability company named KATI. Capital is 750,000 FRANCS. Registered office at 1140 EVERE, rue de Genève 117 boîte 50. Corporate purpose includes taxi operations, transport, garage services, car sales, food products, restaurants, express courier, perfumery, textiles, bakery, electronics, tobacco, flowers, industrial products, and butchery. The company is constituted for an unlimited duration. Monsieur ALIKHANT Asghar is named non-statutory manager for an unlimited duration. The first financial year runs from 07.01.1997 to 31.12.1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "KATI",
+          "legal_form": "Société Privée à Responsabilité Limitée Unipersonnelle",
+          "registered_office_address": "rue de Genève 117 boîte 50",
+          "postal_code": "1140",
+          "city": "EVERE",
+          "country": null,
+          "corporate_purpose": "toutes opérations se rapportant à l'exploitation d'une entreprise de taxis, y compris les bureaux de centralisation d'appels téléphoniques et de transmissions pour taxis; au transport par tous moyens de locomotions routiers de personnes et de marchandises; à l'exploitation d'un garage pour effectuer tout travail de réparation, d'entretien, de lavage de tous véhicules automoteurs, comprend également le dépannage sur route, atelier de réparation, à l'exploitation d'une pompe à essence et de tous carburants tels que mazout, diesel, gaz. énumération non limitative, Atelier de carrosserie et de peinture: à la location, la vente, l'achat, l'exportation, l'importation de voitures, de camionnettes, de camions et de tous véhicules automoteurs neufs ou d'occasion; l'achat, la vente de graisses, des hydrocarbures, pneus, les pièces de rechanges et les accessoires autos en tout genre, ainsi que leur import-export, La société a également pour objet toutes opérations généralement quelconques industrielles, financières, mobilières ou immobilières, se rapportant directement ou indirectement au commerce, fabrication, location, l'achat, la vente en gros ou en détail, la représentation, la distribution, le service, le conditionnement, l'exploitation et le courtage, l'importation et l'exportation, soit pour son propre compte soit pour le compte de tiers de: tous produits alimentaires, principalement fruits, légumes, poissons, conserves et produits laitiers, night-shop ; tous restaurants, brasseries, hôtels, snack-bars, tavernes, débits de boissons et nourritures, cabarets, discothèques, buffets, vestiaires pour publics, locations de places, de salles, d'organisation de banquets, services traiteurs; tous services de courrier express, transport de marchandises; tous articles de parfumerie, de toilette, cosmétique, produits de beauté, maquillage ainsi que des savons et détergents : toutes peaux brutes et tous textiles en général, vêtements divers, confection, chaussures, cordonnerie, serrurerie, maroquinerie dans le sens le plus large , tous produits de la boulangerie et de la pâtisserie : tous produits électroménagers, tous films, bandes magnétiques, cassettes, tous articles imprimés ou enregistrés ainsi qu'appareils, instruments et accessoires permettant leur lecture, vision ou audition; tabacs, boissons alcoolisées ou non, cabines téléphoniques, toutes fleurs, plantes, articles de pépinière et de jardinage, aménagement et entretien de jardins, tous produits de la mer, tous produits industriels et machines industrielles, tous produits de la boucherie. La société pourra, d'une manière générale, accomplir toutes les opérations commerciales, industrielles, financières, mobilières et immobilières se rapportant directement ou indirectement, entièrement ou partiellement à la réalisation de son objet social. Elle pourra exercer toute activité susceptible de favoriser la réalisation de son objet social et participer à une telle activité de quelque façon que ce soit. Elle peut participer dans ou se fusionner avec d'autres sociétés ou entreprises qui peuvent contribuer à son développement ou le favoriser. Elle peut, tant en Belgique qu'à l'étranger, faire toutes opérations commerciales, industrielles, immobilières, mobilières ou financières, se rattachant directement ou indirectement à son objet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe BOUTE",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "reçu par le notaire Philippe BOUTE à Bruxelles"
+        },
+        {
+          "name": "ALIKHANT Asghar",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Evere, rue de Genève 117. boîte 50",
+          "start_date": "1997-01-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur ALIKHANT Asghar,ingénieur mécanicien, né À Nazarabad le 15.10.1956, réfugié de l'ONU d'origine iranienne, domicilié à Evere, rue de Genève 117. boîte 50, a constitué une société privée à responsabilité limitée unipersonnelle dénommée KATI. ... Le comparant est nommé gérant non statutaire, pour une durée illimitée."
+        }
+      ]
+    },
+    {
+      "deed_type": "Société privée à responsabilité limitée",
+      "deed_date": "1996-12-23",
+      "publication_date": "18 janvier 1997",
+      "publication_reference": "N. 970118 — 123",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named \"SILENT-AGE\". Registered office at 1190 Bruxelles, rue Rodenbach 67. Capital is 750,000 francs. Corporate purpose includes the purchase, sale, rental, import, export, repair, production, expertise, and installation of audio, HI-FI, sound, lighting, video equipment, musical instruments, computer antennas, and similar materials, including commercial intermediary activities and advertising. It also covers the organization of shows, concerts, and events, as well as studio recording, distribution, promotion of recordings, soundproofing, and studio design. The company has an unlimited duration, starting from January 1, 1997. The first financial year runs from January 1, 1997, to December 31, 1997. The annual general meeting is held on May 28th.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SILENT-AGE",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "rue Rodenbach 67",
+          "postal_code": "1190",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "en Belgique ou à l'étranger, pour compte propre ou pour compte de tiers, ou en participation avec des tiers, l'achat, la vente, la location, l'importation, l'exportation, la réparation, la production, l'expertise et l'installation de matériel Audio, HI-FI de matériel de sonorisation et d'éclairage, vidéo, d'instruments de musique, d'antennes d'informatique musicale et tout autre matériel similaire en ce compris l'activité d'intermédiaire commercial et tout ce qui touche de près ou de loin à la publicité. Elle a aussi pour objet l'organisation de spectacles, de concerts et de tous événements dans le sens le plus large. Elle a également pour objet l'enregistrement en studio, la distribution et la promotion d'enregistrements sur tous supports de même que l'insonorisation de locaux et la conception de studios d'enregistrement. Elle peut, dans les limites de son objet social, tant en Belgique qu'à l'étranger, effectuer toutes opérations mobilières, immobilières, financières, industrielles, commerciales ou civiles. Elle peut s'intéresser, par voie d'apport, de cession, de fusion, de souscription, de participation, d'intervention financière ou autrement, dans toutes sociétés, entreprises ou opérations ayant un objet similaire ou connexe ou de nature à favoriser la réalisation de son objet.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Luc INDEKEU",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "acte dressé par Maître Jean-Luc INDEKEU, notaire à Bruxelles"
+        },
+        {
+          "name": "Jacques VANEECKHOUT",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1190 Bruxelles, rue Rodenbach 67",
+          "start_date": "1997-01-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Jacques VANEECKHOUT, sales engineer, demeurant à 1190 Bruxelles, rue Rodenbach 67."
+        },
+        {
+          "name": "Marleen VAN CROMBRUGGE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1190 Bruxelles, rue Rodenbach 67",
+          "start_date": "1997-01-01",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mademoiselle Marleen VAN CROMBRUGGE, coiffeuse, demeurant à 1190 Bruxelles, rue Rodenbach 67."
+        }
+      ]
+    },
+    {
+      "deed_type": "Société anonyme",
+      "deed_date": "1996-12-10",
+      "publication_date": "18 janvier 1997",
+      "publication_reference": "N. 970118 — 124",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a public limited company (SA) named \"S.A. IMMOBILIERE CHATEAU SAINTE-ANNE\". Registered office at rue du Vieux Moulin 103, Auderghem (1160 Bruxelles). The deed was drawn up by Notary Jean-Luc INDEKEU. Founders include an association, another company, and several individuals. The text is cut off, so further details are incomplete.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "S.A. IMMOBILIERE CHATEAU SAINTE-ANNE",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "rue du Vieux Moulin 103",
+          "postal_code": "1160",
+          "city": "Auderghem",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Luc INDEKEU",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "acte dressé par Maître Jean-Luc INDEKEU, notaire à Bruxelles"
+        },
+        {
+          "name": "Association sans but lucratif \"Maison Européenne de la Duchesse\" (MEVD)",
+          "party_type": "association",
+          "role": "founder",
+          "address": "Auderghem, rue du Vieux Moulin 103",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "L'Association sans but lucratif \"Maison Européenne de la Duchesse\" (MEVD), dont le siège social est établi à Auderghem, rue du Vieux Moulin 103"
+        },
+        {
+          "name": "Baron Reginald KERVYN de VOLKAERSBEKE",
+          "party_type": "person",
+          "role": "representative",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "représentée par le Baron Reginald KERVYN de VOLKAERSBEKE et Monsieur Jean-Michel"
+        },
+        {
+          "name": "WORLD TRADE CENTER",
+          "party_type": "company",
+          "role": "founder",
+          "address": "1000 Bruxelles, boulevard Emile Jacgmain 162",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "La société anonyme \"WORLD TRADE CENTER\", en abrégé WTC\", dont le siège social est établi à 1000 Bruxelles, boulevard Emile Jacgmain 162"
+        },
+        {
+          "name": "Charles JONCKHEERE",
+          "party_type": "person",
+          "role": "representative",
+          "address": "1000 Bruxelles, avenue du Chili 18",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "représentée par Monsieur Charles JONCKHEERE, demeurant à 1000 Bruxelles, avenue du Chili 18"
+        },
+        {
+          "name": "Didrik AASS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1150 Bruxelles, rue du Bemmel 19",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Didrik AASS, demeurant à 1150 Bruxelles, rue du Bemmel 19"
+        },
+        {
+          "name": "Jerome AASS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1150 Bruxelles, rue du Boemel 39",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Jerome AASS, demeurant à 1150 Bruxelles, rue du Boemel 39"
+        },
+        {
+          "name": "Roderick ABBOTT",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1292 Chambesy-Pregny, Chemin de Valérie 11",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Roderick ABBOTT, demeurant à 1292 Chambesy-Pregny, Chemin de Valérie 11"
+        },
+        {
+          "name": "Pierre CH. AMILHAT",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1049 Bruxelles, rue de la Loi 200",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Pierre CH. AMILHAT, demeurant à 1049 Bruxelles, rue de la Loi 200"
+        },
+        {
+          "name": "Jacqueline ANDRE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1200 Bruxelles, avenue Albert Elisabeth 64/55",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Jacqueline ANDRE, demeurant à 1200 Bruxelles, avenue Albert Elisabeth 64/55"
+        },
+        {
+          "name": "Mario ANGELINI",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1180 Bruxelles, avenue du Vert Chasseur 27",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Mario ANGELINI, demeurant à 1180 Bruxelles, avenue du Vert Chasseur 27"
+        },
+        {
+          "name": "Didier BELLENS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1160 Bruxelles, avenue Louis Vercauteren 25",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Didier BELLENS, demeurant à 1160 Bruxelles, avenue Louis Vercauteren 25"
+        },
+        {
+          "name": "Philippe BERGMANS",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1160 Bruxelles, avenue Cardinal Micara 77",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Philippe BERGMANS, demeurant à 1160 Bruxelles, avenue Cardinal Micara 77"
+        },
+        {
+          "name": "Hélène BERNET",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1170 Bruxelles, avenue Van Becelaere 26/B 14",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Hélène BERNET, demeurant à 1170 Bruxelles, avenue Van Becelaere 26/B 14"
+        },
+        {
+          "name": "David BLABER",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1050 Bruxelles, rue Kindermans 35",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur David BLABER, demeurant à 1050 Bruxelles, rue Kindermans 35"
+        }
+      ]
+    }
+  ]
+}

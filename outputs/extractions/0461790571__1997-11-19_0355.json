@@ -1,0 +1,208 @@
+{
+  "source_file": "1997-11-19_0355.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Statutenwijziging",
+      "deed_date": "1997-10-06",
+      "publication_date": "1997-11-19",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Mise en concordance de l'article 5 des statuts. Le capital est fixé à un million de francs divisé en mille parts sociales. Lors de la constitution, le capital était de deux cent cinquante mille francs divisé en deux cent cinquante parts sociales. Deux cent cinquante parts sociales nouvelles ont été souscrites entièrement en espèces et libérées à cent pour cent.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": null,
+          "legal_form": null,
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 1000000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Vermer, Philippe",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Vermer, Philippe, notaire."
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1997-11-04",
+      "publication_date": "1997-11-19",
+      "publication_reference": "N. 971119 — 355",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de Gewone Commanditaire Vennootschap W. CLAYKENS op 4 november 1997. Maatschappelijk doel omvat tussenpersoon in handel, deelnemen in andere vennootschappen, onderzoek, studie, bijstand en beheer van ondernemingen. Zetel: 1851 Grimbergen, Meidoornlaan 1. Kapitaal: 10.000 BEF. Bestuur door Wilfried Claykens als gecommanditeerde vennoot.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "W. CLAYKENS",
+          "legal_form": "Gewone Commanditaire Vennootschap",
+          "registered_office_address": "Meidoornlaan, 1",
+          "postal_code": "1851",
+          "city": "Grimbergen",
+          "country": null,
+          "corporate_purpose": "alle verrichtingen als tussenpersoon in de handel in de ruimste betekenis van het woord, binnen de perken van de wet, alsook het deelnemen in andere vennootschappen met een gelijk, gelijkaardig of ander doel. De vennootschap heeft eveneens tot doel alle verrichtingen die rechtstreeks of onrechtstreeks betrekking hebben op hef onderzoek, de studie, de prospectie, de bijstand en beheer van ondernemingen alsmede alle andere aktiviteiten die rechtstreeks of onrechtstreeks daarop betrekking hebben met inbegrip van het waarnemen en uitoefenen van bestuurdersmandaten in andere vennootschappen.",
+          "capital_amount": 10000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Wilfried Patrick Paul CLAYKENS",
+          "party_type": "person",
+          "role": "bestuurder, gecommanditeerde vennoot",
+          "address": "Meidoornlaan 1, 1851 Grimbergen",
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De heer Wilfried Patrick Paul CLAYKENS, bestuurder, wonende te 1851 Grimbergen, Meidoornlaan 1 ; 1 . Gecommanditeerde vennoot , De Heer Wilfried CLAYKENS, ocmparant.onder sub 1, zal alleen gelast zijn met het babeer van de vennootschap en zal alleen over de maatschappelijke handtekening beschikken."
+        },
+        {
+          "name": "Marie-Claire CLAYKENS",
+          "party_type": "person",
+          "role": "vennoot",
+          "address": "Son Pieras te Calvia, Mallorca, Spanje",
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw Marie-Claire CLAYKENS, zonder beroep, wonende in Spanje, Son Pieras te Calvia, Mallorca ;"
+        },
+        {
+          "name": "Wilfried Claykens",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) Wilfried Claykens, zaakvoerder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Rectificatif",
+      "deed_date": null,
+      "publication_date": "1997-11-19",
+      "publication_reference": "N. 971119 — 356",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Rectificatie voor JDEAL PEN, Société Privée à Responsabilité Limitée Unipersonnelle. De gérant, de heer ASLAN Ihsan, zal zijn mandaat kosteloos uitoefenen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "JDEAL PEN",
+          "legal_form": "Société Privée à Responsabilité Limitée Unipersonnelle",
+          "registered_office_address": "avenue Jean Jaurès, 5",
+          "postal_code": "1030",
+          "city": "Schaerbeek",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "ASLAN Ihsan",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "avenue Jean Jaurès, 5, Schaerbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "La gérant Monsieur ASLAN Ihsan, à Schaerbeek, avenue Jean Jaurès, 5, exercera son mandat à titre gratuit."
+        },
+        {
+          "name": "Philippe Bouté",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Philippe Bouté, notaire."
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1997-11-04",
+      "publication_date": "1997-11-19",
+      "publication_reference": "N. 971119 — 357",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de naamloze vennootschap DE PREESTER & ZOON op 4 november 1997. Zetel: 9790 Wortegem-Petegem, Kortrijkstraat 101. Kapitaal: 4.000.000 BEF, waarvan 2.500.000 BEF volstort. Doel: diverse activiteiten in de land- en tuinbouwsector, inclusief handel in machines, grondwerken, beheer van onroerend goed en transport. Bestuur door een Raad van Bestuur met Adrien De Preester als gedelegeerd-bestuurder en voorzitter.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DE PREESTER & ZOON",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Kortrijkstraat, 101",
+          "postal_code": "9790",
+          "city": "Wortegem-Petegem",
+          "country": null,
+          "corporate_purpose": "aile aktiviteiten behorende tot de land-en tuinbouwsektor in het algemeen, meer in het bijzonder: voor het sproeien; de in- en uitvoer van, de groot- en kleinhandel in, het verhuren, onderhouden en herstellen van land- en tuinbouwmachines en -materieel, traktoren, en toebehoren; het uitvoeren van afbraak- en grondwerken, riolerings- en draineringswerken, het herstellen en onderhouden van (water) wegen en het uitvoeren van alle soorten werken die enigszins verband mee houden; het beheren van onroerende goederen in het kader van de realisatie van het maatschappelijk doel; het onderhouden, ruimen van al dan niet onbevaarbare waterwegen; het aanteggen en onderhouden van speelpleinen, sportvelden, parkings. parken en tuinen; het plaatsen van afsluitingen; goederenvervoer langs de weg en goederenbehandeling; Dit ailes voor eigen rekening of voor rekening van derden.",
+          "capital_amount": 4000000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "DE PREESTER Adrien",
+          "party_type": "person",
+          "role": "landbouwer-loonwerker, bestuurder, gedelegeerd-bestuurder, voorzitter van de Raad van Bestuur",
+          "address": "Kortrijkstraat, 101, 9790 Wortegem-Petegem",
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De heer DE PREESTER Adrien, landbouwer-loonwerker, en zijn echtgenote [...] beiden wonende te [...] Kortrijkse, 101"
+        },
+        {
+          "name": "Marie-Hélène Demeyer",
+          "party_type": "person",
+          "role": "echtgenote, bestuurder",
+          "address": "Kortrijkstraat, 101, 9790 Wortegem-Petegem",
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw XEMarie-Hélène, zonder beroep, beiden wonende te [...] Kortrijkse, 101"
+        },
+        {
+          "name": "Wim De Preester",
+          "party_type": "person",
+          "role": "zelfstandige, bestuurder",
+          "address": "Kortrijkstraat, 99, 9790 Wortegem-Petegem",
+          "start_date": "1997-11-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "3 De heer DEim, zelfstandi, ‚WO . teWonegem-Petegem, _ Kortrij staan 99"
+        },
+        {
+          "name": "Pieter Van Ongeval",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Wortegem-Petegem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Uit een akte verleden voor notaris Pieter Van Ongeval te Wortegem-Petegem op 4 november 1997"
+        }
+      ]
+    }
+  ]
+}

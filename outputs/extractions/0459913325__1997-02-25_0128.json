@@ -1,0 +1,111 @@
+{
+  "source_file": "1997-02-25_0128.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING - BENOEMINGEN",
+      "deed_date": "1997-02-04",
+      "publication_date": "1997-02-25",
+      "publication_reference": "N. 970225 — 128",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid 'GIRIO' met een kapitaal van 750.000 frank, gevestigd te Leuven, Muntstraat 14. Benoeming van mevrouw Maria del Camino Giner Osorio als enige zaakvoerder.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "GIRIO",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Muntstraat 14",
+          "postal_code": "3000",
+          "city": "Leuven",
+          "country": null,
+          "corporate_purpose": "Met uithaten van restaurant, pizzeria, taverne, drankgelegenheid, verbruiksalon, snackbar, frituur, feestzalen, met ailenevendiensten, voor warme en koude maaltijden. De san. en verkoop en defabricage van iijswaren, slcoholische en nietalcoholische dranken,æuivelprodukten, tabakswaren, brood” en banketwaren, suikergoed, De verkoopvan bereide schotels om mee te nemen, de verkoop van bereide schotels, hetinrichten van banketten en alle aktiviteiten die er rechtstreeks of onrechestreeksin verband mee maan, De aan. en verkoop, gront- en kleinhandel en debereiding van alle vosdingsprodukten, de aan- en verkoop en verwerking vanalle webehorende produkten, Het uitefenen van alle traiteurs. enrestauratieverrichtingen, de bereiding van schotels en maaltijden, de bereidingvan industriële maalnyden, het bewaren daarvan, alsmede oe verkoop ervan, alleswat voorafgaat kan uitgeoefend worden in groot en Kleinhandel, in import enexport, De aan en verkoop van reklame-artikelen die betekking hebben opvoormelde aktiviteiten, De vennootschap kan zowef voor eigen rekening als vaortekening van derden binnen de perken van de wet alle (nanciële, commerciële,industriële daden en verrichtingen stellen met roerend of onroerend karakter, dierechtstreeks of onrechtstreeks, geheel of gedeeltelijk, verband houden met haarmaatschappelijk doel, de ontwikkeling ervan kunnen teweegbrengen of deverwezenlijking ervan kunnen vergemakkelijken. Zij zal zich mogeninteresseren, door inbreng, ve ing, participatie of anderszins in be deenop te richten maatschappijen, ondememmingen of verenigingen, waarvan het doelgeheel of gedeeltelijk identiek, analoog of gelijkend is aan of samenhangend metdit van deze vennootschap, evenals het bestuur van andere vennootschappenwaamemen. Zij mag haar onroerende goederen in hypotheek stellen en al haarandere goederen, met inbegrip van et handelsfonds, în pand stellen én mag avalverlenen voor aile leni en alle andere verbintenissen,zowel voor haarzelf als voor aile derden op voorwaarde dat zij er zelf belang bijheeft.",
+          "capital_amount": 750000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Maria del Camino Giner Osorio",
+          "party_type": "person",
+          "role": "oprichter, zaakvoerder",
+          "address": "Leuven, Fochplein 18/2",
+          "start_date": "1997-02-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "mevrouw Maria del Camino Giner”Osotio, administratiefmedewerker, gehuisvest te Leuven, Fochplein 18/2"
+        },
+        {
+          "name": "Mario Rui de Jesus Mota",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Leuven-Heverlee, Tervuursesteenweg 91",
+          "start_date": "1997-02-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Mario Rui deJesus Mota, kelner, gehuisvest te Leuven-Heverlee, Tervuursesteenweg 91"
+        },
+        {
+          "name": "Paul Kuijpers",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Leuven-Heverlee",
+          "start_date": "1997-02-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte, verleden voor notaris Paul Kuijpers te Leuven-Heverieeop vier februari negentienhonderd zevenennegentig"
+        }
+      ]
+    },
+    {
+      "deed_type": "FUSIEVOORSTEL",
+      "deed_date": null,
+      "publication_date": "1997-02-25",
+      "publication_reference": "N. 970225 — 129",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Fusievoorstel neergelegd op 12 februari 1997.",
+      "companies": [
+        {
+          "enterprise_number": "BE 426.605.505",
+          "company_name": "LAMBRECHTS en PARTNERS",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Winketkaai, 18/12",
+          "postal_code": "2800",
+          "city": "Mechelen",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    },
+    {
+      "deed_type": "FUSIEVOORSTEL",
+      "deed_date": null,
+      "publication_date": "1997-02-25",
+      "publication_reference": "N. 970225 — 130",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Fusievoorstel neergelegd op 12 februari 1997.",
+      "companies": [
+        {
+          "enterprise_number": "BE 430.021.091",
+          "company_name": "ADVIESCO BELASTINGCONSULENTEN",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Winketkaai, 18/11",
+          "postal_code": "2800",
+          "city": "Mechelen",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

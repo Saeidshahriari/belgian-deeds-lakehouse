@@ -1,0 +1,120 @@
+{
+  "source_file": "2001-07-19_1004.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": null,
+      "deed_date": null,
+      "publication_date": "19 juli 2001",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "TWEE EN ZESTIGDUIZEND VIJFHONDERD EURO (62.500 EUR), vertegenwoordigd door duizend tweehonderd vijftig (1.250) aandelen zonder vermelding van nominale waarde, die elk één/duizend tweehonderd vijftigste deel van het kapitaal vertegenwoordigen. Gelijktijdige neerlegging: een afschrift van de akte.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "Jean-Paul Vernimmen",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get.) Jean-Paul Vernimmen,notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "WIJZIGING STATUTEN",
+      "deed_date": "achtentwintig juni tweeduizenden één",
+      "publication_date": "19 juli 2001",
+      "publication_reference": "N. 20010719 — 1004",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Het kapitaal werd verhoogd tot tweeënzestigduizend euro, verdeeld in tweehonderd vijftig aandelen zonder vermelding van nominale waarde. De kapitaalsverhoging is gestort tot beloop van vijfhonderd éénennegentig duizend vierenzeventig frank en is aldus volledig gestort. Er werden wijzigingen gebracht aan de statuten van de vennootschap, die niet voor bekendmaking in aanmerking komen.",
+      "companies": [
+        {
+          "enterprise_number": "458,279,072",
+          "company_name": "EUROCAP",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Wingepark 49",
+          "postal_code": "3110",
+          "city": "ROTSELAAR",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 62000.0,
+          "capital_currency": "EUR"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Pierre ROOMAN",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Jean-Pierre ROOMAN, te Leuven"
+        },
+        {
+          "name": "F.MEYSMANS",
+          "party_type": "person",
+          "role": "Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de Ont-vanger. (getekend) F.MEYSMANS, van de naamloze vennootschap “EUROCAP\""
+        }
+      ]
+    },
+    {
+      "deed_type": "WIJZIGING STATUTEN",
+      "deed_date": "achtentwintig juni tweeduizenden één",
+      "publication_date": "19 juli 2001",
+      "publication_reference": "N. 20010719 — 1005",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Het kapitaal werd verhoogd tot tweeënzestigduizend euro, verdeeld in honderd aandelen zonder vermelding van nominale waarde. De kapitaalsverhoging is door inbreng van reserves geschied en is volledig gestort. Er werden wijzigingen gebracht aan de statuten van de vennootschap, die niet voor bekendmaking in aanmerking komen.",
+      "companies": [
+        {
+          "enterprise_number": "402,651,453",
+          "company_name": "EUROCORK",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Wingepark 49",
+          "postal_code": "3110",
+          "city": "ROTSELAAR",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 62000.0,
+          "capital_currency": "EUR"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Pierre ROOMAN",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Jean-Pierre ROOMAN, te Leuven"
+        },
+        {
+          "name": "F.MEYSMANS",
+          "party_type": "person",
+          "role": "Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de Ontvanger. (getekend) F.MEYSMANS, van de naamloze vennootschap \"EUROCORK\""
+        }
+      ]
+    }
+  ]
+}

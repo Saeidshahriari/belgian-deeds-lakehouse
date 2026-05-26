@@ -1,0 +1,213 @@
+{
+  "source_file": "1997-06-17_0047.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION - NOMINATIONS",
+      "deed_date": "1997-05-23",
+      "publication_date": "1997-06-17",
+      "publication_reference": "N. 970617 — 47",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of BIOTECH TOOLS (BTT) SPRL, with registered office in Uccle. Object includes manufacture, trade, and consultancy for chemical industry and laboratories. Capital of 1,200,000 francs. Appointment of Robert FUKS, Jean-Marie RUYSSCHAERT, and Jean-Claude HAVAUX as managers.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "BIOTECH TOOLS",
+          "legal_form": "société privé à responsabilité limitée",
+          "registered_office_address": "rue Groeselenberg, 87",
+          "postal_code": "1180",
+          "city": "Uccle",
+          "country": "Belgium",
+          "corporate_purpose": "la manufacture, lé négoce et la consultance au sujet de toute forme de produits et matériels notamment pour l'industrie chimique et les laboratoires d'analyses et de recherches. Elle peut accomplir toutes opérations mobilières ou immooilières, commerciales, industrielles et financières se reportant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter la réalisation. Elle peut s'intéresser directernent ou indirectement dans toutes affaires, entreprises, associations, institutions dont l'objet serait similaire ou connexe au sien ou simplement utile à l'extension de ses opérations ou à la réalisation de tout ou partie de son objet social.",
+          "capital_amount": 1200000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Thierry VAN HALTEREN",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Maître Thierry VAN HALTEREN, Notaire à Bruxelles"
+        },
+        {
+          "name": "Robert FUKS",
+          "party_type": "person",
+          "role": "gérant, professeur, associé",
+          "address": "Uccle (1180 Bruxelles), rue Groeselenberg, 87",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Robert FUKS, professeur, demeurant à Uccle (1180 Bruxelles), rue Groeselenberg, 87. ... en qualité de gérant : Monsieur Robert FUKS, qui accepte;"
+        },
+        {
+          "name": "Jean-Marle Léon Joseph RUYSSCHAERT",
+          "party_type": "person",
+          "role": "professeur, associé, gérant",
+          "address": "Rhode-Saint-Genèse (1640 Rhode-Saint-Genèse), avenue Perce-Neige, 7",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Jean-Marle Léon Joseph RUYSSCHAERT, professeur, demeurant à Rhode-Saint-Genèse (1640 Rhode-Saint-Genèse), avenue Perce-Neige, 7. ... Monsieur Jean-Marie RUYSSCHAERT, qui accepte;"
+        },
+        {
+          "name": "Morpho",
+          "party_type": "company",
+          "role": "associé",
+          "address": "Tilff (4130 Tilff), rue des Renards, 4",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "La société privée à responsabilité limitée \"Morpho”, ayant son siège social à Tilff (4130 Tilff), rue des Renards, 4."
+        },
+        {
+          "name": "Thierry Marc Félix Henri LEGON",
+          "party_type": "person",
+          "role": "ingénieur, associé",
+          "address": "Korbeek Lo (3360 Korbeek Lo), Bloesemlaan, 2",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Thierry Marc Félix Henri LEGON, ingénieur, demeurant à Korbeek Lo (3360 Korbeek Lo), Bloesemlaan, 2."
+        },
+        {
+          "name": "Michel Frank Léon VANDENBRANDEN",
+          "party_type": "person",
+          "role": "chimiste, associé",
+          "address": "Watermael-Boitsfort (1170 Bruxelles), avenue Léopold Wiener, 153",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Michel Frank Léon VANDENBRANDEN, chimiste, demeurant à Watermael-Boitsfort (1170 Bruxelles), avenue Léopold Wiener, 153."
+        },
+        {
+          "name": "Jean-Claude HAVAUX",
+          "party_type": "person",
+          "role": "directeur, gérant",
+          "address": "Tilff (4130 Tilff), rue des Renards, 4",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Jean-Claude HAVAUX, directeur, demeurant à Tiff (4130 Tilff), rue des Renards, 4. qui accepte."
+        }
+      ]
+    },
+    {
+      "deed_type": "Assemblée Générale Extraordinaire",
+      "deed_date": "1997-05-26",
+      "publication_date": "1997-06-17",
+      "publication_reference": "N. 970617 — 48",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Extraordinary General Meeting of NEW BORN SPRL. Approval of accounts, discharge and resignation of manager HAKOPIAN Sissak. Transfer of registered office to 1200 Bruxelles, Avenue Georges Henri, 245, effective June 1, 1997. Appointment of GUNDUZ Musa as new manager.",
+      "companies": [
+        {
+          "enterprise_number": "BE 444.574.558",
+          "company_name": "NEW BORN",
+          "legal_form": "S.P.R.L.",
+          "registered_office_address": "AVENUE GEORGES HENRI, 245",
+          "postal_code": "1200",
+          "city": "BRUXELLES",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "HAKOPIAN Sissak",
+          "party_type": "person",
+          "role": "Gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": "1997-05-26",
+          "confidence": null,
+          "raw_context": "La démission du Gérant : Monsieur HAKOPIAN Sissak."
+        },
+        {
+          "name": "GUNDUZ Musa",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "1040 Etterbeek, rue Pete Benoit, 27",
+          "start_date": "1997-05-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "La nomination dè Monsieur GUNDUZ Musa, né le ler janvier 1961 à Midyat(turquie), réfugié ONU, marié, demeurant à 1040 Etterbeek, rue Pete Benoit, 27, comme gérant."
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "1997-05-22",
+      "publication_date": "1997-06-17",
+      "publication_reference": "N. 970617 — 49",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Constitution of FUTURE INDUSTRIES BVBA, with registered office in Brussel. Object includes creation, design, manufacturing, exploitation, and commercialization of IT software and hardware, office automation, electronics, electro-mechanics, electro-household, mechanics, and telecommunications products and services, as well as import-export and participations.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FUTURE INDUSTRIES",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Masuistraat 147",
+          "postal_code": "1030",
+          "city": "Brussel",
+          "country": "Belgium",
+          "corporate_purpose": "Elke creatie, ontwerp, fabricage, exploitatie en commercialisatie, waarin begrepen de aankoop en de verkoop van producten, diensten, opdrachten van promotie en consultancy, onder welkdanige vorm, waarin begrepen onder de vorm van een concessie, verdelers- of handelsagentuur, in groothandel of in detailhandel, alsmede import-export, zowel in binnen- als buitenland, voor eigen rekening of voor rekening van derden, van informatica-softwarerogramma’s alsmede van elke, uitrusting of benodigdheden van informatica-hardware, bureautica, elektronisch, electro-mechanisch, electro-huishoudelijk, mechanisch of telecommunicatie. Het verrichten, voor eigen rekening of voor rekening van derden, in groot-of detailhandel, van alle handelingen, die rechtstreeks of onrechtstreeks verband houdt met activiteiten van import-export, agentuur of commercieel tussenpersoon met betrekking tot nationale en internationale transacties van eender welkdanige aankoop en verkoop. De aanbreng of overdracht van elk brevet, licentie, procédé of fabricagemerk welke rechtstreeks of onrechtstreeks, geheel of gedeeltelijk verband houdt met voormeld doel of met eender welk gelijkaardig doel, welke de realisatie ervan kan vergemakkelijken of verwezenlijken. Het aanhouden van deelnemingen of eender welke wijze in enige exploitatie of onderneming en aan, elke commerciële, burgerlijke, economische, juridische of financiële, roerende of onroerende transactie welke rechtstreeks of onrechtstreeks geheel of gedeeltelijk in verband staat met het maatschappelijk doel of van nature kan zijn om de realisatie ervan te vergemakkelijken of te verwezenlijken. Zij mag onder andere alle gebouwen en gronden huren, leasen, kopen, oprichten of vervreemden met het oog op de verwezenlijking van het maatschappelijk doel alsmede met het oog op kredietopeningen door haar aan te gaan. De vennootschap zal alle handelingen mogen verrichten, die in rechtstreeks of onrechtstreeks verband staan met haar doel, of die van aard zijn de verwezenlijking ervan te bevorderen. De vennootschap mag daarenboven belangen nemen, hetzij door deelneming, inbreng of elke andere wijze in alle vennootschappen, ondernemingen of",
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Pierre Vermeulen",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Sint-Jans-Molenbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Plerre Vermeulen, te Sint-Jans-Molenbeek"
+        },
+        {
+          "name": "Michel Jean Maggi François VANDEBEEK",
+          "party_type": "person",
+          "role": "beheerder van vennootschappen, oprichter",
+          "address": "Schaarbeek (1030 Brussel), Masuistraat 147",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Michel Jean Maggi François VANDEBEEK, beheerder van vennootschappen, ongehuwd, wonende te Schaarbeek (1030 Brussel), Masuistraat 147;"
+        },
+        {
+          "name": "Steven Gustaaf Adolphine PAUWELS",
+          "party_type": "person",
+          "role": "bediende, oprichter",
+          "address": "1730 Asse, Weverstraat 28, bus",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De heer Steven Gustaaf Adolphine PAUWELS, bediende, echtgenoot van Mevrouw Marleen De Wandeleer, wonende te 1730 Asse, Weverstraat 28, bus"
+        },
+        {
+          "name": "Peter BROSENS",
+          "party_type": "person",
+          "role": "bediende, oprichter",
+          "address": "1980 Zemst, Elewijtsesteenweg 93",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Peter BROSENS, bediende, ongehuwd, wonende te 1980 Zemst, Elewijtsesteenweg 93,"
+        }
+      ]
+    }
+  ]
+}

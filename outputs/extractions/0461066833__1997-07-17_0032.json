@@ -1,0 +1,148 @@
+{
+  "source_file": "1997-07-17_0032.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "1997-07-03",
+      "publication_date": "1997-07-17",
+      "publication_reference": "N. 970717 — 32",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a public limited company (SA) named STONE INVEST SA, with a capital of 2,500,000 francs, focusing on real estate operations. Appointment of administrators.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "STONE INVEST SA",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "Avenue Franklin Roosevelt 166",
+          "postal_code": "1050",
+          "city": "BRUXELLES",
+          "country": "BELGIQUE",
+          "corporate_purpose": "La société a pour objet, pour son propre compte : les opérations immobilières en son sens le plus large, entre autres, non limitativement, l'achat, la vente, la location, la sous-location, la gestion, la promotion, le lotissement, la construction, la transformation, la rénovation, l'aménagement, la mise en valeur, la démolition de tous biens immeubles ou partie d'immeubles, privés ou publics, bâtis ou non bâtis, ainsi que l'investissement immobilier et la concession de tous droits immobiliers. Elle peut s'intéresser par toutes voies (investissements, prises de participations sous quelque forme que ce soit, cautionnements), dans toutes les affaires, entreprises ou sociétés, dès lors que ces opérations, affaires, entreprises ou sociétés ont un objet identique, analogue ou connexe au sien, ont un rapport direct ou indirect avec son activité ou sont simplement de nature à favoriser le développement de son entreprise. La société peut réaliser son objet en Belgique et à l'étranger de toutes les manières qu'elle jugera les mieux appropriées.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Pierre Jungers",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Avenue Franklin Roosevelt 166, 1050 BRUXELLES",
+          "start_date": "1997-07-03",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte reçu par le notaire Jean-Pierre JUNGERS, notaire à FLORENVILLE, en date du mois juillet mil neuf cent nonante-sept, enregistré à FLORENVILLE, le trois juillet mil neuf cent nonante-sept, volume 414, folio 55, numéro 19"
+        },
+        {
+          "name": "THIRY Didier",
+          "party_type": "person",
+          "role": "founder, administrateur de société, président du conseil d'administration, administrateur-délégué",
+          "address": "OLOWILLIERS (France)",
+          "start_date": "1997-07-03",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "Monsieur THIRY Didier, administrateur de société, né à MOGUES (France) le dix-sept février mil neuf cent soixante-deux, et son épouse Madame BERRYER, Pascale Nicole Françoise Marie Ghislaine, directrice commerciale, née à LIEGE le deux décembre mil neuf cent cinquante-huit, demeurant et domiciliés à OLOWILLIERS (France)"
+        },
+        {
+          "name": "BERRYER, Pascale Nicole Françoise Marie Ghislaine",
+          "party_type": "person",
+          "role": "founder",
+          "address": "OLOWILLIERS (France)",
+          "start_date": "1997-07-03",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "son épouse Madame BERRYER, Pascale Nicole Françoise Marie Ghislaine, directrice commerciale, née à LIEGE le deux décembre mil neuf cent cinquante-huit, demeurant et domiciliés à OLOWILLIERS (France)"
+        },
+        {
+          "name": "d'ARRAS D'HAUDRECY Marius",
+          "party_type": "person",
+          "role": "administrateur de société",
+          "address": "5170 PROFONDVILLE, Avenue du Grandverger, 22",
+          "start_date": "1997-07-03",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "Monsieur d'ARRAS D'HAUDRECY Marius, administrateur de société, domicilié à 5170 PROFONDVILLE, Avenue du Grandverger, 22."
+        },
+        {
+          "name": "LEBE Alain",
+          "party_type": "person",
+          "role": "administrateur de société",
+          "address": "6762 SAINT-MARD, Rue Jean-François Grange, 31",
+          "start_date": "1997-07-03",
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "Monsieur LEBE Alain, administrateur de société, domicilié à 6762 SAINT-MARD , Rue Jean-François Grange, 31."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "1997-06-30",
+      "publication_date": "1997-07-17",
+      "publication_reference": "N. 970717 — 33",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited company (SPRL) named NEW CONCEPTS, with a capital of 750,000 francs, specializing in construction-related services and project management.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "NEW CONCEPTS",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Rue de Flandre 84",
+          "postal_code": "1000",
+          "city": "BRUXELLES",
+          "country": "BELGIQUE",
+          "corporate_purpose": "La société a pour objet, tant en Belgique qu'à l'étranger: La société a pour but d'effectuer tout type de tâches complétives aux divers métiers de la construction pouvant contribuer à une dynamique de marché, à la mise au point technique de projet, à l'organisation des chantiers, à l'innovation technologique, à l'accès aux marchés internationaux, à la performance d'entreprise et de bureau d'études, à l'information en général. A titre explicatif et non limitatif les points d'intérêts de la société peuvent être: Recherche de projets de promotions et études de marché. Coördination de divers intervenants de la construction. Toutes analyses et propositions propres à l'augmentation de la compétitivité et de la performance des entreprises. Project manager. Elaboration de métrés, dessins, comparatifs, appels d'offres, recherche de variantes, mise au point de détails etc. Coördination des marchés et de chantiers en général. Finalisation entre entreprises générales, spécialisées, sous traitants, fournisseurs, contacts; fixation des ‘fee’ etc. Consultance en général, recherche dans le domaine d'informatique et de son utilisation dans les marchés de la construction et promotion immobilière. Développement et commercialisation de produits nouveaux, d'éléments préfabriqués, de matériaux novateurs, Recherche et commercialisation dans les domaines d'industrialisation, la fabrication, le montage, l'exportation de bâtiments de faible coût et propres aux programmes d'urgence. Mise au point et commercialisation d'éléments de construction et de kits permettant d'accélérer le processus de construction et/ou autorisant une participation active des utilisateurs, Recherches sur l'emploi tant à la main d'oeuvre non spécialisée que du recyclage de la main d'oeuvre dans les marchés de la construction. Coördination de bureaux d'études et/ou d'entreprises dans le contexte de la mise sur pied de bureaux intégrés, d'appels d'offres globaux et de performance, de la compétition internationale en général. Tous travaux et actions commerciales ou non liés directement ou indirectement à l'architecture d'intérieur, à la décoration et au design en ce compris le mobilier généralement quelconque y compris celui devenant immobilier par destination et le parachèvement de toutes les surfaces. Analyses, recherches et mise en place d'agences à l'étranger. La société pourra d'une façon générale accomplir toutes opérations commerciales, industrielles, financières, mobilières et immobilières se rapportant directement ou indirectement à son objet social ou qui serait de nature à en faciliter directement ou indirectement, entièrement ou partiellement la réalisation. Elle pourra effectuer tant pour elle-même que pour compte de tiers, toutes opérations industrielles ou commerciales et financières, mobilières et immobilières sous quelque forme que ce soit, pouvant se rattacher directement ou indirectement à l'objet social, ou pouvant en faciliter l'extension ou le développement. Elle peut s'intéresser par toutes voies, dans toutes affaires, entreprises ou sociétés ayant un objet identique, analogue ou connexe ou qui sont de nature à favoriser le développement de son entreprise.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Martiné ROBBERECHTS",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Zaventem",
+          "start_date": "1997-06-30",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "H résulte d'un acte reçu par le Notaire Martiné ROBBERECHTS à Zaventem le trente juin mil neuf cent nonante-sept"
+        },
+        {
+          "name": "Stéphane VANDEN BOSSCHE",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1000 Bruxelles, Rue de Flandre 84",
+          "start_date": "1997-06-30",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "1° 1) Monsieur Stéphane VANDEN BOSSCHE, demeurant à 1000 Bruxelles, Rue de Flandre 84; ... ont constitués entre eux une société privée à responsabilité limitée."
+        },
+        {
+          "name": "Robert HELLINCKX",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1000 Bruxelles, Rue de Flandre 84",
+          "start_date": "1997-06-30",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "2} Monsieur Robert HELLINCKX demeurant à 1000 Bruxelles, Rue de Flandre 84; ... ont constitués entre eux une société privée à responsabilité limitée."
+        },
+        {
+          "name": "Marc LACOUR",
+          "party_type": "person",
+          "role": "founder",
+          "address": "1180 Bruxelles, Avenue des Tilleuls 66",
+          "start_date": "1997-06-30",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "3} Monsieur Marc LACOUR, demeurant à 1180 Bruxelles, Avenue des Tilleuls 66, :ont constitués entre eux une société privée à responsabilité limitée."
+        }
+      ]
+    }
+  ]
+}

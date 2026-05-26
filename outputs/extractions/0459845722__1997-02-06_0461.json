@@ -1,0 +1,378 @@
+{
+  "source_file": "1997-02-06_0461.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Dépôt d'acte",
+      "deed_date": null,
+      "publication_date": "6 février 1997",
+      "publication_reference": "(14065)",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Déclaration de pouvoirs conférés à la SPRL FICOGES pour l'inscription au registre de commerce et l'immatriculation à la TVA.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SPRL FICOGES",
+          "legal_form": "SPRL",
+          "registered_office_address": "rue de la Reine, 311",
+          "postal_code": "1020",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Angelo Palmer",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "1020 Bruxelles, rue de la Reine, 311",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "représentée par son gérant Monsieur Angelo Palmer demeurant à la même adresse"
+        },
+        {
+          "name": "C. Dupont",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) C. Dupont, notaire."
+        }
+      ]
+    },
+    {
+      "deed_type": "Benoeming",
+      "deed_date": "06/12/1996",
+      "publication_date": "6 februari 1997",
+      "publication_reference": "N. 970206 — 459",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Herbenoeming van bestuurders met terugwerkende kracht.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SCHOBER DIREKTMARKETING M.U.",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Paul Gitsonlaan 43-49",
+          "postal_code": "1601",
+          "city": "Ruisbroek",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 412477.85,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Klaus Schober",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": "30/5/67",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Klaus Schober wondt met de rugwerkende kracht van ag 30/5/67 herbenoemd tot bestuurden van de vennootschap."
+        },
+        {
+          "name": "Jungen Knab",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": "21/4/94",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Jungen Knab wondt van ag 21/4/94 bevestigd in zijn mandaat ats bestuurden van de vennootschap."
+        },
+        {
+          "name": "E van der Kooij",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) E van der Kooij, bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Benoeming",
+      "deed_date": "6 december 1996",
+      "publication_date": "6 februari 1997",
+      "publication_reference": "N. 970206 — 460",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Herbenoeming van bestuurders en een commissaris-revisor voor bepaalde periodes.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SCHOBER DIREKTMARKETING N.V.",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Paul Gilsontaan 45-49",
+          "postal_code": "1601",
+          "city": "Ruisbroek",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 412477.65,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Klaus Schober",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "Klaus Schober tot 2002"
+        },
+        {
+          "name": "Meta Hildinger",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "Meta Hildinger tot 2002"
+        },
+        {
+          "name": "Gudrun Fenchel",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "Gudrun Fenchel tot 2002"
+        },
+        {
+          "name": "Jurgen Knab",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "Jurgen Knab tot 2002"
+        },
+        {
+          "name": "F. van der Kooij",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": "F. van der Kooij tot 2002"
+        },
+        {
+          "name": "E. Bertels",
+          "party_type": "person",
+          "role": "commissaris-revisor",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de Heer E. Bertels herbenoemd wordt als commissaris-revisor voor een periode van 3 jaar."
+        },
+        {
+          "name": "E van der Kooij",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) E van der Kooij, bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "drieëntwintig januari negentienhonderdzevenennegentig",
+      "publication_date": "6 februari 1997",
+      "publication_reference": "N. 970206 — 461",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid 'ALIMENTAR' met maatschappelijke zetel te Vorst, Neerstallesteenweg 73, en vaststelling van het kapitaal en doel.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ALIMENTAR",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Neerstallesteenweg, 73",
+          "postal_code": "1190",
+          "city": "Vorst (Brussel)",
+          "country": null,
+          "corporate_purpose": "de groot- en kleinhandel, alsmede de vertegenwoordiging, de opberging en de goederenbehandeling van wijnen, sterke dranken, geestrijke dranken, andere dranken, alcoholhoudend of niet, waters, alle produkten van algemene voeding, het alles hoofdzakelijk van Portugese herkomst; de in- en uitvoer van diverse goederen. De vennootschap mag deelnemen, door inbreng, fusie, splitsing of onderschrijving of op eender welke andere manier in alle ondernemingen, verenigingen of vennootschappen waarvan het doel hetzelfde, gelijkaardig of verwant is met haar doel, of waarvan de medewerking nuttig kan zijn. Zij mag, zowel in België als in het buitenland, alle handels- industriële, roerende, onroerende of financiële verrichtingen doen dewelke rechtstreeks of onrechtstreeks verband houden met haar doel.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "André PHILIPS",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Koekelberg (1081 - Brussel)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Er blijkt uit een akte verleden voor Meester André PHILIPS, Notaris te Koekelberg (1081 - Brussel), op drieëntwintig januari negentienhonderdzevenennegentig."
+        },
+        {
+          "name": "SILVA RODRIGUEZ Armindo",
+          "party_type": "person",
+          "role": "handelaar, zaakvoerder",
+          "address": "Vorst, Neerstallesteenweg, 73",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer SILVA RODRIGUEZ Armindo, handelaar, wonende ta Vorst, Neerstallesteenweg, 73. De vergadering benoemt tot dit functie : De Heer SILVA RODRIGUES Armindo, voornoemd."
+        },
+        {
+          "name": "DA SILVA RODRIGUES Carlos Francisco",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Pelariga/Pombal (Portugal)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer DA SILVA. RODRIGUES Carlos Francisco, zonder beroep, wonende te Pelariga/Pombal (Portugal)."
+        },
+        {
+          "name": "A. Philips",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get.) A. Philips, notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "2 janvier mil neuf cent nonante sept",
+      "publication_date": "6 février 1997",
+      "publication_reference": "N. 970206 — 462",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution d'une société en commandite simple 'DAN ERCULISSE & Cie' avec Mr. Dan Erculisse comme associé commandité et gérant, et Mme Joy Cath comme associée commanditaire. Définition de l'objet social et du capital.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DAN ERCULISSE & Cie.",
+          "legal_form": "Société en commandite simple",
+          "registered_office_address": "Dieweg, 31",
+          "postal_code": "1180",
+          "city": "UCCLE",
+          "country": null,
+          "corporate_purpose": "la réalisation de tous conseils, études et services à fournir aux particuliers, entreprises ou associations en matière financière, commerciale et économique, la participation en tant que membre du conseil d'administration ou de tout autre organisme similaire, à la gestion de toutes sociétés ou entreprises, ainsi que leur contrôle de surveillance. La société a pour objet la prise de participations, sous quelque forme que ce soit, dans des entreprises belges ou étrangères, l'acquisition pour achat, souscription ou de toute autre manière, de valeurs mobilières de toutes espèces, la gestion et la mise en valeur de son portefeuille, la participation à la création et au développement de toutes sociétés dépendantes et leur prêter tous concours. Elle peut également accepter tous mandats d'administrateur ou de gérant dans toutes sociétés ou associations, Elle peut accomplir toutes opérations généralement quelconques, commerciales, industrielles, financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet. La société peut s'intéresser par toutes voies dans toutes affaires, entreprises ou sociétés ayant un objet analogue, similaire ou connexe ou qui sont de nature à favoriser le développement de son entreprise ou à lui procurer des débouchés.",
+          "capital_amount": 50000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Dan Erculisse",
+          "party_type": "person",
+          "role": "associé commandité et gérant",
+          "address": "Uccle, Dieweg, 31",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Dan Erculisse demeurant à Uccle, Dieweg, 31. Mr. Dan ERCULISSE, soussigné sub 1, est seul associé commandité er gérant de la société."
+        },
+        {
+          "name": "Joy Cath",
+          "party_type": "person",
+          "role": "associée commanditaire",
+          "address": "Uccle, Dieweg, 31",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Joy Cath demeurant à Uccle, Dieweg, 31. La soussignée de seconde part est simple associée commanditaire."
+        },
+        {
+          "name": "D. Erculisse",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) D. Erculisse, gérant."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "dix janvier mil neuf cent nonante-sept",
+      "publication_date": "6 février 1997",
+      "publication_reference": "N. 970206 — 463",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution d'une société privée à responsabilité limitée 'SHERPA International' par Mademoiselle Françoise Jacqueline Ghislaine BACO, avec un capital de 750.000 francs.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "STRATEGIC, HUMAN AND ETHICAL REGARD ON PERFORMANCE ANALYSIS INTERNATIONAL",
+          "legal_form": "S.P.R.L.",
+          "registered_office_address": "Erasmus European Business and Innovation Center (EEBIC), Avenue Joseph Wybran 40",
+          "postal_code": "1070",
+          "city": "Anderlecht (Bruxelles)",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Marie-Cécile STEVAUX",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Chimay",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte reçu par le Notaire Marie-Cécile STEVAUX, à Chimay le dix janvier mil neuf cent nonante-sept"
+        },
+        {
+          "name": "Michel Baudy",
+          "party_type": "person",
+          "role": "Receveur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "par le Receveur Michel Baudy"
+        },
+        {
+          "name": "Françoise Jacqueline Ghislaine BACO",
+          "party_type": "person",
+          "role": "Consultant",
+          "address": "1630 Linkebeek, rue de Perck 70",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mademoiselle Françoise Jacqueline Ghislaine BACO, Consultant, née à Charleroi le vingt octobre mil neuf cent cinquante-huit, demeurant à 1630 Linkebeek, rue de Perck 70 à constitué une société privée à responsabilité limitée"
+        }
+      ]
+    }
+  ]
+}

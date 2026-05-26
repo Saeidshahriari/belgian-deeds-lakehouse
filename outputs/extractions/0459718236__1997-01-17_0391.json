@@ -1,0 +1,223 @@
+{
+  "source_file": "1997-01-17_0391.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Société Anonyme",
+      "deed_date": "8 janvier 1997",
+      "publication_date": "17 janvier 1997",
+      "publication_reference": "N. 970117 — 391",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a Société Anonyme named 'Dewilde Motor', with details on its object, capital, administration, and initial appointments.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Dewilde Motor",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "boutevard Industriel 125",
+          "postal_code": null,
+          "city": "Anderlecht (1070 Bruxelles)",
+          "country": null,
+          "corporate_purpose": "tant en Belgique qu'à l'étranger, pour compte propre ou pour le compte d'autrui, par et avec autrui, l'exportation, l'importation, la représentation, l'acquisition, la vente, la réparation, l'entretien de véhicules, tous travaux de carrosserie de véhicules, la location des véhicules et d'appareils à moteur ainsi que de tous accessoires de quelque genre que ce soit, de même que tout ce qui se rapporte à l’industrie automobile, aux carburants et aux lubrifiants et aux courtages d'assurances. La société peut exercer tout mandat d’administrateur, de gérant et de liquidateur dans d'autres sociétés ou associations et se porter caution pour autrui. Elle peut accomplir toutes opérations généralement quelconques, commerciales, industrielles, financières, mobilières ou immobilières, se rapportant directement ou indirectement à son objet. La société peut s'intéresser par toutes voies, dans toutes affaires, entreprises ou sociétés ayant un objet identique, analogue, similaire ou connexe, ou qui sont de nature à favoriser le développement de son entreprise, à lui procurer des matières premières, à faciliter l'écoulement de ses produits ou constituant pour elle une source ou un débouché.",
+          "capital_amount": 35000000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Patrick SEPULCHRE",
+          "party_type": "person",
+          "role": "Founder/Subscriber, Administrateur, Administrateur délégué",
+          "address": "1040 Bruxelles, avenue Boileau numéro 5",
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "SAL & R le Prince Rudolf de BAR",
+          "party_type": "person",
+          "role": "Founder/Subscriber, Administrateur",
+          "address": "Torny-le-Grand (CH-1748 Suisse), Château de Torny",
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Jacques Le GRAND",
+          "party_type": "person",
+          "role": "Founder/Subscriber, Administrateur, Président",
+          "address": "5320 Faulx-les-Tombes, Ancienne Abbaye de Grand'Pré",
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "ELECTRONIC SYSTEMS COMPANY",
+          "party_type": "company",
+          "role": "Founder/Subscriber",
+          "address": "1040 Bruxelles, rue Froissart numéro 85",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Francis DEVOLDER",
+          "party_type": "person",
+          "role": "Administrateur, Administrateur-directeur",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Jean-Marie JAMOULLE",
+          "party_type": "person",
+          "role": "Administrateur",
+          "address": "Woluwe-Saint-Pierre, avenue Parmentier 107",
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "G. Indekeu",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Société Coopérative à Responsabilité Limitée",
+      "deed_date": "23 décembre 1996",
+      "publication_date": "17 janvier 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a Société Coopérative à Responsabilité Limitée named 'GRMDS', detailing its object, capital, and initial management.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "GRMDS",
+          "legal_form": "Société Coopérative à Responsabilité Limitée",
+          "registered_office_address": "rue Veydt 50",
+          "postal_code": null,
+          "city": "Ixelles (1050 Bruxelles)",
+          "country": null,
+          "corporate_purpose": "l'exploitation pour compte propre, pour compte d'autrui, par et avec autrui, en détail de toutes formules de restauration et de services. La société a également pour objet, l'acquisition, la location, la gestion et ou l'exploitation pour compte propre, pour compte d'autrui, par et avec autrui de restaurants, tavernes, débits de boissons, locaux de consommation, services traiteurs et tous établissements similaires et plus généralement toutes activités du secteur HORECA dans le sens le plus large. La société peut accomplir dans les limites de son objet social, en Belgique où à l'étranger, toutes les opérations quelconques, mobilières ou immobilières, financières, industrielles, commerciales ou civiles se rapportant directement ou indirectement à son objet. Elle peut s'intéresser par voie d'apport, de cession, de fusion, de souscription, de participation, d'intervention financière ou par toute autre voie, dans toutes entreprises ou sociétés ayant un objet analogue au sien ou qui soit de nature à favoriser son développement.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Angelo MATTARELLI",
+          "party_type": "person",
+          "role": "Associé, Souscripteur",
+          "address": "1000 Bruxelles, rue Stévin numéro 168",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Renzo GUALAZZI",
+          "party_type": "person",
+          "role": "Associé, Souscripteur, Gérant",
+          "address": "1200 Bruxelles, rue Voot numéro 20",
+          "start_date": "23 décembre 1996",
+          "end_date": "23 décembre 1999",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Daniele MATTARELLI",
+          "party_type": "person",
+          "role": "Associé, Souscripteur",
+          "address": "1000 Bruxelles, rue Stévin numéro 168",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Gérard INDEKEU",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Société Privée à Responsabilité Limitée",
+      "deed_date": "24 décembre 1996",
+      "publication_date": "17 janvier 1997",
+      "publication_reference": "N. 970117 — 392",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a Société Privée à Responsabilité Limitée named 'COMPUPARTNER', detailing its object, capital, and initial associates.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "COMPUPARTNER",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "avenue Charles-Quint 420 boite 18",
+          "postal_code": null,
+          "city": "Berchem-Sainte-Agathe (1082 Bruxelles)",
+          "country": null,
+          "corporate_purpose": "pour son compte et pour le compte de tiers, tant en Belgique qu'à l'étranger, le commerce de matériel informatique, de télécommunications et matériel électronique, ainsi que le service. Elle peut faite toutes opérations commerciales, industrielles ou financières, immobilières et mobilières, se rapportant directement ou indirectement à son objet social ou susceptibles de favoriser son développement. La société pourra prendre la direction et le contrôle, en sa qualité d'administrateur, liquidateur ou autrement, de sociétés affiliées ou filiales, et leur prodiguer des avis. La société peut, par voie d'apport en espèces ou en nature, de fusion, de souscription, de participation, d'intervention financière ou autrement, prendre des participations dans d'autres sociétés ou entreprises existantes ou à créer, que ce soit en Belgique ou à l'étranger, dont l'objet social serait semblable ou analogue au sien ou de nature à favoriser son objet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Nathalie WEBERMAN",
+          "party_type": "person",
+          "role": "Associée, Souscripteur",
+          "address": "1650 Beersel, Elfbunderslaan numéro 55",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "David DANENBERG",
+          "party_type": "person",
+          "role": "Associé, Souscripteur",
+          "address": "Uccle, Clos du Drossart, 22",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Gérard INDEKEU",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

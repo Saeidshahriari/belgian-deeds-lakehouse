@@ -1,0 +1,87 @@
+{
+  "source_file": "1997-02-26_0182.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1997-02-12",
+      "publication_date": "1997-02-26",
+      "publication_reference": "N. 970226 — 182",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de Besloten Vennootschap met Beperkte Aansprakelijkheid 'Jacques FLUYT' door Jacques Arthur FLUYT als enige vennoot. De statuten omvatten de naam, zetel te 3001 Leuven (Heverlee), Verbindingslaan 34 bus 11, doel (grond- en nivelleringswerken, wegenbouw, draineringswerken, aanleg en onderhoud van sportvelden, parken en tuinen, plaatsen van omheiningen), onbepaalde duur, kapitaal van 750.000 BEF (volgestort voor 250.000 BEF). Jacques FLUYT is benoemd als eerste zaakvoerder.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Jacques FLUYT",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Verbindingslaan 34 bus 11",
+          "postal_code": "3001",
+          "city": "Leuven (Heverlee)",
+          "country": "Belgium",
+          "corporate_purpose": "onderneming voor grond- en nivelleringswerken; onderneming voor het bouwen, herstellen en onderhouden van wegen; onderneming voor draineringswerken; onderneming voor het aanleggen en onderhouden van sportvelden, speelpleinen, parken en tuinen met inbegrip van aanplantingen; onderneming voor het plaatsen van omheiningen; alle aanverwante activiteiten in de ruimste zin.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Claude HOLLANDERS de OUDERAEN",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte verleden voor Claude HOLLANDERS de OUDERAEN, Notaris te Leuven"
+        },
+        {
+          "name": "Jacques Arthur FLUYT",
+          "party_type": "person",
+          "role": "founder, sole partner, manager",
+          "address": "3001 Leuven (Heverlee), Verbindingslaan 34 bus 11",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Jacques Arthur FLUYT, zelfstandige, echtgenoot van Mevrouw Nicole Maria Anastasia VERMEULEN, wonende te 3001 Leuven (Heverlee), Verbindingslaan 34 bus 11, een Besloten vennootschap met Beperkte Aansprakelijkheid heeft opgericht waarvan hij de enige vennoot thans zal zijn, verklarend dat hij van geen andere vennootschap van dat type de enige vennoot is, en zodoende beantwoordend aan het voorschrift van arikel 123bis van de gecoordineerde wetten ap de handelavennootschappen. ... heeft beslist tot eerste zaakvoerder te benoemen, voor de duur van de vennootschap: De Heer Jacques FLUYT, voornoemd."
+        },
+        {
+          "name": "Nicole Maria Anastasia VERMEULEN",
+          "party_type": "person",
+          "role": "spouse of founder",
+          "address": "3001 Leuven (Heverlee), Verbindingslaan 34 bus 11",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "echtgenoot van Mevrouw Nicole Maria Anastasia VERMEULEN, wonende te 3001 Leuven (Heverlee), Verbindingslaan 34 bus 11"
+        }
+      ]
+    },
+    {
+      "deed_type": "unknown",
+      "deed_date": null,
+      "publication_date": "1997-02-26",
+      "publication_reference": "N. 970226 — 183",
+      "form_reference": null,
+      "language": "nl",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ERSANE",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Dorpstraat 56",
+          "postal_code": "3040",
+          "city": "Huldenberg",
+          "country": "Belgium",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

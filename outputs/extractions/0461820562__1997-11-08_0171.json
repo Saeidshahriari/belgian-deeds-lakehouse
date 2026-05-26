@@ -1,0 +1,459 @@
+{
+  "source_file": "1997-11-08_0171.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Modifications statutaires, démissions et nominations d'administrateurs, délégation de pouvoirs, et autorisation d'augmentation de capital",
+      "deed_date": "30 octabre 1997",
+      "publication_date": "8 novembre 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Modifications statutaires, démissions et nominations d'administrateurs, délégation de pouvoirs, et autorisation d'augmentation de capital.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": null,
+          "legal_form": null,
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 50000000.0,
+          "capital_currency": "francs"
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "KI HOLDING",
+          "legal_form": "société anonyme",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "WELLS AND B",
+          "legal_form": "société anonyme",
+          "registered_office_address": "rue de la Fauveite, 72",
+          "postal_code": "1180",
+          "city": "Uccle (Bruxelles)",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "ERIC EVERARD MANAGEMENT",
+          "legal_form": "société coopérative",
+          "registered_office_address": "Drève Aurélie Solvay, 8",
+          "postal_code": "1150",
+          "city": "Woluwé-Saint-Pierre (Bruxelles)",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": "Luxembourg B4652",
+          "company_name": "CHATEAU DE BÉGGEN",
+          "legal_form": "société anonyme de droit luxembourgeois",
+          "registered_office_address": "rue Bellevue, 1",
+          "postal_code": null,
+          "city": "Luxembourg",
+          "country": "Grand-Duché du Luxembourg",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Michel KACENELENBOGEN",
+          "party_type": "person",
+          "role": "demissionary administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Messieurs Michel KACENELENBOGEN"
+        },
+        {
+          "name": "Adolf KACENELENBOGEN",
+          "party_type": "person",
+          "role": "demissionary administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Adolf KACENELENBOGEN"
+        },
+        {
+          "name": "Patricia TDE",
+          "party_type": "person",
+          "role": "demissionary administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Patricia TDE"
+        },
+        {
+          "name": "KI HOLDING",
+          "party_type": "company",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "immédiatement après l'assemblée ordinaire à tenir en l'an deux mil trois",
+          "confidence": null,
+          "raw_context": "la société anonyme “KI HOLDING” précitée"
+        },
+        {
+          "name": "WELLS AND B",
+          "party_type": "company",
+          "role": "administrator",
+          "address": "Uccle (1180 Bruxelles), rue de la Fauveite, 72",
+          "start_date": null,
+          "end_date": "immédiatement après l'assemblée ordinaire à tenir en l'an deux mil trois",
+          "confidence": null,
+          "raw_context": "la société anonyme \"WELLS AND B\", ayant son siège social à Uccle (1180 Bruxelles), rue de la Fauveite, 72"
+        },
+        {
+          "name": "ERIC EVERARD MANAGEMENT",
+          "party_type": "company",
+          "role": "administrator",
+          "address": "Woluwé-Saint-Pierre (1150 Bruxelles), Drève Aurélie Solvay, 8",
+          "start_date": null,
+          "end_date": "immédiatement après l'assemblée ordinaire à tenir en l'an deux mil trois",
+          "confidence": null,
+          "raw_context": "la société coopérative \"ERIC EVERARD MANAGEMENT\", ayant son siège social à Woluwé-Saint-Pierre {1150 Bruxelles), Drève Aurélie Solvay, 8"
+        },
+        {
+          "name": "CHATEAU DE BÉGGEN",
+          "party_type": "company",
+          "role": "administrator",
+          "address": "Luxembourg (Grand-Duché du Luxembourg), rue Bellevue, 1",
+          "start_date": null,
+          "end_date": "immédiatement après l'assemblée ordinaire à tenir en l'an deux mil trois",
+          "confidence": null,
+          "raw_context": "la société anonyme de droit luxembourgeois \"CHA-TEAU DE BÉGGEN\", ayant son siège social à Luxembourg (Grand-Duché du Luxembourg), rue Bellevue, 1, inscrite au registre du commerce et des sociétés de Luxembourg, sous le numéro Luxembourg B4652"
+        },
+        {
+          "name": "WELLS AND B",
+          "party_type": "company",
+          "role": "administrateur-délégué A",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "administrateursdélégué A : laS.A.”WELLS AND B”"
+        },
+        {
+          "name": "ERIC EVERARD MANAGEMENT",
+          "party_type": "company",
+          "role": "administrateur-délégué B",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "ndrninistrateur-délégué B : la s.c, \"ERICEVERARD MANAGEMENT”"
+        },
+        {
+          "name": "Michel KACENELENBOGEN",
+          "party_type": "person",
+          "role": "representative for administrateur-délégué A",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le premiër sera feprésenté par Monsieur Michel KACE-NELENBOGEN"
+        },
+        {
+          "name": "Eric EVERARD",
+          "party_type": "person",
+          "role": "representative for administrateur-délégué B",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "le second par Monsieur Eric EVERARD"
+        },
+        {
+          "name": "Gérald Snyers",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Attenhoven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Gérald Snyers Attenhoven,notaire"
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution - Nomination",
+      "deed_date": "vingt-sept octobre mil neuf cent",
+      "publication_date": "8 novembre 1997",
+      "publication_reference": "N. 971108 — 171",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution de la société F. & B. CAIRA et nomination de gérants.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "F. & B. CAIRA",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "rue de la Montagne, 18",
+          "postal_code": null,
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "effectuer tantcenter paar compte aa NS rl en.En ess dans toutvp a\"ou entreprises dont l'objetsecalt , similaire. ou Eonpour elle une source ou Un débouché.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Juan MOURLON BEERNAERT",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles, 50, avenuedes Arts",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaire Juan -MOURLON BEERNAERT Bruxelles, 50, avenuedes Arts"
+        },
+        {
+          "name": "Bruno CAIRA",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "Uccle, avenue ‘du Direc-toire, 37",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Bruno CAIRA, gérant de socté-té, demeurant à Uccle, avenue ‘du Direc-toire, 37"
+        },
+        {
+          "name": "Juan Mourlon Beernaert",
+          "party_type": "notary",
+          "role": "notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Sign® Juan Mourlon Beernaert,. notaire."
+        }
+      ]
+    },
+    {
+      "deed_type": "Augmentation de capital - Modification et coordination statuts - Création nouveaux mandats d'administrateurs",
+      "deed_date": "20 octobre mil neuf cent nonante-sept",
+      "publication_date": "8 novembre 1997",
+      "publication_reference": "N. 971108 — 172",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Augmentation de capital, modification des statuts, création de nouveaux mandats d'administrateur, et démission d'une associée.",
+      "companies": [
+        {
+          "enterprise_number": "612.702",
+          "company_name": "ANATOLIA",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "rue de Ribaucourt 123",
+          "postal_code": "1080",
+          "city": "Molenbeek St. Jean Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 3900000.0,
+          "capital_currency": "francs"
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "QUADRA INVEST",
+          "legal_form": "S.A.",
+          "registered_office_address": "bd Pachéco 44",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Ugur Sebahattin",
+          "party_type": "person",
+          "role": "demissionary associate",
+          "address": "Korutuk Mh. Kaktus, Sok n°34/15 - Belcova - Izmir Turquie",
+          "start_date": null,
+          "end_date": "30.9.97",
+          "confidence": null,
+          "raw_context": "Démission de Ugur Sebahattin comme asso-ciée depuis le 30.9.97 (Korutuk Mh. Kaktus, Sok n°34/15 - Belcova - Izmir Turquie)"
+        },
+        {
+          "name": "QUADRA INVEST",
+          "party_type": "company",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "la. S.A. \"QUADRA INVEST\" dont le siège social est: à 1000 Bruxelles, bd Pachéco 44"
+        },
+        {
+          "name": "Eric Neven",
+          "party_type": "notary",
+          "role": "notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Eric Neven, notaire."
+        },
+        {
+          "name": "Sakir Sogutlu",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Sakir Sogutlu, gérant."
+        }
+      ]
+    },
+    {
+      "deed_type": "Augmentation de capital - Modification et coordination statuts - Création nouveaux mandats d'administrateurs",
+      "deed_date": "20 octobre 1997",
+      "publication_date": "8 novembre 1997",
+      "publication_reference": "N. 971108 — 173",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Augmentation de capital, modification et coordination des statuts, et création de nouveaux mandats d'administrateurs.",
+      "companies": [
+        {
+          "enterprise_number": "609.671",
+          "company_name": "LEXNET",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "Avenue Ducpétiaux, 53A",
+          "postal_code": "1060",
+          "city": "Saint-Gilles Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Eric NEVEN",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Forest-Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Notaire Eric NEVEN de résidence à Forest-Bruxelles"
+        },
+        {
+          "name": "B. VERSTAELEN",
+          "party_type": "person",
+          "role": "inspector",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(sé)B.VERSTAELEN"
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting - Benoemingen",
+      "deed_date": "zeventien oktober negentienhonderd zeven en negentig",
+      "publication_date": "8 november 1997",
+      "publication_reference": "N. 971108 — 174",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een burgerlijke vennootschap met beperkte aansprakelijkheid en benoemingen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Callens. Guévar, Van Inpe & Co, Bedrijfsrevisoren",
+          "legal_form": "Burgerlijke Vennootschap die de Rechtavore van senCoöperatieve Vennootschap set Beperkte Aansprakalijkheid heeftaangenomen",
+          "registered_office_address": "Tervurenlaan 313",
+          "postal_code": "1150",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": "427.897.088",
+          "company_name": "Callens, Pirenne, Theunissen & C°",
+          "legal_form": "Burgerlijke Vennootschap die de Rechtsvorm van een Coöperatieve Vennootschap met Beperkte Aansprakelijkheid heeft aangenomen",
+          "registered_office_address": "Jan Van Rijswijcklaan 10",
+          "postal_code": "2018",
+          "city": "Antwerpen",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": "432.596.145",
+          "company_name": "Van Impe & Partners",
+          "legal_form": "Burgerlijke Vennootschap die de Rechtsvorm van een Besloten Vennootschap met Beperkte Aansprakelijkheid heeft aangenomen",
+          "registered_office_address": "Herenthout 61",
+          "postal_code": "9450",
+          "city": "Haaltert",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": "439.281.623",
+          "company_name": "B. Guévar & C°",
+          "legal_form": "Burgerlijke Vennoot-schap die de Rechtsvorm van éen Besloten Ven-nootschap met Beperkte Aansprakelijkheid heeftaangenomen",
+          "registered_office_address": "de Frélaan 269/44",
+          "postal_code": "1160",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe HOPCHET",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Notaris Philippe \\HOPCHET te Antwerpen"
+        },
+        {
+          "name": "M. Sprangers",
+          "party_type": "person",
+          "role": "inspector",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "{getekend} M. Sprangers."
+        }
+      ]
+    }
+  ]
+}

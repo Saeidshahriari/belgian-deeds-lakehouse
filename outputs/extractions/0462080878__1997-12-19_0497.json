@@ -1,0 +1,160 @@
+{
+  "source_file": "1997-12-19_0497.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "General Assembly Decisions",
+      "deed_date": null,
+      "publication_date": "19 décembre 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Decisions from a general assembly regarding the first social year, the first annual general assembly, the nomination of Madame Anne-Marie DE KIMPE as a non-statutory manager, the company's resumption of commitments made during its formation since November 1, 1997, and the granting of procuration to Madame Francine ALBOT for VAT and commercial register registration.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "Patrick Gustin",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Patrick Gustin, notaire."
+        },
+        {
+          "name": "Madame Anne-Marie DE KIMPE",
+          "party_type": "person",
+          "role": "Gérant non statutaire",
+          "address": "Woluwé-Saint-Lambert, Avenue de la Charmille, 20/25",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Elle appelle à ces fonctions: Madame Anne-Marie DE KIMPE, secrétaire, demeurant à Woluwé-Saint-Lambert, Avenue de la Charmille, 20/25. Il est nommé jusqu’à révocation et peut engager valablement la société sans limitation de sommes"
+        },
+        {
+          "name": "Madame Francine ALBOT",
+          "party_type": "person",
+          "role": "Procuration",
+          "address": "Beersel, steenweg op Ukael, 208",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "L'assemblée générale donne à Madame Francine ALBOT, co:-ptable IPC, domiciliée à Beersel, steenweg op Ukael, 208, tes pouvoirs pour représenter et signer toutes déclarations nécessaires en vue de l’immatriculation auprès de J'administration de la taxe sur la valeur ajoutée et du registre de commerce."
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "8 décembre 1997",
+      "publication_date": "19 décembre 1997",
+      "publication_reference": "N. 971219 — 497",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the private limited liability company Xsophos, with registered office at Schaerbeek, Rue Emile Wittmann, 33. The company's object includes consulting, management, training, real estate activities, art and antique trade, interior/exterior decoration, cosmetics, and software/hardware distribution. Capital is 750,000 francs, subscribed by Olivier Corluy and Isabelle Dutron. Olivier Corluy is appointed as the manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Xsophos",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Rue Emile Wittmann, 33, 1030 Schaerbeek",
+          "postal_code": "1030",
+          "city": "Schaerbeek",
+          "country": "Belgium",
+          "corporate_purpose": "toutes les activités de conseil et de gestion (y compris gestion intérim) pour les sociétés, entreprises et personnes privées en général; l'enseignement et les activités de formation en général, l'organisation de séminaires et de stages; les conseils de placement et la gestion des patrimoines mobiliers sous toutes ses formes; L'achat, la vente, l'échange, la mise en valeur, le lotissement, la négociation, la gestion, la gérance et la location de tous immeubles, la construction, la transformation, le parachèvement et l'entretien de tous immeubles ainsi que le commerce et l'industrie de tous matériaux ou matières de construction. la création et l'exploitation de toutes agences immobilières et d'une manière générale, toute activité de marchands de biens et notamment l'exploitation de fonds de commerce, de transactions immobilières qui feraient l'objet d’un apport en nature. la conception et la réalisation de tous projets de construction d'immeubles. l'établissement de plans d'exécution et de devis, la conclusion de tous marchés et le contrôle de leur exécution et en général toutes opérations et devoirs incombant aux bureaux d'études en ce compris toutes formalités relatives aux demandes de permis de bâtir ou de lotir ainsi que la gestion, pour le compte des propriétaires, de tous biens immobiliers. l'achat et la vente, l'import, l'export, la location, la location financière d'oeuvres d'art, d'antiquités et d'objet de décoration: toutes les activités d'intermédiaire dans le commerce d'oeuvre d'art, d'antiquités et d'objet de décoration. la restauration, l'encadrement et la mise en état d'oeuvres d'art, antiquités et objet de décoration et toutes les activités en général qui ont trait aux oeuvres d'art, antiquités et objet de décoration. la décoration intérieure et extérieure; L'achat, la production, la vente, l'import, l'export de produits cosmétiques, produits d'entretien et produits chimiques. Tout développement, distribution, vente, installation et service après-vente pour le Software. Distribution, vente, installation et service après-vente pour le Hardware.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Bernard van der Beek",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Schaerbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Acte reçu par ie Notaire Bernard van der Beek, à Schaerbeek, en date du 8décembre 1997"
+        },
+        {
+          "name": "Monsieur CORLUY Olivier René Florimond Marie Joseph Ghislain",
+          "party_type": "person",
+          "role": "Constituent; Gérant",
+          "address": "Schaerbeek (1030 Bruxelles), 33, rue Emile Wittmann",
+          "start_date": "8 décembre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur CORLUY Olivier René Florimond Marie Joseph Ghislain,indépendant et son épouse... demeurantensemble à Schaerbeek (1030 Bruxelles), 33, rue Emile Wittmann... de désigner camme gérant, Monsieur Olivier Corluy, prénommé, qui accepteet dant le mandat sera exercé à dre gratui .I a tous pouvoirs pour Ia gestion de la société dans les limites de l'article 7 desstatuts et agit seul au nom de la société."
+        },
+        {
+          "name": "Madame DUTRON Isabelle Rose Pierre Marie",
+          "party_type": "person",
+          "role": "Constituent",
+          "address": "Schaerbeek (1030 Bruxelles), 33, rue Emile Wittmann",
+          "start_date": "8 décembre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame DUTRON Isabelle Rose Pierre Marie, employée, demeurantensemble à Schaerbeek (1030 Bruxelles), 33, rue Emile Wittmann"
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution-Nomination",
+      "deed_date": "huit décembre mil neuf cent nonante-sept",
+      "publication_date": "19 décembre 1997",
+      "publication_reference": "N. 971219 — 498",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the private limited liability company L'ALU+PVC DE SMET, with registered office at Anderlecht, chaussée de Mons, numéro 469. The company's object is general trade, including purchase, sale, import, export, manufacturing, maintenance, repair, rental, representation, commission, delivery, transport, and installation of finishing materials for the construction sector, specifically synthetic, composite, PVC, and aluminum frames. Capital is 1,000,000 francs, subscribed by Marc Marie Georges Ghislain DE SMET and Frédéric Alexandre Ghislain VRAUX. Marc DE SMET is appointed as the manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "L'ALU+PVC DE SMET",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "chaussée de Mons, numéro 469, Anderlecht",
+          "postal_code": null,
+          "city": "Anderlecht",
+          "country": "Belgium",
+          "corporate_purpose": "le commerce en général tant en gros qu'au détail, en ce compris notamment l'achat, la vente, l'importation, l'exportation, la fabrication, l'entretien, la réparation, la location, la représentation, la commission, le livraison, le transport et le placement dans le domaine de matériaux de parachèvement pour le secteur de la construction, notamment des châssis en matière synthétique, composite, P.V.C., aluminium",
+          "capital_amount": 1000000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Michal BEHAEGEL",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Saint-Gilles lez Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "par le Notaire Michal BEHAEGEL. de résidence à Saint-Gilles lez Bruxelles"
+        },
+        {
+          "name": "Monsieur Marc Marie Georges Ghislain DE SMET",
+          "party_type": "person",
+          "role": "Constituent; Gérant",
+          "address": "Braine-Le-Château, Fonds Gouvart, 1",
+          "start_date": "huit décembre mil neuf cent nonante-sept",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Marc Marie Georges Ghislain DE SMET, administrateurde société, né à lelies, le trente mers mil neuf cent cinquante-trois.divorcé, demeurant à ÉraineLe-Château, Fonds Gouvart, 1."
+        },
+        {
+          "name": "Monsieur Frédéric Alexandre Ghislain VRAUX",
+          "party_type": "person",
+          "role": "Constituent",
+          "address": "Enghien, avenue Chartes Lamerciar, 43",
+          "start_date": "huit décembre mil neuf cent nonante-sept",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Frédéric Alexandre Ghistain VRAUX, employé, né àBraine-le-Comte, le sept avril mil neuf cent soixante-huit, célibataire,demeurant à Enghien, avenue Chartes Lamerciar, 43."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "source_file": "03057415.pdf",
+  "page_count": 22,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Oprichting - Statuten - Benoemingen",
+      "deed_date": "2003-04-26",
+      "publication_date": "2003-05-22",
+      "publication_reference": null,
+      "form_reference": "FORMULIER IV",
+      "language": "nl",
+      "summary": "Oprichting van de intergemeentelijke vereniging voor duurzaam afvalbeheer regio Mechelen (IVAREM) als opdrachthoudende vereniging, voortkomend uit een partiële splitsing van INTERCOMMUNALE VOOR ONTWIKKELING VAN HET GEWEST MECHELEN EN OMGEVING (IGEMO). De akte omvat de statuten, benoemingen van bestuurders, leden met raadgevende stem, en een commissaris. Het maatschappelijk kapitaal bedraagt 147.855,78 EUR, verdeeld in A-, B- en C-aandelen. De vereniging heeft als doel het initiëren, coördineren en realiseren van een duurzaam en integraal afvalbeleid.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "INTERGEMEENTELIJKE VERENIGING VOOR DUURZAAM AFVALBEHEER REGIO MECHELEN (IVAREM)",
+          "legal_form": "Opdrachthoudende vereniging",
+          "registered_office_address": "Schoutetstraat 2",
+          "postal_code": "2800",
+          "city": "Mechelen",
+          "country": null,
+          "corporate_purpose": "het initiëren, coördineren en realiseren van een vooruitstrevend, duurzaam en integraal afvalbeleid",
+          "capital_amount": 147855.78,
+          "capital_currency": "EUR"
+        },
+        {
+          "enterprise_number": "24",
+          "company_name": "INTERCOMMUNALE VOOR ONTWIKKELING VAN HET GEWEST MECHELEN EN OMGEVING (IGEMO)",
+          "legal_form": "burgerlijke vennootschap onder de vorm van een coöperatieve vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Schoutetstraat, 2",
+          "postal_code": "2800",
+          "city": "Mechelen",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 16031589.57,
+          "capital_currency": "EUR"
+        },
+        {
+          "enterprise_number": "4859",
+          "company_name": "Berquin, Ockerman, Deckers, Spruyt, van der Vorst & Dekegel, Geassocieerde notarissen",
+          "legal_form": "burgerlijke vennootschap onder de rechtsvorm van een coöperatieve vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Lloyd Georgelaan, 11",
+          "postal_code": "1000",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "J.VANSEUNINGEN, Bedrijfsrevisor",
+          "legal_form": "burgerlijke vennootschap onder de vorm van een besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "First & Johnson",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Zilverstraat 53",
+          "postal_code": null,
+          "city": "Schoten",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Filip HUYGENS",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Mechelen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Meester Filip HUYGENS, Notaris te Mechelen"
+        },
+        {
+          "name": "Eris SPRUYT",
+          "party_type": "notary",
+          "role": "geassocieerd notaris, vennoot",
+          "address": "Lloyd Georgelaan, 11, 1000 Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Meester Eris SPRUYT, geassocieerd notaris, vennoot van de burgerlijke vennootschap onder de rechtsvorm van een coöperatieve vennootschap met beperkte aansprakelijkheid \"Berquin, Ockerman, Deckers, Spruyt, van der Vorst & Dekegel, Geassocieerde notarissen”, met zetel te 1000 Brussel, Lloyd Georgelaan, 11, ingeschreven in het register van de burgerlijke vennootschappen te Brussel onder nummer 4859"
+        },
+        {
+          "name": "Bart SOMERS",
+          "party_type": "person",
+          "role": "burgemeester",
+          "address": "Stad Mechelen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Bart SOMERS, burgemeester van de Stad Mechelen"
+        },
+        {
+          "name": "Lauwers M",
+          "party_type": "person",
+          "role": "De Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Ontvanger (get.) Lauwers M"
+        },
+        {
+          "name": "John VANSEUNINGEN",
+          "party_type": "person",
+          "role": "Bedrijfsrevisor",
+          "address": null,
+          "start_date": "2003-03-20",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer John VANSEUNINGEN, Bedrijfsrevisor, door de oprichters van de intergemeentelijke vereniging voor duurzaam afvalbeheer Regio Mechelen (IVAREM) in de zin van het decreet van zes juli tweeduizend en één houdende de Intergemeentelijke Samenwerking, aangesteld, heeft overeenkomstig artikel 395 van het Wetboek van vennootschappen op datum van twintig maart tweeduzend en drie een schriftelijk verslag opgesteld"
+        },
+        {
+          "name": "F. Van Hoof",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Herfststraat 19, 2590 Berlaar",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Berlaar : ft, Van Hoof, Herfststraat 19, 2590 Berlaar"
+        },
+        {
+          "name": "J. Thirion",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Brandheidestraat 7, 2820 Bonheiden",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Bontteiden . J. Thirion, Brandheidestraat 7, 2820 Bonheiden"
+        },
+        {
+          "name": "J. De Clerc",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Breevenstraat 54, 2880 Bornem",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Bomem : J. De Clerc, Breevenstraat 54, 2880 Bornem"
+        },
+        {
+          "name": "P. Wuyts",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Kruisstraat 78, 2570 Duffel",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Duffel : P. Wuyts, Kruisstraat 78, 2570 Duffel"
+        },
+        {
+          "name": "J.M. Goetze",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Galgeveld 70, 2500 Lier",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Lier‘ JM Goetze, Galgeveld 70, 2500 Lier"
+        },
+        {
+          "name": "H. De Voeght",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Bernardinenlaan 3, 2500 Lier",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "H.De Voeght, Bernardineniaan 3, 2500 Lier"
+        },
+        {
+          "name": "J. Timmermans",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "A. Geudensstraat 14, 2800 Mechelen",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Mechelen : J. Timmermans, A. Geudensstraat 14, 2800 Mechelen"
+        },
+        {
+          "name": "J. Lamon",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Jodenstraat 37, 2800 Mechelen",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "J. Lamon, Jodenstraat 37, 2800 Mechelen"
+        },
+        {
+          "name": "G. Tys-Smets",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Beekstraat 16, 2800 Mechelen",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "G. Tys-Smets, Beekstraat 16, 2800 Mechelen"
+        },
+        {
+          "name": "C. Bosmans",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Rappoortlaan 25, 2580 Putte",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Putte : C, Bosmans, Rappoortlaan 25, 2580 Putte"
+        },
+        {
+          "name": "J. Winters",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Essendries 8, 2870 Puurs",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Puurs ‘ J. Winters, Essendries 8, 2870 Puurs"
+        },
+        {
+          "name": "J. De Kinder",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Smissen 2c, 2800 Sint-Amands",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Sint-Amands : J. De Kinder, Smissen 2c, 2800 Sint-Amands"
+        },
+        {
+          "name": "R. Cruyplants",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Molentei 6, 2861 Sint-Katelijne-Waver",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Sint-Katelijne-Waver » R. Cruyplants, Molentei 6, 2861 Sint-Katelijne-Waver"
+        },
+        {
+          "name": "T. Van Duck",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Merkezeel 13, 2830 Willebroek",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor Willebroek :T. Van Duck, Merkezeel 13, 2830 Willebroek"
+        },
+        {
+          "name": "J. Hellemans",
+          "party_type": "person",
+          "role": "Bestuurder",
+          "address": "Leopoldstraat 138, 2570 Duffel",
+          "start_date": "2003-04-26",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "voor IGEMO: } Hellemans, Leopoldstraat 138, 2570 Duffel"
+        },
+        {
+          "name": "G. Geysemans",
+          "party_type": "person",
+          "role": "Lid met raadgevende stem",
+          "address": "Berlaar",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "G. Geysemans, Berlaar"
+        },
+        {
+          "name": "J. Dijck-Van De Vliet",
+          "party_type": "person",
+          "role": "Lid met raadgevende stem",
+          "address": "Putte",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "J Dijck-Van De Vliet, Putte"
+        },
+        {
+          "name": "J. Van Ingelgem",
+          "party_type": "person",
+          "role": "Lid met raadgevende stem",
+          "address": "Willebroek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "J, Van Ingelgem, Willebroek"
+        },
+        {
+          "name": "John Vanseuningen",
+          "party_type": "person",
+          "role": "Commissaris",
+          "address": null,
+          "start_date": "2003-04-26",
+          "end_date": "2006-04-26",
+          "confidence": null,
+          "raw_context": "Als commissaris voor een maximale termijn van drie jaar werd benoemd: de heer John Vanseuningen."
+        },
+        {
+          "name": "Luc De Boeck",
+          "party_type": "person",
+          "role": "Lid beroepscollege",
+          "address": "Orngangstraat 156 te 2880 Bornem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Luc De Boeck, Orngangstraat 156 te 2880 Bornem"
+        },
+        {
+          "name": "Kurt Moens",
+          "party_type": "person",
+          "role": "Lid beroepscollege",
+          "address": "Moststraat 4 te 2811 Hombeek-Mechelen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Kurt Moens, Moststraat 4 te 2811 Hombeek-Mechelen"
+        }
+      ]
+    }
+  ]
+}

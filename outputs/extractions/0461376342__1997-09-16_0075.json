@@ -1,0 +1,443 @@
+{
+  "source_file": "1997-09-16_0075.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Benoeming bestuurder, statutenwijziging en volmacht",
+      "deed_date": "26/08/1997",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 74",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "De buitengewone algemene vergadering van 26/08/1997 beslist een vierde bestuurder te benoemen: de heer Bytrap Roland. Wijzigingen aan artikel 16, 39 en 40 van de statuten. Volmacht gegeven aan de vennootschap A.F.C.O., vertegenwoordigd door de heer Tanguy de Villegas, om verklaringen van wijziging te tekenen en neer te leggen bij het handelsregister.",
+      "companies": [
+        {
+          "enterprise_number": "BE 402.240.588",
+          "company_name": "PIETERCIL-RESTA FOOD BROKERS",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Vitseroelstraat 74",
+          "postal_code": "1740",
+          "city": "TERNAT",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "A.F.C.O.",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Delleurlaan, 17",
+          "postal_code": "1170",
+          "city": "Watermaal-Bosvoorde",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "CT. Europe CVA",
+          "legal_form": "CVA",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "Coertjens beheer B.V.",
+          "legal_form": "B.V.",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Bytrap Roland",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "Huldekens 9, 2970 Schilde",
+          "start_date": null,
+          "end_date": "2003",
+          "confidence": null,
+          "raw_context": "de heer Bytrap Roland, wonende te 2970 Schilde - Huldekens 9. Dit vanaf heden. Deze opdracht is onbezoldigd en zal een einde nemen onmiddelijk na de jaarvergadering van 2003"
+        },
+        {
+          "name": "Coertjens, Theo",
+          "party_type": "person",
+          "role": "vertegenwoordiger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "ini Theo i VBA. vertegenwoordigd door Coertjens beheer B.V. vertegenwoordigd door (get.) Coertjens, Theo."
+        },
+        {
+          "name": "Tanguy de Villegas",
+          "party_type": "person",
+          "role": "vertegenwoordiger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "vertegenwoordigd door de heer Tanguy” de Villegas, met de macht om ini Theo i VBA. de plaats te stellen, ten einde elke verklaring van wijziging te tekenen en neer te leggen bij het handelsregister."
+        },
+        {
+          "name": "Jean-Philippe Lagae",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get.) Jean-Philippe Lagae, notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "Kapitaalverhoging, statutenwijziging en volmachten",
+      "deed_date": "vijfentwintig augustus negentienhonderd zevenennegentig",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 75",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Kapitaalverhoging met 100.000.000 frank tot 200.000.000 frank door creatie van 40.000 aandelen. Wijziging van de maatschappelijke benaming naar \"PIETERCIL RESTA FOOD BROKERS\", in het kort \"PIETERCIL RESTA\". Wijziging van artikel 1, 5, 16, 39 en 40 van de statuten. Volmacht aan A.F.C.O., vertegenwoordigd door Tanguy de Villegas, voor neerlegging bij het handelsregister.",
+      "companies": [
+        {
+          "enterprise_number": "BE 402.240.588",
+          "company_name": "PIETERCIL-RESTA FOOD BROKERS",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Vitseroelstraat 74",
+          "postal_code": "1740",
+          "city": "TERNAT",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 200000000.0,
+          "capital_currency": "frank"
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "A.F.C.O.",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Delleurlaan, 17",
+          "postal_code": "1170",
+          "city": "Watermaal-Bosvoorde",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Philippe LAGAE",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Notaris Jean-Philippe LAGAE, ter standplaats Brussel, op vijfentwintig augustus negentienhonderd zevenennegentig"
+        },
+        {
+          "name": "V. BONTE",
+          "party_type": "person",
+          "role": "Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Ontvanger (getekend) V. BONTE"
+        },
+        {
+          "name": "Tanguy de Villegas",
+          "party_type": "person",
+          "role": "vertegenwoordiger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "volmacht te geven aan de vennootschap A.F.C.O., Besloten vennootschap met beperkte aansprakelijkheid, met maatschappelijke zetel te Watermaal-Bosvoorde (1170 Brussel), Delleurlaan, 17, vertegenwoordigd door de heer Tanguy de Villegas"
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution, nomination de gérants et pouvoirs",
+      "deed_date": "deux septembre mil neuf cent nonante-sept",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 75",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution d'une société privée à responsabilité limitée dénommée \"MAPPA MONDO\". Siège social à 1000 Bruxelles, rue Antoine Dansaert, 34. Objet social: gestion et exploitation de cafés, restaurants, etc., achat/vente/location d'équipements, conseils, commerce de nourritures et boissons. Capital de 750.000 francs, représenté par 750 parts. Nomination de cinq gérants: Françoise LELIE, Frédéric NICOLAY, Raphaël GUILBERT, Walter FISCHER, Pierre MENDROWSKI. Mandat illimité et rémunéré. Pouvoirs conférés à A.F.C.O. pour immatriculation.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "MAPPA MONDO",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "rue Antoine Dansaert, 34",
+          "postal_code": "1000",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": "la gestion et l'exploitation de cafés, cafétérias, restaurants, snack-bars, fast-food snack. L'achat, la vente ou la mise en location de tous équipements et matières premières relatifs à la restauration, ainsi que la conception, la réalisation et la décoration de tous lieux exploités comme restaurants, y compris la conception et réalisation des équipements nécessaires. Toutes opérations de conseils et de formation nécessaires relatives à la préparation des aliments, à l’administration de restaurant et aux techniques d'approvisionnement des points d'exploitation que la société pourrait acquérir directement ou en association avec d'autres. Le commerce sous toutes ses formes, l’importation, l'exportation, la représentation de toutes nourritures, bières, vins, eaux minérales et gazeuses, crèmes glacées, ainsi que toutes autres alimentations et boissons que la société pourra vendre et acheter, soit directement, soit indirectement. Toutes opérations relatives à l'achat ou la vente, la location, l'exploitation, la gestion ou l'administration, la mise en \"franchise\", de tous restaurants ou points d'exploitation qu'elle aura acquis directement ou en association avec d'autres, dont l'objet serait analogue ou connexe au sien, ou de nature à favoriser le développement de son objet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "A.F.C.O.",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "avenue Delleur, 17",
+          "postal_code": "1170",
+          "city": "Watermael-Boitsfort",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Philippe LAGAE",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte dressé par le Notäire Jean-Philippe LAGAE, de résidence à Bruxelles, le deux septembre mil neuf cent nonante-sept"
+        },
+        {
+          "name": "V. BONTE",
+          "party_type": "person",
+          "role": "Receveur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le Receveur (signé) V. BONTE"
+        },
+        {
+          "name": "Françoise LELIE",
+          "party_type": "person",
+          "role": "gérante",
+          "address": "rue Juliette Wytsman, 5, Ixelles (1050 Bruxelles)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Françoise LELIE, gérante de sociétés, domiciliée à Ixelles, (1050 Bruxelles}, rue Juliette Wytsman, 5."
+        },
+        {
+          "name": "Frédéric NICOLAY",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "rue Joseph Claes, 50, Saint-Gilles (1060 Bruxelles)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Frédéric Philippe Francois Gustave NICOLAY, gérant de sociétés, domicilié à Saint-Gilles (1060 Bruxelles), rue Joseph Claes, 50."
+        },
+        {
+          "name": "Raphaël GUILBERT",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "La Grange Blanche à Taulignan (Drôme)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Raphaël Benoît René GUILBERT, étudiant, domicilié La Grange Blanche à Taulignan (Drôme)."
+        },
+        {
+          "name": "Walter FISCHER",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "avenue des Trois Tilleuls, 67, Watermael-Boitsfort (1170 Bruxelles)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Walter FISCHER, licencié ‘ensciences commerciales, domicilié à Watermael-Boitsfort, (1170 Bruxelles), avenue des Trois Tilleuls, 67."
+        },
+        {
+          "name": "Pierre MENDROWSKI",
+          "party_type": "person",
+          "role": "gérant",
+          "address": "rue de Boetendael, 35, Uccle (1180 Bruxelles)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Pierre Léon MENDROWSKI, cuisinier, domicilié à Uccle (1180 Bruxelles), rue de Boetendael, 35."
+        },
+        {
+          "name": "Tanguy de Villegas",
+          "party_type": "person",
+          "role": "représentant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Tous pouvoirs sont conférés à la société privée à responsabilité limitée \"A.F.C.O.\"*, ayant son siège social à Watermael-Boitsfort {1170 Bruxelles), avenue Delleur, 17, représentée par Monsieur Tanguy de Villegas"
+        }
+      ]
+    },
+    {
+      "deed_type": "Benoeming nieuwe zaakvoerder",
+      "deed_date": "04/01/1997",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 76",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "De buitengewone algemene vergadering van 04/01/1997 heeft besloten de heer EILERS Dirk te benoemen als nieuwe zaakvoerder vanaf 01/01/1997.",
+      "companies": [
+        {
+          "enterprise_number": "BE 420.116.205",
+          "company_name": "ZAKENKANTOOR EILERS",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Corneel Vermijlenlaan 19",
+          "postal_code": "2100",
+          "city": "Antwerpen-Deurne",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "EILERS Dirk",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": "Sint-Hubertuslaan 37 te 2970 Schilde",
+          "start_date": "01/01/1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer EILERS Dirk, Sint-Hubertuslaan 37 te 2970 Schilde, .. als nieuwe zaakvoerder te benoemen vanaf 01/01/1997."
+        }
+      ]
+    },
+    {
+      "deed_type": "Zetelverplaatsing",
+      "deed_date": "44/07/97",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 77",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "De zaakvoerder beslist om de maatschappelijke zetel vanaf 44/07/97 over te brengen van Molenstraat 7, 2920 Kalmthout naar Bredabaan 989, 2930 Brasschaat.",
+      "companies": [
+        {
+          "enterprise_number": "BE 454.688.389",
+          "company_name": "Debtor Management Services",
+          "legal_form": "Besloten Vennootschap met Beperkte Aansprakelijkheid",
+          "registered_office_address": "Bredabaan 989",
+          "postal_code": "2930",
+          "city": "Brasschaat",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Gustaaf Joosen",
+          "party_type": "person",
+          "role": "zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) Gustaaf Joosen, zaakvoerder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Verlenging mandaten",
+      "deed_date": "14.08.1995",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 78",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Bij beslissing van de Algemene vergadering dd. 14.08.1995 worden de mandaten voor een periode van zes jaar verlengd, vervallend tijdens de algemene vergadering van 2001. Bij beslissing van de Raad van bestuur dd. 18.08.1995 wordt het mandaat van de heer Vispoel R. als gedelegeerd bestuurder voor een periode van zes jaar verlengd, vervallend tijdens de algemene vergadering van 2001.",
+      "companies": [
+        {
+          "enterprise_number": "BE 438.576.685",
+          "company_name": "STUDIEBUREEL VOOR BEDRIJFS-PLANNING EN ADVIES",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Kapellenhoflaan 43",
+          "postal_code": "2980",
+          "city": "ZOERSEL",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Robert Vispoel",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": "18.08.1995",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": "het mandaat van de heer Vispoel R. als gedelegeerd bestuurder voor een periode van zes jaar verlengd. Zijn mandaat vervalt tijdens de algemene vergadering van 2001. (Get) Robert Vispoel, gedelegeerd bestuurder."
+        }
+      ]
+    },
+    {
+      "deed_type": "Ontbinding en inverefteningsstelling, benoeming vereffenaar, coördinatie statuten",
+      "deed_date": "vijfentwintig augustus negentienhonderd zevenennegentig",
+      "publication_date": "16 september 1997",
+      "publication_reference": "N. 970916 — 79",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Uit een akte verleden voor notaris Eric DECKERS te Antwerpen op 25 augustus 1997 blijkt dat de vennootschap besloten heeft tot ontbinding en inverefteningsstelling, benoeming van vereffenaar en coördinatie der statuten.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "N.TH. DE JONG B.V.",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Prinsendreef 15 bus 14",
+          "postal_code": "2950",
+          "city": "KAPELLEN",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Eric DECKERS",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte verleden voor notaris Eric DECKERS te Antwerpen op vijfentwintig augustus negentienhonderd zevenennegentig"
+        },
+        {
+          "name": "W VAN DAMME",
+          "party_type": "person",
+          "role": "Ontvanger",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "getekend De Ontvariger W VAN DAMME"
+        }
+      ]
+    }
+  ]
+}

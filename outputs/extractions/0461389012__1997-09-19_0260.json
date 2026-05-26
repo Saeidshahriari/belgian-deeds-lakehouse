@@ -1,0 +1,118 @@
+{
+  "source_file": "1997-09-19_0260.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION - NOMINATION",
+      "deed_date": "Ie Fe tembre 1997",
+      "publication_date": "19 septembre 1997",
+      "publication_reference": "N. 970919 — 260",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'ATELTOP' by Madame ACHMAROVA Valentina and Madame GIANNAKIDIS Kyriaki. Registered office in Molenbeek-Saint-Jean. Object includes commerce, transport services, and related operations. Unlimited duration. Capital 750,000 francs, 2/3 liberated. Madame GIANNAKIDIS Kyriaki appointed as manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ATELTOP",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "rue Picard, 44",
+          "postal_code": "1080",
+          "city": "Molenbeek-Saint-Jean",
+          "country": "Belgique",
+          "corporate_purpose": "l'achat, la vente, Ja location, l'importation, l'exportation, lareprésentation et, d’une manière générale, le commerce soustoutes ses formes, de toute machine, denrée, bien deconsommation où d’Équipement, pièces détachées, matièrepremière ou article élaboré, terrain ou immeuble, etnotamment et non exclusivement: de tout véhicule automobileour le transport des personnes ou des marchandises, desipements industriels, agricoles, de génie civil et de bureau,d'articles à usage domestique, personnel, professionnel, deproduits alimentaires, de textifes, de meubles, d'appareilslectroniques, de produits chimiques, et ce partout dans lemonde. 'Les services dans le domaines des transports,consignation, agence en douane, transit, courtage,commissionmiement, assurances, orgamsations d'entreprise,conseil techniques pour compte propre ou de tout tiers. Ellepourrait à cet effet, louer ou mettre à disposition des tiers sonpropre équipemeik, locaux, personnel ou procédés, , ainsi queceux mis À sa disposition par toute autre fine ou penone.Et en général, toutes opérations mdustriellesimmobilières, commerciales ou civiles, la gestion immobilièreayant un rapport direct ou indirect avec cet objet ou pouvanten faciliter la réalisation. Elle pourra agir commeintermédiaire commercial, comme mandataire où mandant,pour compte de qui il appartiendra dans toutes opérationsgénéralement quelconques se rapportant à son objet. -La société peut réaliser son objet directement en touslieux, de toutes les manières et suivant les modalités qui luiaraîtront les mieux appropriées Elle peut s'intéresser par voiel'association, d'intervention financière ou autrement danstoutes sociétés ou entreprises existantes ou à créer dont l'objetserait connexe ou analogue au sien, ou qui sont de nature àfavoriser le développement de son cnticprise qui seraientsusceptibles de constituer pour elie une sourced'approvisionnement op une possibilité de débouchés.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-François Poelman",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Schaerbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte reçu le Notaire Jean-François POELMAN À Schaerbeek Ie Fe tembre 1997"
+        },
+        {
+          "name": "ACHMAROVA Valentina",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Schaerbeek, rue Colonel Picquart, 11",
+          "start_date": "Ie Fe tembre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame ACHMAROVA Valentina, infirmière,demeurant à Schaerbeek, rue Colonel Picquart, 11."
+        },
+        {
+          "name": "GIANNAKIDIS Kyriaki",
+          "party_type": "person",
+          "role": "Founder, Manager",
+          "address": "Anderlecht, rue des Bassins, 37. B.",
+          "start_date": "Ie Fe tembre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame GIANNAKIDIS . Kyriaki, employée,demeurant à Anderlecht, rue des Bassins, 37. B.. à. ont consiitué une société Fu à responsabilitélimitée sous la dénomination \"ATELTOP\". Les constituants décident de nommer ungérant, et désignent en cette qualité ct pour une duréeIndéterminée avec les pouvoirs les plus étendus que la loi luiconfère : Madame GIANNAKIDIS Kyriaki."
+        },
+        {
+          "name": "Yvo Defossé",
+          "party_type": "person",
+          "role": "Mandatary",
+          "address": "1090 Bruxelles, rue Saïnt-Norbert, 17",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le gérant donne pouvoir, avecpouvoir de substitution, à la personne dénommée ci-après envue de faire le nécessaire pour l'inscription de la société auregistre de commerce, aux Services du ministère des financeset aux autres services administratifs, sans restriction, auprès‚ desquels des formalités doivent être accomplies du chef de laconstitution : Monsieur Yvo, Defossé, demeurant à 1090Bruxelles, rue Saïnt-Norbert, 17."
+        }
+      ]
+    },
+    {
+      "deed_type": "Ontslag, benoeming bestuurder, vervangingwettelijk vertégenwoordiger Commissaris-Revisor, benoeming afgevaardigd-bestuurder,volmacht",
+      "deed_date": "17/06/1997",
+      "publication_date": "19 september 1997",
+      "publication_reference": "N. 970919 — 261",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Extract from the General Meeting of Shareholders dated 17/06/1997. Resignation of Mr. B.R. HASLINGHUIS as director, effective 1 June 1997. Appointment of Mr. E.M. BOSMA as director for 6 years, effective 1 June 1997, unpaid.",
+      "companies": [
+        {
+          "enterprise_number": "BE 407.130.675",
+          "company_name": "M. SEHER & CO N.V.",
+          "legal_form": "Naamloze vennootschap",
+          "registered_office_address": "Erasmusstraat 23",
+          "postal_code": "1070",
+          "city": "Brussel",
+          "country": "België",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "B.R. HASLINGHUIS",
+          "party_type": "person",
+          "role": "Director",
+          "address": null,
+          "start_date": null,
+          "end_date": "1 juni 1997",
+          "confidence": null,
+          "raw_context": "De vergadering neemt akte van het eervolontslag van de Heer B.R. HASLINGHUIS alsbestuurder van de vennootschap en dit metingang vanaf 1 juni 1997."
+        },
+        {
+          "name": "E.M. BOSMA",
+          "party_type": "person",
+          "role": "Director",
+          "address": "Nederland, 3055 PP Rotterdam, Heijbergstraat 5",
+          "start_date": "1 juni 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De vergadering besluit met éénparigheid vanstemmen de Heer E.M. BOSMA, wonende teNederland, 3055 PP Rotterdam, Heijbergstraat 5te benoemen als bestuurder van de vennootschapvoor een periode van 6 jaar en dit met ingangvanaf 1 juni 1997. Zijn mandaat za! onbezoldigd.worden uitgeoefend."
+        }
+      ]
+    }
+  ]
+}

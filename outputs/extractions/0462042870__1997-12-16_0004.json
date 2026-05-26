@@ -1,0 +1,160 @@
+{
+  "source_file": "1997-12-16_0004.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "09.12.1997",
+      "publication_date": "16 décembre 1997",
+      "publication_reference": "N. 971216 — 4",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the public limited company ADRIEN TRANSPORT SERVICE (A & F) with a capital of 2,500,000 francs. The company's object includes transport, handling, logistics, and related services. Administrators and delegates are appointed.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ADRIEN TRANSPORT SERVICE",
+          "legal_form": "SOCIETE ANONYME",
+          "registered_office_address": "Etterbeek, avenue de la Chasse 225",
+          "postal_code": null,
+          "city": "Etterbeek",
+          "country": null,
+          "corporate_purpose": "l'achat, la vente, l'entretien et la réparation de tout matériel de manutention; la location de matériel de manutention avec ou sans opérateur et toutes activités connexes; la gestion administrative ainsi que l'exercice de mandat d'administrateur dans d'autres sociétés; les manutentions, la gestion de stock, les emballages, la logistique, la distribution de produits; l'achat, la vente, le dépôt de mobilier, de matériel, d'objets divers neufs et d'occasion; l'achat, la vente, la réparation, l'entretien, l'adaptation et la location de tous types de véhicules avec ou sans chauffeur et activités connexes; les transports et déménagements tant nationaux qu'internationaux, le garde-meubles ainsi que toutes les activités connexes; tous les travaux de nettoyage-entretien-rénovation et de construction de bâtiments et toutes les activités connexes. La société peut faire toutes opérations industrielles, commerciales, financières, mobilières et immobilières qui pourraient être utiles ou favorables à la réalisation du but social. Elle peut directement ou indirectement s'intéresser dans toutes entreprises ayant un objet similaire ou dont l'objet serait connexe ou sien, sous réserve des prescriptions légales prévues entre autres aux articles 29 et 52 bis des lois coordonnées sur les sociétés commerciales.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "francs"
+        },
+        {
+          "enterprise_number": "444.820.125",
+          "company_name": "SA ADRIEN STOCKAGE SERVICE",
+          "legal_form": "société anonyme",
+          "registered_office_address": "Etterbeek, avenue de la Chasse 225",
+          "postal_code": null,
+          "city": "Etterbeek",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Pierre De Doncker",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaire Pierre De Doncker à Bruxelles"
+        },
+        {
+          "name": "A. Dewaersegger",
+          "party_type": "person",
+          "role": "receiver",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le receveur Gi Signé A Dewaersegger"
+        },
+        {
+          "name": "Huguette Derom",
+          "party_type": "person",
+          "role": "founder, subscriber, administrator, administrator-delegate for daily management, president of the board",
+          "address": "1040 Etterbeek, avenue de la Chasse 225",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Huguette GEROM, née à Brugge le trois février mil neuf cent quarante-sept, domiciliée à 1040 Etterbeek, avenue de la Chasse 225. (...) Les comparants nomment à l'unanimité comme administrateurs de la société: (...) 1) Madame Huguette Derom, prénommée. (...) Les administrateurs prénommés décident d'appeler aux fonctions (...) comme administrateur-délégué gestion journalière Madame Huguette Derom (...) Les administrateurs prénommés décident d'appeler à la fonction du président du conseil d'administration Madame Huguette Derom."
+        },
+        {
+          "name": "Patrick Adrien",
+          "party_type": "person",
+          "role": "founder, subscriber, administrator",
+          "address": "1410 Waterloo, avenue Prince Charles 9",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Patrick ADRIEN, né à Uccle le treize mars mil neuf cent soixante-six, domicilié à 1410 Waterloo, avenue Prince Charles 9. (...) Les comparants nomment à l'unanimité comme administrateurs de la société: (...) 3) Monsieur Patrick Adrien, prénommé."
+        },
+        {
+          "name": "Marc Adrien",
+          "party_type": "person",
+          "role": "founder, subscriber, administrator, administrator-delegate for transport",
+          "address": "1040 Etterbeek, avenue de la Chasse 225",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Marc ADRIEN, né à Uccle le vingt-et-un juin mil neuf cent soixante-sept, domicilié à 1040 Etterbeek, avenue de la Chasse 225. (...) Les comparants nomment à l'unanimité comme administrateurs de la société: (...) 2) Monsieur Marc Adrien, prénommé. (...) Les administrateurs prénommés décident d'appeler aux fonctions d'administrateur-délégué aux transports, Monsieur Marc Adrien, prénommé."
+        },
+        {
+          "name": "Marcel Lamole",
+          "party_type": "person",
+          "role": "auditor",
+          "address": "1150 Bruxelles, avenue des 2pennes 11/14",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "rapport de l'expert Monsieur Marcel Lamole, Reviseur d'entreprises à 1150 Bruxelles, avenue des 2pennes 11/14"
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "27.11.1997",
+      "publication_date": "16 décembre 1997",
+      "publication_reference": "N. 971216 — 5",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the private limited liability company LE COURTIER BELGE with a capital of 750,000 francs. The company's object includes all brokerage operations, particularly in insurance, finance, and real estate.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "LE COURTIER BELGE",
+          "legal_form": "SOCIETE PRIVEE A RESPONSABILITE LIMITEE",
+          "registered_office_address": "1000 Bruxelles, avenue du Vénézuela 23",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "toutes opérations de courtage, notamment en assurances, financements, prêts personnels et hypothécaires, prêts commerciaux, leasing et autres, ainsi que toutes opérations d'intermédiaire concernant ces opérations; toutes opérations d'intermédiaire concernant tous biens meubles et immeubles, la gestion d'immeubles, l'achat ou la vente de biens immobiliers, ainsi que toutes opérations connexes de courtage; et autres activités de cette nature. La société peut s'intéresser par voie d'association, d'apports, de fusions, de souscriptions de participation et d'intervention financière ou autres dans toutes affaires, entreprises ou sociétés ayant un objet identique, analogue ou connexe ou qui soit de nature à favoriser le développement de son entreprise. Elle peut également faire toutes opérations commerciales, industrielles, mobilières, immobilières ou financières se rattachant directement ou indirectement à son objet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Pierre De Doncker",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaire Pierre De Doncker à Bruxelles"
+        },
+        {
+          "name": "Guy Casynasx",
+          "party_type": "notary",
+          "role": "associated notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "son associé le notaire Guy Casynasx à Bruxelles"
+        },
+        {
+          "name": "A. Dewaersegger",
+          "party_type": "person",
+          "role": "receiver",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le Receveur fan. qu'une société privée à responsabilité Dewgereggerkeriibe"
+        }
+      ]
+    }
+  ]
+}

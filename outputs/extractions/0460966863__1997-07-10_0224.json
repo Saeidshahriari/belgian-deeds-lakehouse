@@ -1,0 +1,193 @@
+{
+  "source_file": "1997-07-10_0224.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Renouvellement des mandats des administrateurs",
+      "deed_date": "4 juin 1997",
+      "publication_date": "10 juillet 1997",
+      "publication_reference": "N. 970710 — 223",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Renewal of mandates for administrators G. DELRUELLE, M. THEYS, and A. HELSSEN. G. DELRUELLE is re-elected President. Mandates end at the 1998 Ordinary General Assembly unless re-elected.",
+      "companies": [
+        {
+          "enterprise_number": "82639",
+          "company_name": "POLYWES S.A.",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "Espace \"Del Goutte\" 40, rue de Bois Seigneur Isaac, bât.5 B-1421 Braine l'Alleud (Ophain)",
+          "postal_code": "1421",
+          "city": "Braine l'Alleud (Ophain)",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "G. DELRUELLE",
+          "party_type": "person",
+          "role": "administrateur, Président",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Les mandats d'administrateurs de MM G.DELRUELLE... sont renouvelés. M. G, DELRUELLE est réélu Président."
+        },
+        {
+          "name": "M. THEYS",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Les mandats d'administrateurs de MM... M.THEYS... sont renouvelés."
+        },
+        {
+          "name": "A. HELSSEN",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Les mandats d'administrateurs de MM... A HELSSEN sont renouvelés."
+        },
+        {
+          "name": "Amaury Helssen",
+          "party_type": "person",
+          "role": "administrateur-délégué",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Signé} Amaury Helssen,;administrateur."
+        }
+      ]
+    },
+    {
+      "deed_type": "ACTE CONSTITUTIF",
+      "deed_date": "19 juin 1997",
+      "publication_date": "10 juillet 1997",
+      "publication_reference": "N. 970710 — 224",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitutive act of POLMEX SPRL by Notary Philippe PIRON. Founders: Michel François Czeslaw Ghislain GRABOWSKI and Anne-Charlotte Donatienne PREVOT. Registered office in Louvain-la-Neuve. Corporate purpose includes management consulting, market studies, etc. Capital of 375,000 BEF divided into 375 shares. Anne-Charlotte PREVOT appointed as manager for an indefinite period.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "POLMEX SPRL",
+          "legal_form": "SOCIETE PRIVEE A RESPONSABILITE LIMITEE",
+          "registered_office_address": "Avenue des 4 Bonniers, 31 1348 LOUVAIN-LA-NEUVE",
+          "postal_code": "1348",
+          "city": "LOUVAIN-LA-NEUVE",
+          "country": null,
+          "corporate_purpose": "conseil en gestion d'entreprise, de rentabilité et de stratégie d'investissement, d'exportation et d'implantation d'entreprise, d'organisation, d'études de marché, la participation en ses personnes morales dans toutes les transactions en Belgique et à l'étranger.",
+          "capital_amount": 375000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe PIRON",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": "à Mons",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte reçu par le Notaire Philippe PIRON, à Mons, lé 19 juin 1997"
+        },
+        {
+          "name": "Michel François Czeslaw Ghislain GRABOWSKI",
+          "party_type": "person",
+          "role": "fondateur, souscripteur",
+          "address": "Koekelberg, Avenue Seghers",
+          "start_date": "1965-11-02",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur. Fink BOWSKI , Midnet Frangois Czeslaw Ghislain, Snploye, re à Charleroile deux novembre neuf cen:soixante-cing, demeurant il jet Koekelberg, Avenue Seghers"
+        },
+        {
+          "name": "Anne-Charlotte Donatienne PREVOT",
+          "party_type": "person",
+          "role": "fondateur, souscripteur",
+          "address": "Koekelberg, Avenue Seghers",
+          "start_date": "1971-02-10",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame PREVOT Anne-Charlotte Donatienne employée, née a. Mons, le dix février mij ROUE bent septante-et-un, demeurant à 108 Koekelberg, Avenue Seghers"
+        },
+        {
+          "name": "Anne-Charlotte PREVOT",
+          "party_type": "person",
+          "role": "gérante",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "l'assemblée generale a nme Madame Anne-Charlotte PREVGE, „pgenomnêe, en qualité de gérante dea, sociéElle est nommée pour une durée indéterminée."
+        }
+      ]
+    },
+    {
+      "deed_type": "CONSTITUTION. NOMINATION.",
+      "deed_date": "19 juin 1997",
+      "publication_date": "10 juillet 1997",
+      "publication_reference": "N. 970710 — 225",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of SALVATEL SPRL by Notary Juan des arts. Founders: Maria Dolores ZAMORA MORENO and Michel A. Registered office in Braine-l'Alleud. Corporate purpose includes commercial intermediation, material, services, and products. Capital of 750,000 BEF divided into 750 shares.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SALVATEL",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Braine-l'Alleud, Avenue des 4 Bonniers, 13",
+          "postal_code": null,
+          "city": "Braine-l'Alleud",
+          "country": null,
+          "corporate_purpose": "en Belgique ou à l'étranger, pour son compte, pour compte de tiers ou comme intermédiaire commercial, l'achat, la vente, l'importation, l'exportation, la représentation, la distribution, le courtage de tous produits, marchandises, matériels, services et droits de toute nature.",
+          "capital_amount": 750000.0,
+          "capital_currency": "BEF"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Juan des arts",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un acte reçu par le Notaire Juan des arts, L Ae jai be houtnue e 1. cent nonante- 2 ar deuxièmebureau"
+        },
+        {
+          "name": "Maria Dolores ZAMORA MORENO",
+          "party_type": "person",
+          "role": "fondateur",
+          "address": "Braine-l'Alleud, avenue des 4 Bonniers, 13",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Madame Maria Dolores ZAMORA MORENO, épouse de, Msihet AEl'Alleud,avenue des 4 Bonniers, 13. ont constitué entre eux une société privée à responsabilité limitée"
+        },
+        {
+          "name": "Michel A",
+          "party_type": "person",
+          "role": "fondateur",
+          "address": "Braine-l'Alleud, avenue des 4 Bonniers, 13",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "épouse de, Msihet AEl'Alleud,avenue des 4 Bonniers, 13. ont constitué entre eux une société privée à responsabilité limitée"
+        }
+      ]
+    }
+  ]
+}

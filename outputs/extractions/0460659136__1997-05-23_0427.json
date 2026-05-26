@@ -1,0 +1,172 @@
+{
+  "source_file": "1997-05-23_0427.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "7 mai 1997",
+      "publication_date": "23 mai 1997",
+      "publication_reference": "N. 970523 — 427",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the cooperative society SANA, appointment of manager, and capital subscription.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SANA",
+          "legal_form": "SOCIÉTÉ COOPERATIVE A RESPONSABILITE ILLIMITEE ET AIRESOLID",
+          "registered_office_address": "Chaussée de Bruxelles, 343",
+          "postal_code": "6042",
+          "city": "Lodelinsart",
+          "country": null,
+          "corporate_purpose": "toutes opérations généralement quelconques se rapportant à l'exploitation de car-wash, station-service, à l'entretien et la réparation de véhicules, achat et vente de véhicules, le commerce de gros et de détail en alimentation générale, l'achat et la vente de textiles et cuirs. Elle pourra d'une façon générale faire en Belgique et à l'étranger, tous actes de transactions ou opérations commerciales, financières, mobilières ou immobilières, se rapportant directement ou indirectement, en tout ou en partie, à son objet social ou qui seraient de nature à en faciliter ou en développer la réalisation. La société pourra d'une façon générale accomplir toutes les opérations industrielles, commerciales, financières, mobilières ou immobilières se rapportant directement ou indirectement, entièrement ou partiellement la réalisation.",
+          "capital_amount": 50000.0,
+          "capital_currency": "francs belges"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "AKBAR Fahim",
+          "party_type": "person",
+          "role": "gérant unique",
+          "address": "chaussée de Bruxelles, 343 à 6042 Lodelinsart",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Est nommé gérant unique de la société Monsieur AKBAR Fahim et ce pour une durée illimitée. 1° Mr AKBAR Fahim, domicilié chaussée de Bruxelles, 343 à 6042 Lodelinsart, de nationalité belge, né à Mardan :(Pakistan), le 1° février 1968, gérant de société, a ilité limitée 1° Mr AKBAR Fahim : 30 parts sociales"
+        },
+        {
+          "name": "Akbar, Fahim",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Akbar, Fahim,gérant."
+        },
+        {
+          "name": "SAHLI Mourad",
+          "party_type": "person",
+          "role": "coopérateur",
+          "address": "rue de Mons, 11/5 à 6030 Marchienne-au-Pont",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "2° Mr SAHLI Mourad, domicilié rue de Mons, 11/5 à 6030 Marchienne-au-Pont, de nationalité algérienne, né à : . .Barbacha (Algérie), le 4 janvier 1964, étudiant, . 2° Mr SAHLI Mourad : 5 parts sociales"
+        },
+        {
+          "name": "ABIDO David",
+          "party_type": "person",
+          "role": "coopérateur",
+          "address": "rue Tumelaire, 113/3 à 6000 Charleroi",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "3° Mr ABIDO David, domicilié rue Tumelaire, 113/3 à 6000 Charleroi, de nationalité soudanaise, né à Juba(Soudan), le 12 mars 1970, sans profession,icili 3° Mr ABIDO David : 5 parts sociales"
+        },
+        {
+          "name": "AKBAR Fayaz",
+          "party_type": "person",
+          "role": "coopérateur",
+          "address": "chaussée de Bruxelles, 343 à 6042 Lodelinsart",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "4° Mr AKBAR Fayaz, domicilié chaussée de Bruxelles, 343 à-6042 Lodelinsart, de nationalité pakistanaise, né à Mardan (Pakistan), le 20 avril 1974, sans profession, 4° Mr AKBAR Fayaz : 10 parts sociales"
+        },
+        {
+          "name": "J.P. Zinque",
+          "party_type": "person",
+          "role": "receveur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Le receveur ai N. 970523 — 428 J.P. Zinque"
+        }
+      ]
+    },
+    {
+      "deed_type": "MODIFICATION DES STATUTS",
+      "deed_date": "30 avril 1997",
+      "publication_date": "23 mai 1997",
+      "publication_reference": "N. 970523 — 428",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Modification of statutes for FABRINVEST, appointing a substitute manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FABRINVEST",
+          "legal_form": "Société Privée à responsabilité limitée",
+          "registered_office_address": "Parc Industriel, route de Trélon 1",
+          "postal_code": "6460",
+          "city": "Chimay",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Vincent MAILLARD",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": "à Chimay",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "D'un às-verbal dressé par le notaire Vincent MAILLARD, à Chimay, le 30 avril 1997"
+        },
+        {
+          "name": "V. Maillard",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) V. Maillard, notaire."
+        },
+        {
+          "name": "FABRE René",
+          "party_type": "person",
+          "role": "gérant suppléant",
+          "address": "à VIC LE FÉSQ (France) 30260 QUISSAC",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Nomination de Monsieur FABRE René, viticulteur, demeurant à VIC LE FÉSQ (France) 30260 QUISSAC, en tant que gérant suppléant en cas de décès où d'incapacité physique du gérant"
+        }
+      ]
+    },
+    {
+      "deed_type": null,
+      "deed_date": null,
+      "publication_date": "23 mai 1997",
+      "publication_reference": "N. 970523 — 429",
+      "form_reference": null,
+      "language": "fr",
+      "summary": null,
+      "companies": [
+        {
+          "enterprise_number": "422.229.716",
+          "company_name": "DE ROCH-LECOCQ",
+          "legal_form": "Société anonyme",
+          "registered_office_address": "Zoning Industriel, 2e rue",
+          "postal_code": "6040",
+          "city": "Jumet",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    }
+  ]
+}

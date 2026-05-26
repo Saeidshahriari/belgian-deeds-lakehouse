@@ -1,0 +1,235 @@
+{
+  "source_file": "1997-06-24_0526.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Transfer of Registered Office",
+      "deed_date": "9 juni 1997",
+      "publication_date": "24 juni 1997",
+      "publication_reference": "N. 970624 — 523",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "The liquidator, BALOGH, decided to transfer the registered office of BALOGH IDENTIFICATION from Schoolstraat 38, 1640 Sint Genesius Rode to Gentsesteenweg 1154, 1682 Brussel, effective June 9, 1997.",
+      "companies": [
+        {
+          "enterprise_number": "BE 446.954.917",
+          "company_name": "BALOGH IDENTIFICATION",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Gentsesteenweg 1154",
+          "postal_code": "1682",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        },
+        {
+          "enterprise_number": null,
+          "company_name": "BALOGH",
+          "legal_form": "naamloze vennootschap naar fransrecht",
+          "registered_office_address": "189, Rue d'Aubervillers",
+          "postal_code": "75886",
+          "city": "Paris Cédex 18",
+          "country": "Frankrijk",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "De Keer Etienne Balogh",
+          "party_type": "person",
+          "role": "Gedelegeerd bestuurder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "vertegen-woordigd door de Keer Etienne 8alogh, Gedelegeerdbestuurdèr"
+        }
+      ]
+    },
+    {
+      "deed_type": "Cessation, Liquidation and Resignation",
+      "deed_date": "10 avril 1997",
+      "publication_date": "24 juin 1997",
+      "publication_reference": "N. 970624 — 524",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "The extraordinary general assembly of WAH SHUN decided on April 10, 1997, to cease commercial activity, accepted the resignation of Mme TSO Kong Wah and Mr. JIANG Hai Tao as administrators, and appointed Mme TSO Kong Wah as liquidator.",
+      "companies": [
+        {
+          "enterprise_number": "BE 449.780.486",
+          "company_name": "WAH SHUN",
+          "legal_form": "société coopérative à responsabilité illimité et solidaire",
+          "registered_office_address": "rue Stévin, 222",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "TSO Kong Wah",
+          "party_type": "person",
+          "role": "administrateur, liquidateur, gérante",
+          "address": "rue Stévin 222 à 1000 Bruxelles",
+          "start_date": "1997-04-10",
+          "end_date": "1997-04-10",
+          "confidence": null,
+          "raw_context": "ladémission de Mme TSO Kong Wah, rueStévin 222 à 1000 Bruxelles, et Mr. JIANG Hai Tao,rue Franklin 70à 1000 Bruxelles, leur mandat d'ad-ministrateur et ceci prendra l'effetimmédiat. La société procède laliquidation et nomme Mme TSO KongWah,comme liquidateur et prendral'effet immédiat. (Signé) Tso, Kong Wah,gérante."
+        },
+        {
+          "name": "JIANG Hai Tao",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "rue Franklin 70 à 1000 Bruxelles",
+          "start_date": null,
+          "end_date": "1997-04-10",
+          "confidence": null,
+          "raw_context": "ladémission de Mme TSO Kong Wah, rueStévin 222 à 1000 Bruxelles, et Mr. JIANG Hai Tao,rue Franklin 70à 1000 Bruxelles, leur mandat d'ad-ministrateur et ceci prendra l'effetimmédiat."
+        }
+      ]
+    },
+    {
+      "deed_type": "Resignation of Director",
+      "deed_date": "30-5-1997",
+      "publication_date": "24 juin 1997",
+      "publication_reference": "N. 970624 — 525",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "An extract from the general assembly of May 30, 1997, records the resignation of Latifa Toufik as an administrator of JOFRE.",
+      "companies": [
+        {
+          "enterprise_number": "BE 450.459.288",
+          "company_name": "JOFRE",
+          "legal_form": "Sociétée Anonime",
+          "registered_office_address": "115 rue Général Henry",
+          "postal_code": "1040",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Latifa Toufik",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "rue Heyvaert, 124 1070 Bruxelles",
+          "start_date": null,
+          "end_date": "1997-05-30",
+          "confidence": null,
+          "raw_context": "Démission de Latifa Toufik rueHeyvaert, 124 1070 Bruxelles entant qu'administrateur. (Signé) Toufik, Latifa,administrateur."
+        },
+        {
+          "name": "Munten, Norbert",
+          "party_type": "person",
+          "role": "administrateur délégué",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Munten, Norbert, administrateur délégué."
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution and Appointment",
+      "deed_date": "onze juin mil neuf cent nonante-sept",
+      "publication_date": "24 juin 1997",
+      "publication_reference": "N. 970624 — 526",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of JOSEF SPRL by Notary Stanislas MICHEL on June 11, 1997. The company's registered office is Rue Masui 70, 1000 Bruxelles, with a capital of 750,000 francs. The corporate purpose includes general building enterprises, various hospitality services, and trade of food/non-food products. Joaquim Manuel DA SILVA BRAGA is appointed as the sole manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "JOSEF",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Rue Masui 70",
+          "postal_code": "1000",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": "l'exploitation d'entreprises générales de bâtiments; tous snacks-bars, brasseries, hôtels, restaurants, tavernes, débits de boissons, cabarets, discothèques, buffets, vestiaires pour publics, locations de places, salles d'organisation, denquets, de services traiteur; l'achat, la vente, l'import, lexpott, le commerce en gros. demi-gros et au détail de produits alimentaires et nonalimentaires; l'exploitation d'un snack, la “petite restauration”, sandwiches à emporter.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Stanislas MICHEL",
+          "party_type": "notary",
+          "role": "Notaire",
+          "address": "Molenbeek-Saint-Jean",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Par le Notaire Stanislas MICHEL àMolenbesk-Saint-. dens, Anze juin mil neuf cent nonante-en dS Gerber sanne eens à dan ze Zn gjcent nonante-sept."
+        },
+        {
+          "name": "Joaquim Manuel DA SILVA BRAGA",
+          "party_type": "person",
+          "role": "Souscripteur, Gérant unique",
+          "address": "rue de Danemark 34, Saint-Gilles-Bruxelles",
+          "start_date": "1997-06-11",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "trois cent seplante-cing par Monsieur Joaquim Manuel DASILVA BRAGA, domicilié à Saint-Gilles-Bruxelles, rue deDanemark 34 et trois cent septante-cinq par Monsieur ManuelPINTO CAMPELO, domicilié à Anderlecht, rue Grisar 4. ... ont désigné en qualité de gérantunique de la société, et pour toute la durée de celle-ci,Monsieur DA SILVA BRAGA, prénommé, qui a accepté"
+        },
+        {
+          "name": "Manuel PINTO CAMPELO",
+          "party_type": "person",
+          "role": "Souscripteur",
+          "address": "rue Grisar 4, Anderlecht",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "trois cent septante-cinq par Monsieur ManuelPINTO CAMPELO, domicilié à Anderlecht, rue Grisar 4."
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution and Appointment",
+      "deed_date": "onze juin mil neu cent nonante-sept",
+      "publication_date": "24 juin 1997",
+      "publication_reference": "N. 970624 — 527",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of \"NEW BATIM\" SPRL Unipersonnelle by Notary Philippe VERLINDE on June 11, 1997. The company's registered office is rue de Bosnie 2 A, Saint-Gilles-Bruxelles, with a capital of 750,000 francs.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "NEW BATIM",
+          "legal_form": "Société Privée à Responsabilité Limitée Unipersonnelle",
+          "registered_office_address": "rue de Bosnie 2 A",
+          "postal_code": null,
+          "city": "Saint-Gilles-Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe VERLINDE",
+          "party_type": "notary",
+          "role": "notaire",
+          "address": "14, Place du Ptit Sablon, 1000 Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "un acte reçu par te notaire Philippe VERLINDE, 14, Placedu Ptit Sablon, 1000 Bruxelles, Ie on juin mi neu cent ER OE er Et Pare:nante-sept"
+        }
+      ]
+    }
+  ]
+}

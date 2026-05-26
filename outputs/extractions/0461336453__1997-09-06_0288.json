@@ -1,0 +1,128 @@
+{
+  "source_file": "1997-09-06_0288.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING - BENOEMING(EN) - MACHTEN",
+      "deed_date": "26 augustus 1997",
+      "publication_date": "6 september 1997",
+      "publication_reference": "N. 970906 — 288",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid DE COSTER - FREMAUX INVEST (afgekort D.-F. INVEST) met maatschappelijke zetel te Nederokkerzeel, Windmolenweg 5. Het doel omvat de uitbating van kapperszaken, schoonheidsverzorging, esthetiek, biotheek, parfumerie en gerelateerde handelsactiviteiten, alsook onderzoek en dienstverlening in deze sector. Het maatschappelijk kapitaal bedraagt 800.000 frank. Eddy Francis Fremaux en Claire Colette Roberte Thérèse De Coster zijn benoemd tot zaakvoerders voor onbepaalde tijd. Alle verbintenissen aangegaan sinds 15 augustus 1997 in naam en voor rekening van de vennootschap in oprichting worden overgenomen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DE COSTER - FREMAUX INVEST",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Windmolenweg, 5",
+          "postal_code": "1910",
+          "city": "Nederokkerzeel",
+          "country": "België",
+          "corporate_purpose": "De uitbating onder de vorm van franchise en het verwerven van alle handelsfondsen met betrekking tot kapperszaken voor heren en/of dames, schoonheidsverzorging, esthetiek, bio-thetiek, parfumerie alsook van alle handelsaktiviteiten die ermee houden zoals onder meer de verkoop van fantasiejuwelen, reukwaren, lederwaren, geschenkartikelen. De vennootschap heeft eveneens tot doel: het verwezenlijken van alle onderzoek en het verlenen van dienst in deze sektor zoals onder meer het verstrekken van advies, de vorming en het tijdelijk ter beschikking van personeel en technische middelen alsook de ontwikkeling en de conunercialisering van gezegde verrichtingen, produkten en diensten. In algemene zin kan de vennootschap alle akten stellen, transacties of commerciële, financiële, roerende of onroerende verrichtingen doen die rechtstreeks of onrechtstreeks verband houden met haar maatschappelijk doel, of die van aard zijn om er de verwezenlijking van te vergemakkelijken of te ontwikkelen. Zij kan onder gelijk welke vorm belangen nemen in vennootschappen, verenigingen of ondernemingen die een doel hebben dat gelijkaardig of een verwant is aan het hare of dat van aard is om er de verwezenlijking van te vergemakkelijken of te ontwikkelen. De vennootschap mag tevens als bestuurder of vereffenaar van andere vennootschappen of verenigingen optreden.",
+          "capital_amount": 800000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Paul Dauwe",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Oudergem",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "uit zen akk verd vor fors Pau , te Oudergem, op 26 augustus 1997"
+        },
+        {
+          "name": "FREMAUX Eddy Francis",
+          "party_type": "person",
+          "role": "oprichter, zaakvoerder",
+          "address": "Provencewandelwegen, 41C, Evere",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "de Heer FREMAUX Eddy Francis, bediende, en zijn echtgenote, Mevrouw DE COSTER, Claire Colette Roberte Thérèse, bediende, samen wonende te Evere, Provencewandelwegen, 41C een besloten vennootschap met beperkte aansprakelijkheid hebben opgericht... Werden tot deze functie benoemd voor onbepaalde tijd : de Heer FREMAUX Eddy"
+        },
+        {
+          "name": "DE COSTER Claire Colette Roberte Thérèse",
+          "party_type": "person",
+          "role": "oprichter, zaakvoerder",
+          "address": "Provencewandelwegen, 41C, Evere",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "de Heer FREMAUX Eddy Francis, bediende, en zijn echtgenote, Mevrouw DE COSTER, Claire Colette Roberte Thérèse, bediende, samen wonende te Evere, Provencewandelwegen, 41C een besloten vennootschap met beperkte aansprakelijkheid hebben opgericht... Werden tot deze functie benoemd voor onbepaalde tijd : Mevrouw DE COSTER Claire"
+        },
+        {
+          "name": "J. Jordens",
+          "party_type": "company",
+          "role": "mandataris voor inschrijving",
+          "address": "Middaglijnstraat, 32, 1210 Brussel",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Alle machten werden verleend aan de vennootschap met beperkte aansprakelijkheid \"J. Jordens” te (1210 Brussel), Middaglijnstraat, 32, om alle formaliteiten te vervullen voor de inschrijving van de vennootschap in het handelsregister en bij de belasting over de toegevoegde waarde."
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting - Benoemingen",
+      "deed_date": "18/08/1997",
+      "publication_date": "6 september 1997",
+      "publication_reference": "N, 970906 — 289",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de naamloze vennootschap SPECIAL ACTION met maatschappelijke zetel te Woluwe, Woluwedal 60. Het doel omvat het deelnemen in andere ondernemingen, verwerving en vervreemding van roerende waarden, beheer van deelnemingen, en dienstverlening met betrekking tot informatica, organisatie, management en personeelsopleiding. Het maatschappelijk kapitaal bedraagt 2.500.000 FRANK. Oprichters zijn Annik Marie Adrienne Broekaert en Lie Hv Lan.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "SPECIAL ACTION",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Woluwedal 60",
+          "postal_code": "1206",
+          "city": "Woluwe",
+          "country": "België",
+          "corporate_purpose": "het deelnemen, onder gelijk welke vorm, in andere Belgische of buitenlandse ondernemingen, verwerving door aankoop, onderschrijving op welke manier ook, evenals de vervreemding door verkoop, ruil, op welke wijze van roerende waarden, het beheer en de controle en de behartiging en groei van deze deelnemingen, de dienstverlening met betrekking tot informatica, organisatie, management, opleiding personeel, verwerving van deelneming of enig ander belang in een rechtspersoon of de deelname in een onderneming zonder rechtspersoonlijkheid en zo verder in de meest ruime zin. De vennootschap mag alles doen wat rechtstreeks of onrechtstreeks kan bijdragen tot de verwezenlijking van haar doel in de ruimste zin; zij mag alle handels, nijverheid, financiële, roerende of onroerende zaken verrichten die rechtstreeks of onrechtstreeks in verband staan met haar doel.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "René Van den Kieboom",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "ER BLIJKT UIT een alde verkeren voor René Van den Kieboom, notaris met standplaats le Antwerpen op 18/08/1997"
+        },
+        {
+          "name": "BROEKAERT Annik Marie Adrienne",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Biartstraat 33, 2018 Antwerpen",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "door: 1- mevrouw BROEKAERT Annik Marie Adrienne, zelfstandige, geboren le Gent op twintig december negentienhonderd negenenvifig, wonende te 2018 Antwerpen, Biartsirant 33, fekelijk gescheiden; Kompatanten habben Mevrouw Broekaert overeenkomstig ariel 31 tweede lid Vennoolschappenwet. 1 aangewezen."
+        },
+        {
+          "name": "LIE Hv Lan",
+          "party_type": "person",
+          "role": "oprichter",
+          "address": "Fränglei 60, 2900 Brasschaat",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "2- mevrouw LIE Hv Lan, bediende. geboren te Djakarta op achitien april negentienhonderg aenenwiftig, wonende te 2900 Brasschaat, Fränglei 60, gehumd."
+        }
+      ]
+    }
+  ]
+}

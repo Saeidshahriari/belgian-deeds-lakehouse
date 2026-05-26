@@ -1,0 +1,98 @@
+{
+  "source_file": "1997-07-08_0248.pdf",
+  "page_count": 1,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION",
+      "deed_date": "24 juin 1997",
+      "publication_date": "8 juillet 1997",
+      "publication_reference": "N. 970708 — 248",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution d'une société privée à responsabilité limitée, TAXIS EUROPA, par Monsieur Mohamed KARTOUT. Objet: taxis, transport de personnes, location de voitures, atelier de réparation. Siège social: Uccle, Rue de l'Etoile, 84. Capital: 750.000 francs. Gérant: Mohamed KARTOUT. Mandataire spécial: Michel SCHEEN pour l'immatriculation.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TAXIS EUROPA",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "Rue de l'Etoile, 84",
+          "postal_code": "1180",
+          "city": "Uccle",
+          "country": null,
+          "corporate_purpose": "toutes entreprises de taxis, de transport rémunéré de personnes ou de location de voitures; atelier de réparation mécanique et de carrosserie. Elle peut en outre faire toutes les opérations commerciales, industrielles, mobilières, immobilières ou financières se rapportant directement ou indirectement à son objet social ou pouvant en faciliter la réalisation. Elle peut notamment s'intéresser par voie d'apport, de fusion, de souscription, d'intervention financière ou par tout autre mode dans des sociétés ou entreprises ayant, en tout ou en partie, un objet similaire ou connexe au sien ou susceptible d'en favoriser l'extension ou le développement et accepter tous mandats d'administrateur dans de telles sociétés.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Michel CORNELIS",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Anderlecht",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "acte reçu Michel CORNELIS, notaire à Anderlecht, le 24 juin 1997"
+        },
+        {
+          "name": "Mohamed KARTOUT",
+          "party_type": "person",
+          "role": "Associé unique et gérant",
+          "address": "Rue de l'Etoile, 84, 1180 Uccle",
+          "start_date": "1er octobre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Mohamed KARTOUT, associé unique et gérant prénommé, a été nommé gérant non statutaire pour une durée indéterminée, et ce à partir du ler octobre 1997."
+        },
+        {
+          "name": "Michel SCHEEN",
+          "party_type": "person",
+          "role": "Mandataire spécial",
+          "address": "Rue Vanderkindere, 78, Uccle",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Monsieur Michel SCHEEN, domicilié à Uccle, Rue Vanderkindere, 78, à l'effet d'effectuer toutes démarches et formalités qui seraient, : nécessaires pour l'immatriculation et/ou la modification de l'immatriculation de la Société"
+        }
+      ]
+    },
+    {
+      "deed_type": "Assemblée Générale Extraordinaire",
+      "deed_date": "24 Juin 1997",
+      "publication_date": "8 juillet 1997",
+      "publication_reference": "N. 970708 — 249",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Assemblée Générale Extraordinaire. Fin de rémunération de Madame Béatrice DELATTE à partir du 1er Mars 1997. Transfert du siège social à Rue A. Farootin, 1030 Bruxelles.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "LIPUS",
+          "legal_form": "société privée à responsabilité limitée",
+          "registered_office_address": "Rue A. Farootin, 1030 Bruxelles",
+          "postal_code": "1030",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Mae DELATTE, Béatrice",
+          "party_type": "person",
+          "role": "Gérante",
+          "address": null,
+          "start_date": null,
+          "end_date": "01 Mars 1997",
+          "confidence": null,
+          "raw_context": "Mae DELATTE, Béatrice n'est plus rénuméréeà partir du OI. Mars 1997"
+        }
+      ]
+    }
+  ]
+}

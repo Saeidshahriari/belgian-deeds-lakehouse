@@ -1,0 +1,233 @@
+{
+  "source_file": "1997-07-19_0085.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "1997-07-04",
+      "publication_date": "1997-07-19",
+      "publication_reference": "N. 970719 — 84",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid (BVBA) genaamd 'ECQ APPLICATIONS' met zetel te Keerbergen, Mwami Mutaradreef 21. Doel: alle activiteiten in verband met informatica. Kapitaal: 750.000 frank. Zaakvoerder: Guido Debruyn.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ECQ APPLICATIONS",
+          "legal_form": "Besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Mwami Mutaradreef 21",
+          "postal_code": null,
+          "city": "Keerbergen",
+          "country": "Belgium",
+          "corporate_purpose": "alle activiteiten in verband met informatica. Deze formulering omvat eveneens al wat in de sector, waarin de onderneming aktief zal zijn gebruikelijk is of zou worden",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Luc Van Campenhout",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Keerbergen",
+          "start_date": "1997-07-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Notaris Luc Van Campenhout te Keerbergen"
+        },
+        {
+          "name": "Guido Ernest Louisa Ghislain DEBRUYN",
+          "party_type": "person",
+          "role": "Oprichter, Statutair zaakvoerder",
+          "address": "Keerbergen, Mwami Mutaradreef 21",
+          "start_date": "1997-07-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Guido Emest Louisa Ghislain DEBRUYN, bediende, wonende te Keerbergen, Mwemi Mutaradreef 21"
+        },
+        {
+          "name": "Christine Irma Karoline Alphonsine NAESSENS",
+          "party_type": "person",
+          "role": "Oprichter",
+          "address": "Knokke-Heist, Leopoldlaan 126/4",
+          "start_date": "1997-07-04",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "mevrouw Christine Irma Karoline Alphonsine NAESSENS, bediende, wonende te Knokke-Heist, Leopoldlaan 126/4"
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING - BENOEMINGEN",
+      "deed_date": "1997-07-07",
+      "publication_date": "1997-07-19",
+      "publication_reference": "N. 970719 — 85",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid 'PIT LEUVEN' met zetel te Rotselaar, Pastorijstraat 2 E. Kapitaal: 1.800.000 frank. Benoeming van zaakvoerders en een commissaris.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "PIT LEUVEN",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Pastorijstraat 2 E",
+          "postal_code": "3110",
+          "city": "ROTSELAAR",
+          "country": "Belgium",
+          "corporate_purpose": "de coördinatie en uitvoering, renovatie, restauratie en sanering van openbare, industriële en private gebouwen en constructies, de engineering, ontwikkeling en toepassing van speciale technieken op het gebied van versteviging, stabilisatie, bescherming, injectie, bespuiting van allerlei gebouwen en constructies, dit alles in de meest uitgebreide zin. Deze opsomming is louter enuntiatief en niet limitatief. De vennootschap mag alle industriële en financiële, roerende en onroerende verrichtingen doen, die kunnen bijdragen tot het verwezenlijken van het maatschappelijk doel, met inbegrip van: het deelnemen in alle ondernemingen die een gelijkaardig doel nastreven of waarvan het doel in nauw verband met het hare staat, kredieten en leningen aangaan en toestaan, zich voor derden borgstellen door haar goederen in hypotheek of in pand te geven, inclusief de eigen handelszaak.",
+          "capital_amount": 1800000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Marc DE GRAEVE",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Antwerpen",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "notaris Marc DE GRAEVE te Antwerpen"
+        },
+        {
+          "name": "N.V. STRABAG BENELUX S.A.",
+          "party_type": "company",
+          "role": "Vennoot - Oprichter",
+          "address": "2940 Stabroek, Dorpsstraat 4$",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de naamloze vennootschap \"N.V. STRABAG BENELUX S.A”, gevestigd te 2940 Stabroek, Dorpsstraat 4$, ingeschreven in het handelsregister van Antwerpen Onder nummer 238.498"
+        },
+        {
+          "name": "Etienne Antoine Joseph ORENS",
+          "party_type": "person",
+          "role": "Vennoot - Oprichter, Zaakvoerder, Gevolmachtigde",
+          "address": "2950 Kapellen, Oude Bergsebaan 125",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Etienne Antoine Joseph ORENS, bestuurder, wonende te 2950 Kapellen, Oude Bergsebaan 125"
+        },
+        {
+          "name": "Jozef DECOSTER",
+          "party_type": "person",
+          "role": "Vennoot - Oprichter, Zaakvoerder, Gevolmachtigde",
+          "address": "3120 Tremelo, Veldonkstraat 181",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Jozef DECOSTER, projektieider, wonende te 3120 Tremelo, Veldonkstraat 181"
+        },
+        {
+          "name": "Luc LEFLOT",
+          "party_type": "person",
+          "role": "Zaakvoerder",
+          "address": "2980 Zoersel, Felix Wijters-2",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Hel heer Luc LEFLOT, direideur, wonende te 2980 Zoersel, Felix Wijters-2"
+        },
+        {
+          "name": "Patrick DE SCHUTTER",
+          "party_type": "person",
+          "role": "Commissaris",
+          "address": null,
+          "start_date": "1997-07-07",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": "de heer Patrick DE SCHUTTER, bedrijfsrevisor Veregenwoortigends debugvennootschap onder de voem van een coöperztisve vennootschap 'ART ANDERSEN BEDRIJFSREVISOREN', gevestigd te 2600 erpen (de Quevilt Berchem), Vide 2 :lin"
+        },
+        {
+          "name": "ART ANDERSEN BEDRIJFSREVISOREN",
+          "party_type": "company",
+          "role": "Bedrijfsrevisor (vertegenwoordigd door Patrick DE SCHUTTER)",
+          "address": "2600 erpen (de Quevilt Berchem), Vide 2 :lin",
+          "start_date": "1997-07-07",
+          "end_date": "2001",
+          "confidence": null,
+          "raw_context": "debugvennootschap onder de voem van een coöperztisve vennootschap 'ART ANDERSEN BEDRIJFSREVISOREN', gevestigd te 2600 erpen (de Quevilt Berchem), Vide 2 :lin"
+        },
+        {
+          "name": "Paul VAN LOOVEREN",
+          "party_type": "person",
+          "role": "Volmachtdrager Handelsregister en BTW",
+          "address": "2380 Ravels, Grote Baan 199 bus f",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "volmacht gegeven aan de heer Paul VAN LOOVEREN, wonende te 2380 Ravels, Grote Baan 199 bus f"
+        }
+      ]
+    },
+    {
+      "deed_type": "Oprichting",
+      "deed_date": "1997-07-07",
+      "publication_date": "1997-07-19",
+      "publication_reference": "N. 970719 — 86",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de Naamloze Vennootschap 'NV COENEN PLASTICS' met zetel te Boortmeerbeek-Hever, Leuvense-steenweg 54A. Kapitaal: 2.500.000 frank. Doel: klein- en groothandel in kunststoffen, productie en transformatie van kunststoftoepassingen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "NV COENEN PLASTICS",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Leuvense-steenweg 54A",
+          "postal_code": "3191",
+          "city": "Boortmeerbeek-Hever",
+          "country": "Belgium",
+          "corporate_purpose": "klein- en groothandel, in alle mogelijke materialen, in kunststoffen, productie en transformatie van alle mogelijke toepassingen in kunststoffen. Alle commerciële, industriële, financiële, roerende en onroerende verrichtingen in rechtstreeks of onrechtstreeks, geheel of gedeeltelijk verband met het maatschappelijk doel, of van aard de verwezenlijking ervan te vergemakkelijken of uit te breiden.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Paul SCHOTTE",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Hechelen",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "ondergetekende notaris Paul SCHOTTE te Hechelen"
+        },
+        {
+          "name": "Johan Remi Harte COËNEN",
+          "party_type": "person",
+          "role": "Oprichter, Handelaar",
+          "address": "3191 Boortmeerbeek-Hever, Leuvensesteenweg 54A",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer dohan Remi Harte COËNEN,. handelaar, an zíjn schtgenote Mevrouw Karen KEERSMAEKERS, handelaarster, sananwonende te 3191 Boortmoerbeek-Hever, Leuvensesteenweg 544. Gehuwd onder het beheer der wettelijke gemeenschap van goederen."
+        },
+        {
+          "name": "Karen KEERSMAEKERS",
+          "party_type": "person",
+          "role": "Oprichter, Handelaarster",
+          "address": "3191 Boortmeerbeek-Hever, Leuvensesteenweg 54A",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer dohan Remi Harte COËNEN,. handelaar, an zíjn schtgenote Mevrouw Karen KEERSMAEKERS, handelaarster, sananwonende te 3191 Boortmoerbeek-Hever, Leuvensesteenweg 544. Gehuwd onder het beheer der wettelijke gemeenschap van goederen."
+        },
+        {
+          "name": "Marc Eduard Kendrik FEREMANS",
+          "party_type": "person",
+          "role": "Oprichter, Accountant",
+          "address": "Haacht-Wespelaar, Pleinkensstraat 6",
+          "start_date": "1997-07-07",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "De Heer Harc Eduard Kendeik FERDMNS, accountant, wonende ta Haacht-Wespelaar, Pleinkensstraat 6"
+        }
+      ]
+    }
+  ]
+}

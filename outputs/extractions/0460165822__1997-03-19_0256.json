@@ -1,0 +1,203 @@
+{
+  "source_file": "1997-03-19_0256.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "28 februari 1997",
+      "publication_date": "19 maart 1997",
+      "publication_reference": "N. 970319 — 256",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid genaamd \"ACKERMANS EN ACKERMANS\" of \"A& A VEILINGEN EN TAXATIE\", met als doel veiling en taxatie van roerende goederen, handel in meubelen, antiek, kunstvoorwerpen, edele metalen, en het verlenen van diverse bijstand aan ondernemingen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "ACKERMANS EN ACKERMANS",
+          "legal_form": "besloten vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Antwerpsestraat, 24/2",
+          "postal_code": "3290",
+          "city": "Diest",
+          "country": null,
+          "corporate_purpose": "A) Onderneming voor: .1/ de veiling en de taxatie van alle roerende goederen, voertuigen, edele metalen, antiek, uurwerken, enzovoort, zonder dat deze opsomming beperkend is; 2/ het inventariseren en het catalogiseren van geconfiskeerde en ingebrachte goederen; 3/ het adverteren, vervoeren, ontruimen en opslaan van roerende goederen; 4/ intermanagement. B) De groot- en kleinhandel, de invoer- en uitvoerhandel van: 1/ meubelen, meubileringsartikelen en meubileringsstoffen; 2/ siermeubelen en -voorwerpen; 3/ antieke meubelen, antikwiteiten en aanverwante; 41 stijlmeubelen; 5/ kunstvoorwerpen; 6/ schilderijen en gravures; 7/ artisanale voorwerpen; 8/ edele metalen; 9/ alle aanverwante artikelen en dit ailes in de ruimste zin van het woord. C) Het verlenen aan de ondernemingen waarin zij deelneemt en aan derden, al dan niet bezoldigd, van alle bijstand, hetzij technisch, industrieel, commercieel of administratief, hetzij financieel, met inbegrip van de borgstelling, avalgeving, of inpandgeving van onroerende goederen. De vennootschap kan overgaan tot alle handelsverrichtingen, nijverheidsverrichtingen, financiële en onroerende verrichtingen, zo voor eigen rekening als voor rekening van derden, die van aard zijn de verwezenlijking van haar. doel rechtstreeks of onrechtstreeks te bevorderen, dit zowel in België als in het buitenland. Zij zal door alle middelen mogen samenwerken met of deelnemen aan alle ondernemingen of vennootschappen, die een zelfde, gelijkaardig of aanverwant doel nastreven, of die van aard, zijn grondstoffen te verschaffen of de afzet van haar produkten te vergemakkelijken, Zij kan ook functies van bestuurder of vereffenaar van andere vennootschappen uitoefenen.",
+          "capital_amount": 750000.0,
+          "capital_currency": "F"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Marc JANSEN",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Hasselt ter standplaats Kermt",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Uit een akte verleden voor notaris Marc JANSEN te Hasselt ter standplaats Kermt op 28 februari 1997"
+        },
+        {
+          "name": "Josephus Hubertus Gerlachus Maria ACKERMANS",
+          "party_type": "person",
+          "role": "Oprichter",
+          "address": "Sint Gerlach, 21-23",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Josephus Hubertus Gerlachus Maria ACKERMANS, ambtenaar, echtgenoot van Elisabeth Francisca Maria JANSSEN, wonend te 6301 JA Valkenburg aan de Geul (Nederland), Sint Gerlach, 21-23"
+        },
+        {
+          "name": "Josephus ACKERMANS",
+          "party_type": "person",
+          "role": "Niet-statutaire zaakvoerder",
+          "address": "Sint Gerlach 21-23",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Josephus ACKERMANS, wonend te 6301 JA Valkenburg aan de Geul (Nederland), Sint Gerlach 21-23"
+        },
+        {
+          "name": "Matheus ACKERMANS",
+          "party_type": "person",
+          "role": "Niet-statutaire zaakvoerder",
+          "address": "Antwerpsestraat, 24/1",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Matheus ACKERMANS, wonend te 3290 Diest, Antwerpsestraat, 24/1"
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "27 februari 1997",
+      "publication_date": "19 maart 1997",
+      "publication_reference": "N. 970319 — 257",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een naamloze vennootschap genaamd \"DRANKEN NEELS\", gericht op de handel in dranken, zuivelproducten, tabaksproducten, de exploitatie van drankgelegenheden, beheer van patrimonium, managementadvies, en participaties in andere ondernemingen.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DRANKEN NEELS",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Aarschotsesteenweg 4",
+          "postal_code": "3012",
+          "city": "Leuven (Wilsele)",
+          "country": null,
+          "corporate_purpose": "de aan- en verkoop van alle soorten dranken zonder onderscheid, alcoholische en niet-alcoholische, zoals bieren, sappen, waters, likeuren, wijnen, limonades, zonder dat deze lijst beperkend is; de aan- en verkoop van zuivelprodukten, glazen, snoep, geschenkartikelen, kaarsen, party-artikelen, en dit alles in de ruimste zin; de aan- en verkoop van tabaksprodukten; de oprichting, de aankoop en de inrichting van drankgelegenheden en slijterijen in het algemeen, deze te verhuren of zelf uit te baten, rechtstreeks of onrechtstreeks, de vertegenwoordiging of de concessie van alle handelsmerken; het beheer van roerend en onroerend patrimonium; het verstrekken van managementadviezen; het verlenen van administratieve dienstverlening aan andere vennootschappen; het waarnemen van het mandaat van bestuurder in andere vennootschappen; het verwerven, alsmede het te gelde maken van participaties in zowel Belgische als buitenlandse ondernemingen; het verstrekken van financieringen aan andere vennootschappen van de groep; het aankopen, verkopen, huren en verhuren van handelsfondsen; het investeren in en het verhuren van roerende goederen, hierin begrepen machines, wagens, vrachtwagens, computerapparatuur enzovoort. De vennootschap zal mogen overgaan tot inbreng, fusie, deelneming of op een andere wijze, in alle bestaande of op te richten vennootschappen en ondernemingen, die een gelijkaardig of aanverwant doel nastreven. De vennootschap mag alle verrichtingen, activiteiten en rechtshandelingen stellen, die rechtstreeks of onrechtstreeks, zowel voor eigen rekening als voor rekening en op risico van derden. Zij mag haar doel zowel in België als in het buitenland uitoefenen en nastreven, zowel rechtstreeks als onrechtstreeks, zowel voor eigen rekening als voor rekening en op risico van derden.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "F"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Luc TALLOEN",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Uit een akte verleden voor notaris Lue TALLOEN te Leuven op 27 februari 1997"
+        },
+        {
+          "name": "Anna Wilhelmina Willam NEELS",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder, Gedelegeerd-bestuurder",
+          "address": "Kapelstraat 48",
+          "start_date": null,
+          "end_date": "jaarvergadering van 2002",
+          "confidence": null,
+          "raw_context": "Mevrouw Anna Wilhelmina Willam NEELS, bestuurder, echtgenote van de heer Meaphiel Bemard VRANCKX, wonende le 3370 Boutersern, Kapelstraat 48"
+        },
+        {
+          "name": "Alexandre José VRANCKX",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder",
+          "address": "Kapelstraat 48",
+          "start_date": null,
+          "end_date": "jaarvergadering van 2002",
+          "confidence": null,
+          "raw_context": "de heer Alexandre José VRANCKX. bestuurder, wonenda 19 2370 Boutersem, Kapetstraat 48"
+        },
+        {
+          "name": "Maria-Caroline VRANCKX",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder",
+          "address": "Kapelstraat 48",
+          "start_date": null,
+          "end_date": "jaarvergadering van 2002",
+          "confidence": null,
+          "raw_context": "Mejusouw Maria-Carofine VRANCKX, bestuurder, wonende te 3370 Boutersem, Kapelstraat 48"
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "27 februari 1997",
+      "publication_date": "19 maart 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een naamloze vennootschap genaamd \"NEELS DISTRI\", gericht op de handel in dranken, zuivelproducten, tabaksproducten, en de exploitatie van drankgelegenheden.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "NEELS DISTRI",
+          "legal_form": "naamloze vennootschap",
+          "registered_office_address": "Aarschotsesteenweg 4",
+          "postal_code": "3012",
+          "city": "Leuven (Wilsele)",
+          "country": null,
+          "corporate_purpose": "de aan-en verkoop van alle soorten dranken zonder onderscheid, alcoholische an niet-alcohofische, zoals bieren, sappen, waters, keuren, minen, Hmanades, zonder dat deze lijst beperkend is; de aan-en verkoop van zuivelprodukten, glazen, snaep, geschenkartikelen, kaarsen, party-artikelen, en dit alles in de ruimste zin; de aan- en verkoop van labaksprodukten; de oprichting. de aankoop en de insichting van drankgelegenhedan enslijterijen in hel algemeen, deze le verhuren of zelf uit 1e baten, rachtstreoksof anrachisueaks, da verlegenwoordiging al de concessie van alle handels.meiken. De vennootschap zal mogen overgaan tet inbreng, fusie, deelneming of op ‘een andere wijze, in alle bestaande of op le richten vennoatschappen en ondernemingen, die een gelijkaardig of aanverwant doel nastreven. De vennoatschap mag alle verrichtngeo, activiteiten an rechishandelingen stellen die, cachtsreaks af onrachtsweeks, de verwezenlijking van haar doelkunnen bevorderen, -Zij mag haar doel zowel in Belgie als in het buitenland uitoefenen én nastre-ven. zowel echistreeks als onrechtstreeks, zowel voor eigen rekening alsvoor rekening en op risico van derden.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "F"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Luc TALLOEN",
+          "party_type": "notary",
+          "role": "Notaris",
+          "address": "Leuven",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "uit een akte verieden voor notaris Luc TALLOEN te Leuven op 27 februari 1997"
+        },
+        {
+          "name": "Anna Wilhelmina Wiliam NEELS",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder",
+          "address": "Kapelétraat 48",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mevrouw Anna Wilhelmina Wiliam NEELS, bestuurder, echtgenote van de heer Theophiel Bernard VRANCKX, wonende te 3370 Boulersam, Kapelétraat 48"
+        },
+        {
+          "name": "Alexandre José VRANCKK",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder",
+          "address": "Kapelstraat 48",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Alexandre José VRANCKK, bestuurder, wonende te 3370 Boutersem, Kapelstraat 48"
+        },
+        {
+          "name": "Marie-Caroline VRANCKX",
+          "party_type": "person",
+          "role": "Oprichter, Bestuurder",
+          "address": "Kapelstraat 48",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "Mejurtrouw Marie-Caroline VRANCKX, bestuurder, wonende te 3370 Boutersem, Kapelstraat 48"
+        }
+      ]
+    }
+  ]
+}

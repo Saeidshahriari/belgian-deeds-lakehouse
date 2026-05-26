@@ -1,0 +1,233 @@
+{
+  "source_file": "1997-12-09_0102.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Oprichting",
+      "deed_date": null,
+      "publication_date": "9 december 1997",
+      "publication_reference": null,
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van een besloten vennootschap met beperkte aansprakelijkheid. Kapitaalinschrijving door Peter Du Chau en Nadège Cauberghs. Benoeming van statutaire zaakvoerders.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": null,
+          "legal_form": "Besloten Vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": null,
+          "postal_code": null,
+          "city": null,
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": 750000.0,
+          "capital_currency": "frank"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Peter Du Chau",
+          "party_type": "person",
+          "role": "Oprichter, Statutaire zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "de heer Peter Du Chau op honderd negenen-veertig aandelen; Worden als statutaire zaakvoerders aange-steld: de heer Peter Du Chau"
+        },
+        {
+          "name": "Nadège Cauberghs",
+          "party_type": "person",
+          "role": "Oprichter, Statutaire zaakvoerder",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "mevrouw Nadège Cauberghs op één aandeel. Worden als statutaire zaakvoerders aange-steld: ... mevrouwNadège Cauberghs"
+        },
+        {
+          "name": "Jean-Louis Rens",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Get) Jean-Louis Rens,notaris."
+        }
+      ]
+    },
+    {
+      "deed_type": "OPRICHTING",
+      "deed_date": "zes november negentienhonderd tweeënnegentig",
+      "publication_date": "9 december 1997",
+      "publication_reference": "N. 971209 — 102",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Oprichting van de besloten vennootschap met beperkte aansprakelijkheid 'DELA FRESH' met zetel te Anderlecht. Kapitaal van 750.000 frank. Benoeming van Michel-Alfons De Lange als zaakvoerder.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "DELA FRESH",
+          "legal_form": "Besloten Vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Ropsy Chaudronstraat, 24, bus 24",
+          "postal_code": "1070",
+          "city": "Anderlecht",
+          "country": null,
+          "corporate_purpose": "Alle commerciële en financiële activiteiten, en meer in het bijzonder : Alle verhandelingen en verrichtingen die betrekking hebben op de groot- en kleinhandel in alle soorten vleeswaren, vleesprodukten en alle aanverwante produkten. Zij zal dit doel kunnen verwezenlijken voor eigen rekening en voor rekening van derden, op de wijze die haar het meest geschikt lijkt. Om dit doel te bereiken zal zij alle indrustriële, commerciële, financi-ele, roerende en onroerende handelingen mogen stellen, onder meer kopen, verkopen, huren, verhuren, bouwen of ruilen van alle onroerende goederen, toetreden tot vennootschappen met een doel gelijk of verwant met het bare, samensmelten met dergelijke vennootschappen, in één woord, alles doen wat van aard is om haar doel te bereieken of de verwezenlijking ervan te bevorderen of te vergemakkelijken. De vennootschap mag zowel in België als im het buitenland alle commerciële, industri.ele, financiële, roerende of onroerende handelingen .verrichten die rechtstreeks of onrechtstreeks in verband staan met haar doel.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANK"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Thierry Van Sinay",
+          "party_type": "notary",
+          "role": "notaris",
+          "address": "Ninove-Meerbeke",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "akte verleden voor notaris Thierry VanSinay, te Ninove-Meerbeke"
+        },
+        {
+          "name": "Michel-Alfons DE LANGE",
+          "party_type": "person",
+          "role": "Oprichter, Zaakvoerder",
+          "address": "Are-straat, 66",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "oprichter, de heer Michel-Alfons DE LANGE, gepensioneerde,geboren te Woubrechtegem, op zevenentwintig maartnegentienhonderd zesentwintig, echtgenoot van me-vrouw Hilda Schollaert, wonende te 9550-Herzele, Are-straat, 66, en gestort ten belope van één derde. ... werd de heer Michel-Alfons De Lange,voornoemd, tot deze functie benoemd."
+        }
+      ]
+    },
+    {
+      "deed_type": "Transfert du siège social",
+      "deed_date": "23 mai 1997",
+      "publication_date": "9 décembre 1997",
+      "publication_reference": "N. 971209 — 103",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Transfert du siège social de la société 'G Concept' de Chaussée de la Hulpe 365 à 1170 Bruxelles vers Rue du Duc 13 à 1150 Bruxelles, à partir du 1er juillet 1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "G Concept",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "Rue du Duc 13",
+          "postal_code": "1150",
+          "city": "Bruxelles",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Gillot, Pierre",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Gillot, Pierre,gérant."
+        }
+      ]
+    },
+    {
+      "deed_type": "POUVOIRS",
+      "deed_date": "27 octobre 1997",
+      "publication_date": "9 décembre 1997",
+      "publication_reference": "N. 971209 — 104",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Nomination de Mr. Roy Kemp comme administrateur de Commercial Union Belgium, avec effet au 27 octobre 1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Commercial Union Belgium",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "Avenue Herrmann-Debroux 54",
+          "postal_code": "1160",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Roy Kemp",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": "31 The Drive - ORPINGTON KENT BR6SAR",
+          "start_date": "27 octobre 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "nomme Mr. Roy Kemp, demeurant31 The Drive - ORPINGTON KENT BR6SAR - GREAT-BRITAIN, administrateur.Cette nomination prend effet le 27 octobre1997"
+        },
+        {
+          "name": "Brian Grainger",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Brian Grainger,administrateur."
+        },
+        {
+          "name": "Guy Vandenberghe",
+          "party_type": "person",
+          "role": "administrateur",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "(Signé) Guy Vandenberghe,administrateur."
+        }
+      ]
+    },
+    {
+      "deed_type": "VOLMACHTEN",
+      "deed_date": "27 october 1997",
+      "publication_date": "9 december 1997",
+      "publication_reference": "N. 971209 — 105",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "Benoeming van Dhr Roy Kemp als bestuurder van Commercial Union Belgium, met ingang van 27 oktober 1997.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Commercial Union Belgium",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Herrmann-Debrouxtaan 54",
+          "postal_code": "1160",
+          "city": "BRUSSEL",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Roy Kemp",
+          "party_type": "person",
+          "role": "bestuurder",
+          "address": "31 The Drive - ORPINGTON KENT BR69AR",
+          "start_date": "27 october 1997",
+          "end_date": null,
+          "confidence": null,
+          "raw_context": "benoemt op basis van artikel 14van de statuten Dhr Roy Kemp, wonende31 The Drive - ORPINGTON KENT BR69AR - GREAT-BRITAIN, als bestuurder."
+        }
+      ]
+    }
+  ]
+}

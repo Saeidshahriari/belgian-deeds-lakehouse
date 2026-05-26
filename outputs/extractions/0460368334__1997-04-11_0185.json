@@ -1,0 +1,207 @@
+{
+  "source_file": "1997-04-11_0185.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Constitution",
+      "deed_date": "1997-03-25",
+      "publication_date": "1997-04-11",
+      "publication_reference": "N. 970411 — 185",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of the public limited company AMIMMO with an unlimited duration, capital of 2,500,000 francs. Corporate purpose includes real estate promotion, sale, purchase, management, and brokerage. The first financial year ends on December 31, 1997. Ordinary general meetings are held annually on May 31. Abdelhamid AMIAI and Karim AMIAI were appointed as administrators for six years, with Karim AMIAI also designated as managing director.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "AMIMMO",
+          "legal_form": "Société Anonyme",
+          "registered_office_address": "chaussée de Waterloo 97",
+          "postal_code": null,
+          "city": "Saint-Gilles-Bruxelles",
+          "country": null,
+          "corporate_purpose": "toutes opérations se rapportant à la promotion, la vente er l'achat d'immeubles, la gestion immobilière ou de biens, la lacation pour son compte ou pour compte d'autrui, toute opération de courtage relative à cés opérations.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Philippe VERLINDE",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "14, Place du Petit Sablon, 1000 Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "un acte reçu por le notaire Philippe VERLINDE, 14, Place du Petit Sablon, 1000 Bruxelles"
+        },
+        {
+          "name": "Karim AMIAI",
+          "party_type": "person",
+          "role": "founder",
+          "address": "Anderlecht, rue Démosthène 24",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Karim AMIAI, domicilié à Anderlecht. rue Démosthène 24"
+        },
+        {
+          "name": "Abdelhamid AMIAT",
+          "party_type": "person",
+          "role": "founder",
+          "address": "lette, rue de la Loyauté 8",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Abdelhamid _AMIAT.omicilié à lette, rue de la Loyauté 8"
+        },
+        {
+          "name": "Abdelhamid AMIAI",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": "1997-03-25",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Abdelhamid AMIAI et Monsieur Karim AMIAI, tous deux prénommés, et qui ont accepté."
+        },
+        {
+          "name": "Karim AMIAI",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": "1997-03-25",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Abdelhamid AMIAI et Monsieur Karim AMIAI, tous deux prénommés, et qui ont accepté."
+        },
+        {
+          "name": "Karim AMIAI",
+          "party_type": "person",
+          "role": "administrateur-délégué",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "ont désigné en qualité d’administrateur-délégué Monsieur Karim AMIAI, prnommé, qui a accepté."
+        }
+      ]
+    },
+    {
+      "deed_type": "Renewal of administrator's mandate",
+      "deed_date": null,
+      "publication_date": "1997-04-11",
+      "publication_reference": "N. 970411 — 186",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Renewal of an administrator's mandate for EURO-EXPANSION SCRL. Document deposited on April 1, 1997.",
+      "companies": [
+        {
+          "enterprise_number": "439.940.728",
+          "company_name": "EURO-EXPANSION",
+          "legal_form": "Société Coopérative à Responsabilité Limitée",
+          "registered_office_address": "Rue de Verrewinkel 63",
+          "postal_code": "1180",
+          "city": "BRUXELLES",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": []
+    },
+    {
+      "deed_type": "Resignation and appointment of directors",
+      "deed_date": "1997-03-12",
+      "publication_date": "1997-04-11",
+      "publication_reference": "N. 970411 — 187",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "At the general meeting of March 12, 1997, the resignation of the Board of Directors was accepted. Ludaviea Vervliet and Chris Faes were reappointed as directors, and Ludo Faes as managing director, effective from March 8, 1995, until the general meeting for the financial year 2000.",
+      "companies": [
+        {
+          "enterprise_number": "26707",
+          "company_name": "DINITROL CARROSSERIE LUDO FAES",
+          "legal_form": "Naamloze Vennootschap",
+          "registered_office_address": "Nijverheidsstraat 10",
+          "postal_code": "2530",
+          "city": "Boechout",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Ludaviea Vervliet",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1995-03-08",
+          "end_date": "2000 (financial year)",
+          "confidence": 1.0,
+          "raw_context": "Worden herbenoemd els bestuurder: mevrouw Ludaviea Vervliet"
+        },
+        {
+          "name": "Chris Faes",
+          "party_type": "person",
+          "role": "director",
+          "address": null,
+          "start_date": "1995-03-08",
+          "end_date": "2000 (financial year)",
+          "confidence": 1.0,
+          "raw_context": "en de heer Chris Faes, de heer Ludo Faes als gedelegeerd-Bestuurter, vanaf 8 maart 1995 tot en met de algemene vergadering over boekjaar 2000."
+        },
+        {
+          "name": "Ludo Faes",
+          "party_type": "person",
+          "role": "gedelegeerd bestuurder",
+          "address": null,
+          "start_date": "1995-03-08",
+          "end_date": "2000 (financial year)",
+          "confidence": 1.0,
+          "raw_context": "de heer Ludo Faes als gedelegeerd-Bestuurter, vanaf 8 maart 1995 tot en met de algemene vergadering over boekjaar 2000."
+        }
+      ]
+    },
+    {
+      "deed_type": "Registered office transfer",
+      "deed_date": "1997-04-01",
+      "publication_date": "1997-04-11",
+      "publication_reference": "N. 970411 — 188",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Transfer of the registered office of AZ-INTERNATIONAL SPRL from Koekelberg to Molenbeek-Saint-Jean, effective April 1, 1997.",
+      "companies": [
+        {
+          "enterprise_number": "458.691.521",
+          "company_name": "AZ-INTERNATIONAL",
+          "legal_form": "SPRL",
+          "registered_office_address": "rue du Jardinier, 58",
+          "postal_code": "1080",
+          "city": "Molenbeek-Saint-Jean",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "A. Azza",
+          "party_type": "person",
+          "role": "gérant",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Signé) A. Azza, gérant."
+        }
+      ]
+    }
+  ]
+}

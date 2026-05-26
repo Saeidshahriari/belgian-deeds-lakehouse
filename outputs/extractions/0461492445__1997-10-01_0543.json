@@ -1,0 +1,108 @@
+{
+  "source_file": "1997-10-01_0543.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "CONSTITUTION - NOMINATION - POUVOIRS",
+      "deed_date": "1997-09-18",
+      "publication_date": "1997-10-01",
+      "publication_reference": "N. 971001 — 543",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company named 'Ingé-Finance'. Its registered office is at rue Guillaume Kennis, 28, 1030 Schaerbeek (Brussels). The company's object includes financial activities (non-banking), investment, and real estate management. The capital is fixed at 750,000 francs, represented by 100 shares. Pierre Van Nieuwenhoven subscribed 90 shares and Roland Van Nieuwenhoven subscribed 10 shares. Mr. Pierre Van Nieuwenhoven is appointed as statutory manager for an unlimited duration.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "Ingé-Finance",
+          "legal_form": "Société privée à responsabilité limitée",
+          "registered_office_address": "rue Guillaume Kennis, 28",
+          "postal_code": "1030",
+          "city": "SCHAERBEEK (Bruxelles)",
+          "country": null,
+          "corporate_purpose": "tant pour son propre compte que pour le compte de tiers à titre fiduciaire, comme intermédiaire ou en qualité de mandataire, toutes opérations se rapportant aux activités d'établissement financier non-bancaire, notamment toutes opérations de financement, de crédit, d'escompte, de placement, d'investissement, de prise de participation, de détention, de conservation, de dépôt, d'administration, de gestion, le conseil en gestion, pour son propre compte, la constitution d’un patrimoine mobilier et immobilier ainsi que sa gestion, l'achat, la vente, l’échange, la commission, le courtage, la prise à bail ou en emphythéose, la location, la construction, l'exploitation, la mise en valeur, la division, la gérance de tous biens immobiliers de quelque nature qu'ils soient.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Jean-Philippe LAGAE",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Notaire Jean-Philippe LAGAE, de résidence à Bruxelles"
+        },
+        {
+          "name": "Pierre Guy Paul VANNIEUWENHOVEN",
+          "party_type": "person",
+          "role": "Founder, Shareholder, Manager",
+          "address": "rue Guillaume Kennis 28, Schaerbeek",
+          "start_date": "1997-09-18",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Pierre Guy Paul VANNIEUWENHOVEN, ingénieur civil, demeurant. à Schaerbeek, rue Guillaume Kennis 28. : nonante (90) parts. Monsieur Pierre Van Nieuwenhoven, prénommé, est. désigné en qualité de gérant statutaire pour une durée illimitée."
+        },
+        {
+          "name": "Roland Adolphe Marie VNIEUWENHOVEN",
+          "party_type": "person",
+          "role": "Founder, Shareholder",
+          "address": "rue du Bois de Bassin 9, Havelange",
+          "start_date": "1997-09-18",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Monsieur Roland Adolphe Marie VNIEUWENHOVEN, pensionné, demeurant à Havelange, rue du Bois de Bassin 9. : se dix (10) parts."
+        }
+      ]
+    },
+    {
+      "deed_type": "ONTBINDING — INVEREFFENINGSTELLING STATUTENWIJZIGING",
+      "deed_date": "1997-09-11",
+      "publication_date": "1997-10-01",
+      "publication_reference": "N. 971001 — 544",
+      "form_reference": null,
+      "language": "nl",
+      "summary": "An extraordinary general meeting of shareholders of the cooperative company 'FAUT LE FER - Strijkwinkel - Magasin de Repassage' decided to dissolve the company and put it into liquidation. Ms. DE CUYPER Clementine, residing in Schaerbeek, Brichautslaan 100, is appointed as liquidator with extensive powers as per articles 181 and following of the coordinated laws on commercial companies.",
+      "companies": [
+        {
+          "enterprise_number": "454.306.626",
+          "company_name": "FAUT LE FER - Strijkwinkel - Magasin de Repassage",
+          "legal_form": "Coöperatieve vennootschap met beperkte aansprakelijkheid",
+          "registered_office_address": "Antwerpsesteenweg 295",
+          "postal_code": "1000",
+          "city": "Brussel",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Ludovicv, BENEDEN",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Schaarbeek",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Meester Ludovicv, BENEDEN, notaris te Schaarbeek"
+        },
+        {
+          "name": "DE CUYPER Clementine",
+          "party_type": "person",
+          "role": "Liquidator",
+          "address": "Brichautslaan 100, Schaarbeek",
+          "start_date": "1997-09-11",
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Zij benoemt Als vereffenaar : mevrouw DE, CUYPER cleuuine te Schaarbeek, Brichautslaan 100."
+        }
+      ]
+    }
+  ]
+}

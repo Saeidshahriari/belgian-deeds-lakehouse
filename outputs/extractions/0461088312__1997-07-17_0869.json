@@ -1,0 +1,273 @@
+{
+  "source_file": "1997-07-17_0869.pdf",
+  "page_count": 3,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Resignation and Nomination of Administrators",
+      "deed_date": null,
+      "publication_date": "17 juillet 1997",
+      "publication_reference": "N. 970717 — 469",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Resignation of Madame Marcelle DEJARDIN as sole manager. Appointment of Madame Marcelle DEJARDIN, Monsieur Olivier ADNET, and Mademoiselle Isabelle ADNET as administrators. Madame Marcelle DEJARDIN is also appointed President and Managing Director.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FLEURUS — DUQUE",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "rue du bien Faire, 50",
+          "postal_code": "1170",
+          "city": "WATERMAEL-BOITSFORT",
+          "country": null,
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Madame DEJARDIN Marcelle",
+          "party_type": "person",
+          "role": "Resigning Sole Manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame DEJARDIN Marcelle",
+          "party_type": "person",
+          "role": "Administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "after the annual general meeting of two thousand three",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur ADNET Olivier",
+          "party_type": "person",
+          "role": "Administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "after the annual general meeting of two thousand three",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Mademoiselle ADNET Isabelle",
+          "party_type": "person",
+          "role": "Administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "after the annual general meeting of two thousand three",
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame DEJARDIN Marcelle",
+          "party_type": "person",
+          "role": "President",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame DEJARDIN Marcelle",
+          "party_type": "person",
+          "role": "Managing Director",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Paul Dauwe",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "27 juin 1997",
+      "publication_date": "17 juillet 1997",
+      "publication_reference": "N. 970717 — 469",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'FLEURUS + DUQUE' by Monsieur Jean-François FLEURUS and Monsieur Alain Léon Jean Marie DUQUE. The capital is 750,000 francs, fully liberated. The corporate purpose includes painting, decoration, renovation, real estate brokerage, and commercial representation. Monsieur Jean-François FLEURUS and Monsieur Alain DUQUE are appointed as managers.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FLEURUS + DUQUE",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "1170 Watermael-Boitsfort, rue du Bien Faire, 50",
+          "postal_code": "1170",
+          "city": "Watermael-Boitsfort",
+          "country": null,
+          "corporate_purpose": "la peinture et la décoration sous toutes ses formes, le revêtement de sol et de murs, la rénovation de bâtiments et de façades, en ce compris le sablage et le rejointoyage, la peinture industrielle et routière, le lettrage, la conception et la réalisation de tous panneaux publicitaires ou routiers; l'agence et l'entretien de tous immeubles, le courtage immobilier dans le sens le plus étendu du terme, toutes missions commerciales, comme la représentation de toute entreprise commerciale, sa liquidation ou sa défense, cette énumération n'étant pas limitative. La société pourra exercer les fonctions d'administrateur ou de liquidateur dans d'autres sociétés. La société peut d'une façon générale, accomplir toutes opérations commerciales, industrielles, financières, mobilières ou immobilières se rapportant directement ou indirectement à son objet social ou qui seraient de nature à en faciliter directement ou indirectement, entièrement ou partiellement, la réalisation. Elle peut s'intéresser par voie d'apport, de fusion, de souscription ou de toute autre manière dans toutes affaires, entreprises, associations ou sociétés ayant un objet identique, analogue ou connexe au sien ou qui sont de nature à favoriser le développement de son entreprise, à lui procurer des matières premières ou à faciliter l'écoulement de ses produits.",
+          "capital_amount": 750000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Charles Tytgat",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Spy (Commune de Jemeppe-sur-Sambre)",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Jean-François FLEURUS",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "1170 Watermael-Boitsfort, rue du Bien Faire, 50",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame Chantal DUQUE",
+          "party_type": "person",
+          "role": "Spouse of Founder",
+          "address": "1170 Watermael-Boitsfort, rue du Bien Faire, 50",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Alain Léon Jean Marie DUQUE",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "1050 Ixelles, chaussée de Vleurgat, 95",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame Isabelle DEBOCK",
+          "party_type": "person",
+          "role": "Spouse of Founder",
+          "address": "1050 Ixelles, chaussée de Vleurgat, 95",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur de GHELLINCK",
+          "party_type": "person",
+          "role": "Réviseur d'Entreprises",
+          "address": "1030 Bruxelles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Jean-François FLEURUS",
+          "party_type": "person",
+          "role": "Manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Alain DUQUE",
+          "party_type": "person",
+          "role": "Manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "04 juillet 1997",
+      "publication_date": "17 juillet 1997",
+      "publication_reference": "N. 970717 — 870",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a private limited liability company 'FERCO' by Monsieur Ridha Sady OUBRAHAM. The capital is 750,000 francs, represented by 750 shares. The corporate purpose includes commerce, import/export, distribution, and sale of food and beverages, as well as activities related to consumption salons, snack-bars, bakeries, and pastry shops. Monsieur Ridha OUBRAHAM is appointed as statutory manager.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "FERCO",
+          "legal_form": "société privée à responsabilité limitée unipersonnelle",
+          "registered_office_address": "avenue Maréchal Joffre, 33/9",
+          "postal_code": "1190",
+          "city": "Forest (Bruxelles)",
+          "country": null,
+          "corporate_purpose": "toutes opérations concernant le commerce, l'importation et l'exportation, la distribution, ainsi que la vente, en gros et au détail, selon tous modes de vente, de toutes denrées alimentaires et boissons - locales ou en provenance de tous pays -, tels que tous produits frais, produits surgelés, produits de la ferme, fruits et légumes même exotiques, féculents et tous produits de viande ou à base de viande, de produits lactés, le café et le thé ainsi que tous produits à base de café ou de thé et toutes boissons froides, ainsi que tous produits de pâtisserie et de boulangerie. Toutes activités de natures civile, commerciale, financière et administrative, en relation directe ou indirecte avec l'exploitation de salons de consommation, snack-bars et/ou boulangeries-pâtisseries, ainsi que tous types d'opérations se rapportant à ce type d'activités, notamment la distribution de limonades ou boissons soft, de biscuits, pâtisseries et friandises diverses. Toutes activités relatives à la fourniture de tous produits et services de quelque nature que ce soit, en rapport direct ou indirect avec lesdites activités qui précèdent. Cette énumération est énonciative et non limitative. Elle peut également s'intéresser, par voie d'apport, cession, fusion, participation ou autres voies, dans toutes affaires, entreprises, ou sociétés existantes ou à constituer ayant un objet analogue, similaire ou connexe au sien, ou dont l'objet est de nature à favoriser le développement de son entreprise. Elle peut, tant en Belgique qu'à l'étranger, faire toutes opérations commerciales, industrielles, immobilières, mobilières, ou financières, se rattachant directement ou indirectement à son objet social.",
+          "capital_amount": 750000.0,
+          "capital_currency": "FRANCS"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Paul BELLEMONT",
+          "party_type": "notary",
+          "role": "Notary",
+          "address": "Saint-Gilles",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Ridha Sady OUBRAHAM",
+          "party_type": "person",
+          "role": "Founder",
+          "address": "Forest (1190 Bruxelles), Avenue Maréchal Joffre, 33/9",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Madame Sylvie TRAZOQUI",
+          "party_type": "person",
+          "role": "Spouse of Founder",
+          "address": "Forest (1190 Bruxelles), Avenue Maréchal Joffre, 33/9",
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        },
+        {
+          "name": "Monsieur Ridha OUBRAHAM",
+          "party_type": "person",
+          "role": "Statutory Manager",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": null,
+          "raw_context": null
+        }
+      ]
+    }
+  ]
+}

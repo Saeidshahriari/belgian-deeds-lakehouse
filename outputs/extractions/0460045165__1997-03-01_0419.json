@@ -1,0 +1,240 @@
+{
+  "source_file": "1997-03-01_0419.pdf",
+  "page_count": 2,
+  "ocr_used": true,
+  "source_type": "scan",
+  "deeds": [
+    {
+      "deed_type": "Appointment of Administrators and Managing Director",
+      "deed_date": null,
+      "publication_date": "1 mars 1997",
+      "publication_reference": "N. 970301 — 419",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Appointment of Tariq Bastir, Flore Katikati, and Ludovic Peeters as administrators for six years, and Ludovic Peeters as managing director. Mandates are gratuitous unless decided otherwise by the general assembly.",
+      "companies": [],
+      "party_roles": [
+        {
+          "name": "Charles De Ruydts",
+          "party_type": "notary",
+          "role": "notary (signing extract)",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Signé) Charles De Ruydts, notaire."
+        },
+        {
+          "name": "Tariq Bastir",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "monsieur Tariq Bastir, prénommé."
+        },
+        {
+          "name": "Flore Katikati",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "mademoiselle Flore Katikati, prénommée"
+        },
+        {
+          "name": "Ludovic Peeters",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "monsieur Ludovic Peeters, prénommé"
+        },
+        {
+          "name": "Ludovic Peeters",
+          "party_type": "person",
+          "role": "managing director",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Est nommé comme administrateur-délégué Monsieur Ludovic Peeters, prénommé"
+        }
+      ]
+    },
+    {
+      "deed_type": "Constitution",
+      "deed_date": "vingt-huit janvier mil neuf cent nonante sept",
+      "publication_date": "1 mars 1997",
+      "publication_reference": "N. 970301 — 419",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Constitution of a public limited company (SA) named TENNIS CLUB DU BOIS DE LA CAMBRE, with its registered office in Ixelles. Details on capital, shares, corporate purpose, administration, and appointment of administrators (Eric Kreps, Martine Renard, Christiane Struelens), President (Eric Kreps), and Managing Director (Eric Kreps).",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "TENNIS CLUB DU BOIS DE LA CAMBRE",
+          "legal_form": "SOCIETE ANONYME",
+          "registered_office_address": "Square du Vieux Tilleul numéro 11",
+          "postal_code": "1050",
+          "city": "IXELLES",
+          "country": "BELGIQUE",
+          "corporate_purpose": "toutes opérations généralement quelconques, industrielles, commerciales, financières, mobilières ou immobilières et entre autre la construction et l'exploitation de biens immeubles tels que complexes sportifs privés, notamment de squash, tennis couverts ou en plein air, ainsi que toutes activités connexe à l'étude sportive en général, la création de clubs, l'exploitation de bars, restaurants, club-house.",
+          "capital_amount": 2500000.0,
+          "capital_currency": "francs"
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Gaëtan de Streel",
+          "party_type": "notary",
+          "role": "notary",
+          "address": "Beauvechain",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "Maître Gaëtan de Streel, notaire à résidence de Beauvechain"
+        },
+        {
+          "name": "Gaétan De Streel",
+          "party_type": "notary",
+          "role": "notary (signing extract)",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Signé) Gaétan De Streel, notaire."
+        },
+        {
+          "name": "ERIC Jacques Joceleyu Albert KREPS",
+          "party_type": "person",
+          "role": "founder/shareholder",
+          "address": "Avenue devier, 162, Rhode-Sainte-Genèse",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Monsieur ERIC Jacques Joceleyu Albert KREPS, gérant de société, né à Uccle le vingt neuf avril mil neuf cent cinquante, domicilié à Rhode-Sainte-Genèse, Avenue devier, 162"
+        },
+        {
+          "name": "MARTINE Scarlene Suzanne RENARD",
+          "party_type": "person",
+          "role": "founder/shareholder",
+          "address": "Rhode-Sainte-Genèse, Avenue devier, 162",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Dame MARTINE Scarlene Suzanne RENARD, aidante, née à Gand le premier novembre mil neuf cent quarante et un, épouse du comparant sub 1 et domiciliée au même lieu"
+        },
+        {
+          "name": "Christiane Frangine Louise STRUELENS",
+          "party_type": "person",
+          "role": "founder/shareholder",
+          "address": "Avenue Ptolémée 14, Uccle",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Dame Christiane Frangine Louise STRUELENS, sans profession, demeurant à Uccle, Avenue Ptolémée 14"
+        },
+        {
+          "name": "Eric Kreps",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": 0.9,
+          "raw_context": "Monsieur Eric Kreps"
+        },
+        {
+          "name": "Madame Renard",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": 0.9,
+          "raw_context": "Madame Renard"
+        },
+        {
+          "name": "Dame Christiane Struelens",
+          "party_type": "person",
+          "role": "administrator",
+          "address": null,
+          "start_date": null,
+          "end_date": "2002",
+          "confidence": 0.9,
+          "raw_context": "Dame Christiane Struelens"
+        },
+        {
+          "name": "Eric Kreps",
+          "party_type": "person",
+          "role": "President of the Board of Directors",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Président : Monsieur Eric Kreps qui accepte cette fonction."
+        },
+        {
+          "name": "Eric Kreps",
+          "party_type": "person",
+          "role": "Managing Director",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 0.9,
+          "raw_context": "Administrateur délégué : Monsieur Eric Kreps précité, qui accepte cette fonction."
+        }
+      ]
+    },
+    {
+      "deed_type": "Ratification of Appointments",
+      "deed_date": "18 février 1997",
+      "publication_date": "1 mars 1997",
+      "publication_reference": "N. 970301 — 420",
+      "form_reference": null,
+      "language": "fr",
+      "summary": "Extraordinary general meeting of the private limited company AQUATRE to ratify appointments made during the company's constitution act, specifically the appointment of Mr. Alain PAQUES as manager for an indefinite period.",
+      "companies": [
+        {
+          "enterprise_number": null,
+          "company_name": "A QUATRE",
+          "legal_form": "Société Privée à Responsabilité Limitée",
+          "registered_office_address": "Drève Olympique, 31",
+          "postal_code": "1070",
+          "city": "BRUXELLES (Anderlecht)",
+          "country": "BELGIQUE",
+          "corporate_purpose": null,
+          "capital_amount": null,
+          "capital_currency": null
+        }
+      ],
+      "party_roles": [
+        {
+          "name": "Edouard Jaemin",
+          "party_type": "notary",
+          "role": "notary (signing extract)",
+          "address": null,
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "(Signé) Edouard Jaemin, notaire,"
+        },
+        {
+          "name": "Alain PAQUES",
+          "party_type": "person",
+          "role": "manager",
+          "address": "avenue de Fontainebleau, 30/4, LASNE",
+          "start_date": null,
+          "end_date": null,
+          "confidence": 1.0,
+          "raw_context": "il a été nommé gérant, pour une durée indéterminée, Mr Alain PAQUES, demeurant à LASNE, avenue de Fontainebleau, 30/4"
+        }
+      ]
+    }
+  ]
+}
