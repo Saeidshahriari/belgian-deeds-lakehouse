@@ -1,7 +1,7 @@
 [project]
-name = "sagora-deeds"
+name = "belgian-deed-pipeline"
 version = "0.1.0"
-description = "Belgian incorporation deed extraction pipeline for Sagora Analytics challenge"
+description = "Belgian incorporation deed extraction pipeline on Belgian Gazette (Moniteur Belge) data"
 requires-python = ">=3.10"
 authors = [{ name = "Saeid Shahriari" }]
 
@@ -11,3 +11,8 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.pytest.ini_options]
+# src holds the package, the repo root holds the agent package.
+pythonpath = ["src", "."]
+testpaths = ["tests"]

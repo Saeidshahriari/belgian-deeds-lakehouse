@@ -1,4 +1,4 @@
-# Sagora Deeds
+# Belgian Deed Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.125-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -13,6 +13,7 @@
 
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square)
 ![Security](https://img.shields.io/badge/input_scanning-PDF_+_prompt_injection-critical?style=flat-square)
+![AI Agent](https://img.shields.io/badge/AI_agent-MCP_read--only-8E75B2?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 > A **risk-first** data-engineering pipeline for Belgian Gazette incorporation
@@ -25,46 +26,23 @@ This is not a credit-risk model. It is the structured company / deed / party-rol
 data foundation a later agent workflow could use for credit-risk analysis,
 decision-maker lookup, and peer comparison.
 
-> Built as a hands-on data-engineering challenge for Sagora Analytics.
 
 ---
 
 ## Architecture
 
-```
-                         ┌──────────────────────────────┐
-                         │   scripts/run_batch_pdfs.py   │
-                         │      orchestrates the run      │
-                         └───────────────┬───────────────┘
-                                         │
-                                         ▼
-                          ┌────────────────────────────┐
-                          │   SECURITY GATE (security.py)│
-                          │  1. PDF structure scan        │
-                          │     (JavaScript, Launch,      │
-                          │      embedded files)          │
-                          │  2. prompt-injection scan     │
-                          │     on extracted text         │
-                          └───────────────┬──────────────┘
-                                          │ detect & report, never crash
-                                          ▼
-      had text layer? ──── no ──►  OCRmyPDF + Tesseract  ──┐
-            │ yes                   (adds a text layer)     │
-            ▼                                               ▼
-       PyMuPDF text extraction  ◄──────────────────────────┘
-                                          │
-                                          ▼
-                          Gemini 2.5 Flash (JSON schema, temp 0)
-                                          │
-                                          ▼
-                     Pydantic validation  →  outputs/extractions/*.json
-                                          │
-                                          ▼
-              load_extractions_to_db.py  →  PostgreSQL (5 tables)
-                                          │
-                                          ▼
-                          FastAPI  →  http://127.0.0.1:8000/docs
-```
+![Belgian Deed Pipeline architecture](docs/images/architecture.svg)
+
+<sub>
+A risk-first extraction pipeline. <b>run_batch_pdfs.py</b> orchestrates the run; the
+<b>security gate</b> scans every untrusted PDF (structure + prompt injection) and never
+crashes on a crafted file; <b>OCRmyPDF + Tesseract</b> add a text layer to scans;
+<b>PyMuPDF</b> extracts text; <b>Gemini 2.5 Flash</b> returns schema-constrained JSON;
+<b>Pydantic</b> validates it; and the result lands in <b>PostgreSQL</b>, served by <b>FastAPI</b>
+and a read-only <b>AI agent</b> you can ask in plain language.
+<br><br>
+▶ <b><a href="https://htmlpreview.github.io/?https://github.com/Saeidshahriari/belgian-deed-pipeline/blob/main/docs/architecture_animated.html">Interactive animated version</a></b>
+</sub>
 
 **Medallion-style separation.** One PDF is not one company and not one deed.
 A document holds many deeds; a deed holds many company mentions and party roles.
@@ -81,6 +59,7 @@ The schema keeps those layers distinct so downstream queries stay honest.
 - [2. Setup](#2-setup)
 - [Security: scanning untrusted PDFs](#security-scanning-untrusted-pdfs)
 - [API endpoints](#api-endpoints)
+- [AI agent: ask the database in plain language](#ai-agent-ask-the-database-in-plain-language)
 - [3. Conclusion / Retrospective](#3-conclusion--retrospective)
 - [Troubleshooting](#troubleshooting)
 - [References](#references)
@@ -169,6 +148,7 @@ Versions are the ones pinned in `requirements.txt`, `requirements-api.txt`, and
 | Alembic | Database migrations | `1.17.2` |
 | psycopg | PostgreSQL driver | `3.3.2` |
 | FastAPI + Uvicorn | REST API with OpenAPI docs | `0.125.0` / `0.38.0` |
+| MCP (Model Context Protocol) | Read-only AI agent server | `>= 1.0.0` |
 | Docker Compose | PostgreSQL + API stack | v2 |
 
 > Only `.env.example` is committed. Real values live in your local `.env`, which
@@ -179,8 +159,8 @@ Versions are the ones pinned in `requirements.txt`, `requirements-api.txt`, and
 ## Repository layout
 
 ```
-sagora-deeds/
-├── src/sagora_deeds/
+belgian-deed-pipeline/
+├── src/belgian_deed_pipeline/
 │   ├── config.py              # env loading: two paths (extraction vs API)
 │   ├── ocr.py                 # OCRmyPDF wrapper (subprocess, --deskew)
 │   ├── extract.py             # PyMuPDF text + Gemini call (retry, JSON schema)
@@ -194,6 +174,9 @@ sagora-deeds/
 │   └── api/
 │       ├── main.py            # FastAPI endpoints (thin wrapper)
 │       └── schemas.py         # HTTP response models
+├── agent/
+│   ├── sql_guard.py           # read-only SQL guard (whitelist + no writes)
+│   └── deed_mcp_server.py     # MCP server: plain-language Q&A over the data
 ├── scripts/
 │   ├── run_one_pdf.py         # Stage 0 spike
 │   ├── run_three_pdfs.py      # Stage 1 proof
@@ -253,7 +236,7 @@ Open `.env` and set your real key:
 ```env
 GEMINI_API_KEY=your_real_key_here
 GEMINI_MODEL=gemini-2.5-flash
-DATABASE_URL=postgresql+psycopg://sagora:sagora@localhost:5433/sagora_deeds
+DATABASE_URL=postgresql+psycopg://deeds:deeds@localhost:5433/belgian_deed_pipeline
 OCR_LANGUAGES=fra+nld
 ```
 
@@ -344,7 +327,7 @@ Interactive Swagger docs: `http://127.0.0.1:8000/docs`
 ## Security: scanning untrusted PDFs
 
 Deed PDFs come from an external, public source, so they are untrusted input.
-`src/sagora_deeds/security.py` runs a two-part gate inside the pipeline **before**
+`src/belgian_deed_pipeline/security.py` runs a two-part gate inside the pipeline **before**
 the content is trusted. Its stance is **detect and report, never crash**: a single
 crafted PDF must never be able to stop the batch.
 
@@ -412,17 +395,59 @@ notaries are legal intermediaries, not business decision-makers.
 
 ---
 
+## AI agent: ask the database in plain language
+
+The downstream users of this data are analysts at banks and financial
+institutions who do not write SQL. `agent/deed_mcp_server.py` is a small
+**MCP (Model Context Protocol)** server that lets an AI assistant answer questions
+like *"which companies have capital over 100k?"* or *"who are the directors of
+enterprise 0458279072?"* by calling tools instead of guessing.
+
+It exposes five read-only tools:
+
+| Tool | What it returns |
+|------|-----------------|
+| `get_database_stats` | row counts across the four tables |
+| `search_companies` | companies matching a name |
+| `get_company_profile` | deeds/companies/documents for an enterprise number |
+| `get_decision_makers` | founders/directors/signatories, notaries excluded |
+| `run_read_only_sql` | one guarded SELECT for ad-hoc questions |
+
+### Why it is safe
+
+The caller is an LLM, so its SQL is untrusted. Two properties contain that risk:
+
+1. **No second copy of the query logic.** The structured tools reuse the exact
+   functions the CLI and FastAPI use (`db/queries.py`).
+2. **A hard read-only guard.** `agent/sql_guard.py` validates every free-form
+   query: only a single `SELECT`/`WITH` against the whitelisted deed tables runs.
+   Writes, drops, stacked statements, comment bypasses (`SELECT 1 /* */ ; DROP ...`),
+   and system-catalog reads (`pg_shadow`) are all rejected. Unlike a guard that is
+   only checked by hand, this one is covered by `tests/test_sql_guard.py` (14 cases).
+
+Run it:
+
+```bash
+.venv/bin/python agent/deed_mcp_server.py
+```
+
+Then point an MCP client (for example Claude Desktop) at the server to ask
+questions in natural language.
+
+---
+
 ## 3. Conclusion / Retrospective
 
 ### What Was Built
 
 The system processes real PDFs into validated JSON, loads that data into a
-relational PostgreSQL schema, and exposes it through FastAPI. It also scans every
-PDF for malicious structure and prompt injection before extraction.
+relational PostgreSQL schema, and exposes it through FastAPI and a read-only AI
+agent. It also scans every PDF for malicious structure and prompt injection
+before extraction.
 
 ```text
 PDF -> security gate -> OCR/text -> Gemini JSON -> Pydantic -> JSON artifacts
-    -> PostgreSQL -> FastAPI
+    -> PostgreSQL -> FastAPI + read-only MCP agent
 ```
 
 ### What Worked Well

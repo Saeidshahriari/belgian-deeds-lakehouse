@@ -43,9 +43,9 @@ def load_database_url() -> str:
         return database_url
 
     # Compose and local development can also provide discrete POSTGRES_* values.
-    user = os.getenv("POSTGRES_USER", "sagora")
-    password = os.getenv("POSTGRES_PASSWORD", "sagora")
-    db = os.getenv("POSTGRES_DB", "sagora_deeds")
+    user = os.getenv("POSTGRES_USER", "deeds")
+    password = os.getenv("POSTGRES_PASSWORD", "deeds")
+    db = os.getenv("POSTGRES_DB", "belgian_deed_pipeline")
     host = os.getenv("POSTGRES_HOST", "localhost")
     port = os.getenv("POSTGRES_PORT", "5432")
     return f"postgresql+psycopg://{user}:{password}@{host}:{port}/{db}"

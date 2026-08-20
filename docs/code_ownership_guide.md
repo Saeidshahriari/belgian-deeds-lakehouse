@@ -5,30 +5,30 @@ but to explain why every file exists and what risk it controls.
 
 ## Extraction Pipeline
 
-`src/sagora_deeds/config.py`
+`src/belgian_deed_pipeline/config.py`
 
 Loads environment variables. `load_settings()` is for local extraction and
 requires `GEMINI_API_KEY`. `load_database_url()` is separate so the API can start
 without Gemini credentials.
 
-`src/sagora_deeds/ocr.py`
+`src/belgian_deed_pipeline/ocr.py`
 
 Wraps OCRmyPDF. It creates a searchable PDF from scanned input and leaves the
 original PDF untouched.
 
-`src/sagora_deeds/extract.py`
+`src/belgian_deed_pipeline/extract.py`
 
 Uses PyMuPDF for page counts, text-layer detection, and text extraction. It also
 builds the Gemini prompt, calls Gemini with a JSON schema, retries transient API
 errors, and validates the returned JSON.
 
-`src/sagora_deeds/schemas.py`
+`src/belgian_deed_pipeline/schemas.py`
 
 Defines the Pydantic extraction contract. `GeminiExtraction` is what Gemini is
 allowed to return. `DocumentExtraction` is the pipeline-owned artifact that adds
 metadata such as `source_file`, `page_count`, `ocr_used`, and `source_type`.
 
-`src/sagora_deeds/pipeline.py`
+`src/belgian_deed_pipeline/pipeline.py`
 
 Orchestrates one PDF. It decides whether OCR is needed, extracts text, calls
 Gemini, builds a validated `DocumentExtraction`, and writes the OCR/debug JSON
@@ -77,30 +77,30 @@ metadata in older JSON artifacts.
 
 ## Database
 
-`src/sagora_deeds/db/models.py`
+`src/belgian_deed_pipeline/db/models.py`
 
 SQLAlchemy ORM schema. The key design decision is one source document can
 contain multiple deeds, and each deed can contain multiple companies and party
 roles.
 
-`src/sagora_deeds/db/session.py`
+`src/belgian_deed_pipeline/db/session.py`
 
 Centralizes engine/session handling. Scripts can create one-off sessions, while
 FastAPI initializes one singleton engine and reuses its connection pool.
 
-`src/sagora_deeds/db/queries.py`
+`src/belgian_deed_pipeline/db/queries.py`
 
 Shared query layer used by both CLI and API. This avoids duplicating SQL logic
 across interfaces.
 
 ## API
 
-`src/sagora_deeds/api/main.py`
+`src/belgian_deed_pipeline/api/main.py`
 
 FastAPI entrypoint. It exposes health, stats, company lookup, company mentions,
 decision-makers, and company-name search.
 
-`src/sagora_deeds/api/schemas.py`
+`src/belgian_deed_pipeline/api/schemas.py`
 
 Pydantic response models for HTTP output. These are separate from Gemini
 schemas because API responses and LLM extraction contracts serve different

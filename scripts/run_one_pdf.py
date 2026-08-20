@@ -12,8 +12,8 @@ if str(SRC_ROOT) not in sys.path:
     # Allow running the script directly without installing the package first.
     sys.path.insert(0, str(SRC_ROOT))
 
-from sagora_deeds.config import load_settings
-from sagora_deeds.pipeline import process_one_pdf
+from belgian_deed_pipeline.config import load_settings
+from belgian_deed_pipeline.pipeline import process_one_pdf
 
 
 DEFAULT_SAMPLE = Path("data/0500708654/12305887.pdf")

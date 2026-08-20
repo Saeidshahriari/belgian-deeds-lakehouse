@@ -11,16 +11,16 @@ from dataclasses import dataclass
 from pathlib import Path
 import re
 
-from sagora_deeds.config import Settings
-from sagora_deeds.extract import (
+from belgian_deed_pipeline.config import Settings
+from belgian_deed_pipeline.extract import (
     extract_pdf_text,
     extract_structured_data,
     get_page_count,
     has_meaningful_text_layer,
 )
-from sagora_deeds.ocr import run_ocr
-from sagora_deeds.schemas import DocumentExtraction
-from sagora_deeds.security import ScanResult, scan_pdf, scan_text_for_injection
+from belgian_deed_pipeline.ocr import run_ocr
+from belgian_deed_pipeline.schemas import DocumentExtraction
+from belgian_deed_pipeline.security import ScanResult, scan_pdf, scan_text_for_injection
 
 
 @dataclass(slots=True)

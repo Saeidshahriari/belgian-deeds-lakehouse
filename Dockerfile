@@ -19,4 +19,4 @@ COPY src ./src
 EXPOSE 8000
 
 # exec makes uvicorn PID 1 after migrations, so Docker stop signals are graceful.
-CMD ["sh", "-c", "alembic upgrade head && exec uvicorn sagora_deeds.api.main:app --host 0.0.0.0 --port 8000"]
+CMD ["sh", "-c", "alembic upgrade head && exec uvicorn belgian_deed_pipeline.api.main:app --host 0.0.0.0 --port 8000"]

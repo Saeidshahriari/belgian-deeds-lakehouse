@@ -2,16 +2,16 @@ services:
   db:
     image: postgres:16
     environment:
-      POSTGRES_USER: sagora
-      POSTGRES_PASSWORD: sagora
-      POSTGRES_DB: sagora_deeds
+      POSTGRES_USER: deeds
+      POSTGRES_PASSWORD: deeds
+      POSTGRES_DB: belgian_deed_pipeline
     ports:
       - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
       # The API waits for this healthcheck before running migrations.
-      test: ["CMD-SHELL", "pg_isready -U sagora -d sagora_deeds"]
+      test: ["CMD-SHELL", "pg_isready -U deeds -d belgian_deed_pipeline"]
       interval: 5s
       timeout: 5s
       retries: 10
@@ -21,7 +21,7 @@ services:
       context: .
       dockerfile: Dockerfile
     environment:
-      DATABASE_URL: postgresql+psycopg://sagora:sagora@db:5432/sagora_deeds
+      DATABASE_URL: postgresql+psycopg://deeds:deeds@db:5432/belgian_deed_pipeline
     ports:
       - "8000:8000"
     depends_on:

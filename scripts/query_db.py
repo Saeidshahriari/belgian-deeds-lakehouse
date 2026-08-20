@@ -12,19 +12,19 @@ if str(SRC_ROOT) not in sys.path:
     # Allow running this script directly from the project checkout.
     sys.path.insert(0, str(SRC_ROOT))
 
-from sagora_deeds.config import load_database_url
-from sagora_deeds.db.queries import (
+from belgian_deed_pipeline.config import load_database_url
+from belgian_deed_pipeline.db.queries import (
     find_company_mentions_by_enterprise_number,
     get_stats,
     search_companies_by_name,
 )
-from sagora_deeds.db.session import make_session_factory
+from belgian_deed_pipeline.db.session import make_session_factory
 
 
 def parse_args() -> argparse.Namespace:
     """Parse simple lookup options for manual verification."""
 
-    parser = argparse.ArgumentParser(description="Query loaded Sagora deed data.")
+    parser = argparse.ArgumentParser(description="Query loaded deed data.")
     parser.add_argument("--enterprise-number", help="Find companies by enterprise number.")
     parser.add_argument("--company-name", help="Case-insensitive company name search.")
     parser.add_argument("--stats", action="store_true", help="Print row counts.")

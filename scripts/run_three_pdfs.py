@@ -13,8 +13,8 @@ if str(SRC_ROOT) not in sys.path:
     # Allow direct script execution from the repository checkout.
     sys.path.insert(0, str(SRC_ROOT))
 
-from sagora_deeds.config import load_settings
-from sagora_deeds.pipeline import make_artifact_stem, process_pdf
+from belgian_deed_pipeline.config import load_settings
+from belgian_deed_pipeline.pipeline import make_artifact_stem, process_pdf
 
 
 DEFAULT_INPUTS = [

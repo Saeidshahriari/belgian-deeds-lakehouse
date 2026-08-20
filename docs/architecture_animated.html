@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Belgian Deed Pipeline — Animated Architecture</title>
+<style>
+  :root { color-scheme: dark; }
+  body {
+    margin: 0; background: #0d1117; color: #e6edf3;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex; flex-direction: column; align-items: center; padding: 32px 16px;
+  }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  p.sub { color: #8b949e; margin: 0 0 24px; font-size: 13px; }
+  .stage {
+    width: 340px; border-radius: 12px; padding: 14px 16px; margin: 0 auto;
+    background: #161b22; border: 1px solid #30363d; text-align: center;
+    opacity: 0; transform: translateY(12px);
+    animation: rise .6s ease forwards;
+  }
+  .stage .t { font-weight: 600; font-size: 14px; }
+  .stage .d { color: #8b949e; font-size: 11px; margin-top: 3px; }
+  .arrow {
+    width: 2px; height: 26px; margin: 0 auto; position: relative; overflow: hidden;
+    background: #30363d;
+  }
+  .arrow::after {
+    content: ""; position: absolute; left: -1px; width: 4px; height: 10px;
+    background: #58a6ff; border-radius: 2px;
+    animation: flow 1.6s linear infinite;
+  }
+  .security { border-color: #f85149; background: linear-gradient(135deg,#3d1d1d,#5b1e1e); width: 460px; }
+  .security .t { color: #ffd7d5; }
+  .security .row { display: flex; gap: 10px; margin-top: 10px; }
+  .security .cell {
+    flex: 1; background: #0d1117; border: 1px solid #f85149; border-radius: 8px;
+    padding: 8px; font-size: 11px;
+  }
+  .security .cell b { color: #ffa198; display: block; margin-bottom: 2px; }
+  .gemini { border-color: #8e75b2; background: #1c1533; width: 440px; }
+  .gemini .t { color: #d2c4f2; }
+  .pydantic { border-color: #e92063; }
+  .postgres { border-color: #4169e1; }
+  .fastapi { border-color: #009688; }
+  .stage:nth-child(1){animation-delay:.0s}
+  .stage:nth-child(3){animation-delay:.3s}
+  .stage:nth-child(5){animation-delay:.6s}
+  .stage:nth-child(7){animation-delay:.9s}
+  .stage:nth-child(9){animation-delay:1.2s}
+  .stage:nth-child(11){animation-delay:1.5s}
+  .stage:nth-child(13){animation-delay:1.8s}
+  @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+  @keyframes flow { from { top: -10px; } to { top: 26px; } }
+  .note { color:#8b949e; font-size:12px; margin-top:28px; max-width:520px; text-align:center; }
+</style>
+</head>
+<body>
+  <h1>Belgian Deed Pipeline — Extraction Pipeline</h1>
+  <p class="sub">risk-first · detect and report, never crash</p>
+
+  <div class="stage"><div class="t">scripts/run_batch_pdfs.py</div><div class="d">orchestrates the run</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage security">
+    <div class="t">SECURITY GATE — security.py</div>
+    <div class="row">
+      <div class="cell"><b>1 · PDF structure scan</b>JavaScript · Launch · EmbeddedFile (pikepdf)</div>
+      <div class="cell"><b>2 · prompt-injection scan</b>on the extracted text before the LLM</div>
+    </div>
+  </div>
+  <div class="arrow"></div>
+
+  <div class="stage"><div class="t">OCR decision → OCRmyPDF + Tesseract</div><div class="d">scans get a text layer (fra+nld); searchable PDFs skip OCR</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage"><div class="t">PyMuPDF text extraction</div><div class="d">one engine for detection and extraction</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage gemini"><div class="t">Gemini 2.5 Flash</div><div class="d">JSON schema · temperature 0 · tenacity retry</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage pydantic"><div class="t">Pydantic validation</div><div class="d">outputs/extractions/*.json</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage postgres"><div class="t">PostgreSQL</div><div class="d">5 tables · JSONB · indexes</div></div>
+  <div class="arrow"></div>
+
+  <div class="stage gemini"><div class="t">FastAPI  +  read-only AI agent (MCP)</div><div class="d">Swagger at /docs · plain-language Q&amp;A over the same queries</div></div>
+
+  <p class="note">One document holds many deeds; a deed holds many company mentions
+  and party roles. The schema keeps those layers distinct so downstream queries stay honest.</p>
+</body>
+</html>

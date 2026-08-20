@@ -1,6 +1,6 @@
 """FastAPI application exposing the loaded deed database.
 
-The API intentionally stays thin: all SQL lives in sagora_deeds.db.queries so
+The API intentionally stays thin: all SQL lives in belgian_deed_pipeline.db.queries so
 the command-line tools and HTTP endpoints use the same business logic.
 """
 
@@ -12,21 +12,21 @@ from contextlib import asynccontextmanager
 from fastapi import Depends, FastAPI, HTTPException, Query
 from sqlalchemy.orm import Session
 
-from sagora_deeds.api.schemas import (
+from belgian_deed_pipeline.api.schemas import (
     CompanyProfileResponse,
     CompanySearchResult,
     DecisionMakerResponse,
     StatsResponse,
 )
-from sagora_deeds.config import load_database_url
-from sagora_deeds.db.queries import (
+from belgian_deed_pipeline.config import load_database_url
+from belgian_deed_pipeline.db.queries import (
     find_company_mentions_by_enterprise_number,
     get_company_profile,
     get_decision_makers,
     get_stats,
     search_companies_by_name,
 )
-from sagora_deeds.db.session import dispose_engine, get_session, init_engine
+from belgian_deed_pipeline.db.session import dispose_engine, get_session, init_engine
 
 
 @asynccontextmanager
@@ -39,7 +39,7 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
 
 
 app = FastAPI(
-    title="Sagora Deeds API",
+    title="Belgian Deed Pipeline API",
     version="0.1.0",
     lifespan=lifespan,
 )

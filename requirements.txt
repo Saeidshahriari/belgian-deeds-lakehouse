@@ -51,3 +51,4 @@ urllib3==2.7.0
 uvicorn==0.38.0
 websockets==16.0
 wrapt==2.1.2
+mcp>=1.0.0

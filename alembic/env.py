@@ -20,8 +20,8 @@ if str(SRC_ROOT) not in sys.path:
     # Make src/ importable when Alembic runs from the repository root.
     sys.path.insert(0, str(SRC_ROOT))
 
-from sagora_deeds.config import load_database_url
-from sagora_deeds.db.models import Base
+from belgian_deed_pipeline.config import load_database_url
+from belgian_deed_pipeline.db.models import Base
 
 
 config = context.config

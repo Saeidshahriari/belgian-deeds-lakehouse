@@ -1,7 +1,7 @@
 """Convenience exports for database models and session helpers."""
 
-from sagora_deeds.db.models import Base
-from sagora_deeds.db.session import (
+from belgian_deed_pipeline.db.models import Base
+from belgian_deed_pipeline.db.session import (
     dispose_engine,
     get_session,
     get_session_factory,

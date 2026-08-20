@@ -17,10 +17,10 @@ if str(SRC_ROOT) not in sys.path:
 
 from sqlalchemy import select
 
-from sagora_deeds.config import load_database_url
-from sagora_deeds.db.models import Company, Deed, Document, ExtractionRun, PartyRole
-from sagora_deeds.db.session import make_session_factory
-from sagora_deeds.schemas import DocumentExtraction
+from belgian_deed_pipeline.config import load_database_url
+from belgian_deed_pipeline.db.models import Company, Deed, Document, ExtractionRun, PartyRole
+from belgian_deed_pipeline.db.session import make_session_factory
+from belgian_deed_pipeline.schemas import DocumentExtraction
 
 
 PROMPT_VERSION = "stage5-gemini-extraction-v1"

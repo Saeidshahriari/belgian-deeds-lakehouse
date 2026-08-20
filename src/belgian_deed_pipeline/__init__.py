@@ -1,4 +1,4 @@
-"""Sagora deeds package.
+"""Belgian deed pipeline package.
 
 The package does not import pipeline modules here on purpose. Keeping package
 import side effects empty lets the lightweight API Docker image start without

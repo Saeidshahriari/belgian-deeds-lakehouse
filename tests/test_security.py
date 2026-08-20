@@ -6,7 +6,7 @@ and the "never crash" contract on unreadable input.
 
 from pathlib import Path
 
-from sagora_deeds.security import (
+from belgian_deed_pipeline.security import (
     ScanResult,
     scan_pdf_structure,
     scan_text_for_injection,

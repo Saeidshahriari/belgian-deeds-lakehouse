@@ -14,7 +14,7 @@ from google.genai import errors
 from google.genai import types
 from tenacity import retry, retry_if_exception, stop_after_attempt, wait_exponential
 
-from sagora_deeds.schemas import GeminiExtraction
+from belgian_deed_pipeline.schemas import GeminiExtraction
 
 
 def get_page_count(pdf_path: Path) -> int:

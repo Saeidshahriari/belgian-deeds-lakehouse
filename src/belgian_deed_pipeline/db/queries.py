@@ -8,7 +8,7 @@ from typing import NamedTuple
 from sqlalchemy import func, or_, select
 from sqlalchemy.orm import Session, selectinload
 
-from sagora_deeds.db.models import Company, Deed, Document, PartyRole
+from belgian_deed_pipeline.db.models import Company, Deed, Document, PartyRole
 
 
 class CompanySearchRow(NamedTuple):

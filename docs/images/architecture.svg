@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="sec" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3d1d1d"/>
+      <stop offset="1" stop-color="#5b1e1e"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#8b949e"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="720" fill="url(#bg)"/>
+  <text x="480" y="42" fill="#e6edf3" font-size="24" font-weight="700" text-anchor="middle">Belgian Deed Pipeline — Extraction Pipeline</text>
+  <text x="480" y="66" fill="#8b949e" font-size="13" text-anchor="middle">risk-first · detect and report, never crash</text>
+
+  <!-- Orchestrator -->
+  <g>
+    <rect x="330" y="92" width="300" height="52" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="480" y="118" fill="#e6edf3" font-size="14" font-weight="600" text-anchor="middle">scripts/run_batch_pdfs.py</text>
+    <text x="480" y="135" fill="#8b949e" font-size="11" text-anchor="middle">orchestrates the run</text>
+  </g>
+  <line x1="480" y1="144" x2="480" y2="176" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Security gate (highlighted) -->
+  <g>
+    <rect x="270" y="178" width="420" height="96" rx="12" fill="url(#sec)" stroke="#f85149" stroke-width="2"/>
+    <text x="480" y="202" fill="#ffd7d5" font-size="14" font-weight="700" text-anchor="middle">SECURITY GATE — security.py</text>
+    <rect x="288" y="214" width="188" height="48" rx="8" fill="#0d1117" stroke="#f85149" opacity="0.85"/>
+    <text x="382" y="233" fill="#ffa198" font-size="11.5" font-weight="600" text-anchor="middle">1 · PDF structure scan</text>
+    <text x="382" y="250" fill="#8b949e" font-size="10.5" text-anchor="middle">JavaScript · Launch · EmbeddedFile</text>
+    <rect x="484" y="214" width="188" height="48" rx="8" fill="#0d1117" stroke="#f85149" opacity="0.85"/>
+    <text x="578" y="233" fill="#ffa198" font-size="11.5" font-weight="600" text-anchor="middle">2 · prompt-injection scan</text>
+    <text x="578" y="250" fill="#8b949e" font-size="10.5" text-anchor="middle">on extracted text</text>
+  </g>
+  <line x1="480" y1="274" x2="480" y2="306" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- OCR decision -->
+  <g>
+    <polygon points="480,308 604,352 480,396 356,352" fill="#161b22" stroke="#30363d"/>
+    <text x="480" y="348" fill="#e6edf3" font-size="12.5" font-weight="600" text-anchor="middle">has text layer?</text>
+    <text x="480" y="366" fill="#8b949e" font-size="10.5" text-anchor="middle">PyMuPDF, first 3 pages</text>
+  </g>
+
+  <!-- OCR branch (no) -->
+  <line x1="604" y1="352" x2="742" y2="352" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="662" y="343" fill="#f0883e" font-size="11" font-weight="600" text-anchor="middle">no · scan</text>
+  <g>
+    <rect x="742" y="326" width="196" height="52" rx="10" fill="#161b22" stroke="#f0883e"/>
+    <text x="840" y="349" fill="#e6edf3" font-size="12.5" font-weight="600" text-anchor="middle">OCRmyPDF + Tesseract</text>
+    <text x="840" y="366" fill="#8b949e" font-size="10.5" text-anchor="middle">adds a text layer (fra+nld)</text>
+  </g>
+  <path d="M840,378 L840,414 L500,414" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- yes path -->
+  <line x1="480" y1="396" x2="480" y2="430" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="498" y="416" fill="#3fb950" font-size="11" font-weight="600" text-anchor="start">yes</text>
+
+  <!-- PyMuPDF extraction -->
+  <g>
+    <rect x="330" y="432" width="300" height="48" rx="10" fill="#161b22" stroke="#30363d"/>
+    <text x="480" y="461" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">PyMuPDF text extraction</text>
+  </g>
+  <line x1="480" y1="480" x2="480" y2="510" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Gemini -->
+  <g>
+    <rect x="318" y="512" width="324" height="52" rx="10" fill="#1c1533" stroke="#8e75b2"/>
+    <text x="480" y="535" fill="#d2c4f2" font-size="13" font-weight="600" text-anchor="middle">Gemini 2.5 Flash</text>
+    <text x="480" y="552" fill="#8b949e" font-size="10.5" text-anchor="middle">JSON schema · temperature 0 · tenacity retry</text>
+  </g>
+  <line x1="480" y1="564" x2="480" y2="594" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Pydantic -->
+  <g>
+    <rect x="330" y="596" width="300" height="48" rx="10" fill="#161b22" stroke="#e92063"/>
+    <text x="480" y="618" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Pydantic validation</text>
+    <text x="480" y="634" fill="#8b949e" font-size="10.5" text-anchor="middle">outputs/extractions/*.json</text>
+  </g>
+
+  <!-- Persistence + API on the right rail -->
+  <path d="M630,620 L720,620 L720,540" fill="none" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <g>
+    <rect x="742" y="500" width="196" height="52" rx="10" fill="#101a2e" stroke="#4169e1"/>
+    <text x="840" y="523" fill="#cfe0ff" font-size="12.5" font-weight="600" text-anchor="middle">PostgreSQL</text>
+    <text x="840" y="540" fill="#8b949e" font-size="10.5" text-anchor="middle">5 tables · JSONB · indexes</text>
+  </g>
+  <line x1="840" y1="500" x2="840" y2="470" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <g>
+    <rect x="742" y="418" width="196" height="52" rx="10" fill="#08201c" stroke="#009688"/>
+    <text x="840" y="441" fill="#b9f0e6" font-size="12.5" font-weight="600" text-anchor="middle">FastAPI</text>
+    <text x="840" y="458" fill="#8b949e" font-size="10.5" text-anchor="middle">/docs · Swagger UI</text>
+  </g>
+  <line x1="840" y1="552" x2="840" y2="582" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+  <g>
+    <rect x="742" y="584" width="196" height="52" rx="10" fill="#181233" stroke="#8e75b2"/>
+    <text x="840" y="607" fill="#d2c4f2" font-size="12.5" font-weight="600" text-anchor="middle">AI Agent (MCP)</text>
+    <text x="840" y="624" fill="#8b949e" font-size="10.5" text-anchor="middle">read-only · plain-language Q&amp;A</text>
+  </g>
+
+  <!-- flowing pulse along the spine -->
+  <circle r="4" fill="#58a6ff">
+    <animateMotion dur="4s" repeatCount="indefinite"
+      path="M480,144 L480,178 M480,274 L480,308 M480,396 L480,432 L480,512 L480,596"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

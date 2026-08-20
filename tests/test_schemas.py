@@ -2,7 +2,7 @@
 
 from pydantic import ValidationError
 
-from sagora_deeds.schemas import DocumentExtraction, GeminiExtraction
+from belgian_deed_pipeline.schemas import DocumentExtraction, GeminiExtraction
 
 
 def test_document_extraction_accepts_nested_payload() -> None:
