@@ -3,7 +3,7 @@ name = "sagora-deeds"
 version = "0.1.0"
 description = "Belgian incorporation deed extraction pipeline for Sagora Analytics challenge"
 requires-python = ">=3.10"
-authors = [{ name = "Saeid" }]
+authors = [{ name = "Saeid Shahriari", email = "shahriari.saeid@gmail.com" }]
 
 [build-system]
 requires = ["setuptools>=68", "wheel"]
