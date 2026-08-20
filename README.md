@@ -41,7 +41,7 @@ crashes on a crafted file; <b>OCRmyPDF + Tesseract</b> add a text layer to scans
 <b>Pydantic</b> validates it; and the result lands in <b>PostgreSQL</b>, served by <b>FastAPI</b>
 and a read-only <b>AI agent</b> you can ask in plain language.
 <br><br>
-▶ <b><a href="https://htmlpreview.github.io/?https://github.com/Saeidshahriari/belgian-deed-pipeline/blob/main/docs/architecture_animated.html">Interactive animated version</a></b>
+▶ <b><a href="https://htmlpreview.github.io/?https://github.com/Saeidshahriari/belgian-deeds-lakehouse/blob/main/docs/architecture_animated.html">Interactive animated version</a></b>
 </sub>
 
 **Medallion-style separation.** One PDF is not one company and not one deed.
