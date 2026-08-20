@@ -20,6 +20,7 @@ from sagora_deeds.extract import (
 )
 from sagora_deeds.ocr import run_ocr
 from sagora_deeds.schemas import DocumentExtraction
+from sagora_deeds.security import ScanResult, scan_pdf, scan_text_for_injection
 
 
 @dataclass(slots=True)
@@ -33,6 +34,7 @@ class ProcessedPdfArtifacts:
     ocr_used: bool
     raw_gemini_json: str
     validated_document: DocumentExtraction
+    scan_result: ScanResult
 
 
 def make_artifact_stem(input_pdf: Path) -> str:
@@ -67,6 +69,10 @@ def process_pdf(
     input_pdf = input_pdf.resolve()
     page_count = get_page_count(input_pdf)
 
+    # Security gate: inspect the raw PDF structure before trusting the file.
+    # This runs first so active content is flagged even if later steps fail.
+    scan_result = scan_pdf(input_pdf)
+
     ocr_text_path.parent.mkdir(parents=True, exist_ok=True)
     gemini_json_path.parent.mkdir(parents=True, exist_ok=True)
     if processed_pdf_path is not None:
@@ -88,6 +94,10 @@ def process_pdf(
 
     ocr_text = extract_pdf_text(text_source)
     ocr_text_path.write_text(ocr_text, encoding="utf-8")
+
+    # Second security gate: scan the extracted text for prompt-injection payloads
+    # before it is sent to Gemini. The text only exists after OCR, so this runs here.
+    scan_result.findings.extend(scan_text_for_injection(ocr_text))
 
     # Gemini only returns extracted deed data; pipeline-owned metadata is added below.
     raw_json, gemini_extraction = extract_structured_data(
@@ -121,6 +131,7 @@ def process_pdf(
         ocr_used=ocr_used,
         raw_gemini_json=raw_json,
         validated_document=validated_document,
+        scan_result=scan_result,
     )
 
 
